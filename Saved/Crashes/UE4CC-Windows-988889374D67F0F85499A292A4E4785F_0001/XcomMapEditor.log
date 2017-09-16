@@ -1,0 +1,465 @@
+﻿Log file open, 09/15/17 19:57:37
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: XcomMapEditor
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-873798715) SRandInit(-873798715).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.198515
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.15-10.57.39:393][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.15-10.57.39:393][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.15-10.57.39:464][  0]LogInit: Computer: DESKTOP-9TH7LOT
+[2017.09.15-10.57.39:464][  0]LogInit: User: huozi
+[2017.09.15-10.57.39:464][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.09.15-10.57.39:464][  0]LogInit: High frequency timer resolution =2.648441 MHz
+[2017.09.15-10.57.39:464][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.09.15-10.57.39:464][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.15-10.57.39:464][  0]LogMemory: Process Physical Memory: 283.75 MB used, 283.75 MB peak
+[2017.09.15-10.57.39:464][  0]LogMemory: Process Virtual Memory: 283.53 MB used, 283.53 MB peak
+[2017.09.15-10.57.39:464][  0]LogMemory: Physical Memory: 3256.65 MB used,  4886.63 MB free, 8143.29 MB total
+[2017.09.15-10.57.39:464][  0]LogMemory: Virtual Memory: 704.39 MB used,  4886.63 MB free, 134217728.00 MB total
+[2017.09.15-10.57.40:197][  0]LogInit: Using OS detected language (en-US).
+[2017.09.15-10.57.40:197][  0]LogInit: Using OS detected locale (en-US).
+[2017.09.15-10.57.40:453][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.09.15-10.57.45:084][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.15-10.57.45:138][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2017.09.15-10.57.45:138][  0]LogD3D11RHI:       4050/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.09.15-10.57.45:140][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.09.15-10.57.45:140][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.09.15-10.57.45:140][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.15-10.57.45:160][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.15-10.57.45:161][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2017.09.15-10.57.45:161][  0]LogWindows: EnumDisplayDevices:
+[2017.09.15-10.57.45:161][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2017.09.15-10.57.45:162][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2017.09.15-10.57.45:162][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2017.09.15-10.57.45:163][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2017.09.15-10.57.45:163][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.09.15-10.57.45:163][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2017.09.15-10.57.45:163][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2017.09.15-10.57.45:163][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2017.09.15-10.57.45:163][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.15-10.57.45:247][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.15-10.57.45:487][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 0)
+[2017.09.15-10.57.45:648][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Intermediate/Shaders/WorkingDirectory/12056/).
+[2017.09.15-10.57.45:648][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/huozi/AppData/Local/Temp/UnrealShaderWorkingDir/6A4AF70A4FED3C82FA660F9C885721F3/'.
+[2017.09.15-10.57.45:648][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.15-10.57.49:367][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.15-10.57.49:435][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.15-10.57.49:503][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.15-10.57.49:570][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.15-10.57.49:649][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.15-10.57.49:715][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.15-10.57.49:783][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.15-10.57.49:849][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.15-10.57.49:920][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.15-10.57.50:001][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.15-10.57.50:068][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.15-10.57.50:136][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.15-10.57.50:200][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.15-10.57.50:266][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.15-10.57.50:342][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.15-10.57.50:477][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.15-10.57.50:477][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.15-10.57.50:530][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.15-10.57.50:694][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.15-10.57.50:736][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.15-10.57.50:801][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.15-10.57.50:871][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.15-10.57.50:940][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.15-10.57.51:045][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.15-10.57.51:045][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.15-10.57.52:124][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.15-10.57.52:864][  0]LogDerivedDataCache: Loaded boot cache 0.74s 93MB C:/Users/huozi/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.15-10.57.52:864][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/huozi/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.15-10.57.52:864][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.15-10.57.52:864][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.15-10.57.52:864][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.15-10.57.52:864][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.15-10.57.52:926][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.15-10.57.52:957][  0]LogDerivedDataCache: Using Local data cache path C:/Users/huozi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.15-10.57.52:995][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.15-10.57.53:034][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.15-10.57.53:166][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.15-10.57.53:166][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.15-10.57.59:623][  0]LogAssetRegistry: FAssetRegistry took 0.0470 seconds to start up
+[2017.09.15-10.58.00:440][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.15-10.58.04:117][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.15-10.58.05:661][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.15-10.58.05:815][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.15-10.58.05:815][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.15-10.58.05:815][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.15-10.58.05:815][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.15-10.58.05:815][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.15-10.58.09:736][  0]LogNetVersion: XcomMapEditor , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 332790306)
+[2017.09.15-10.58.11:186][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.050525 seconds
+[2017.09.15-10.58.11:207][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.09.15-10.58.11:207][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.09.15-10.58.11:207][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.15-10.58.11:329][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.15-10.58.48:436][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.15-10.58.48:505][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.15-10.58.50:398][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.15-10.58.51:348][  0]SourceControl: Source control is disabled
+[2017.09.15-10.58.51:348][  0]SourceControl: Source control is disabled
+[2017.09.15-10.58.51:457][  0]SourceControl: Source control is disabled
+[2017.09.15-10.58.51:529][  0]SourceControl: Source control is disabled
+[2017.09.15-10.58.52:880][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.15-10.58.53:248][  0]LogOcInput: OculusInput pre-init called
+[2017.09.15-10.58.53:971][  0]LogEngine: Initializing Engine...
+[2017.09.15-10.58.54:025][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.15-10.58.54:401][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.15-10.58.54:401][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.15-10.58.54:704][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.15-10.58.54:789][  0]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.15-10.58.54:828][  0]LogInit: FAudioDevice initialized.
+[2017.09.15-10.58.54:995][  0]LogDerivedDataCache: Saved boot cache 0.17s 93MB C:/Users/huozi/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.15-10.58.55:024][  0]LogInit: Texture streaming: Enabled
+[2017.09.15-10.58.55:303][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.15-10.58.55:984][  0]LogInit: Transaction tracking system initialized
+[2017.09.15-10.58.57:089][  0]BlueprintLog: New page: Editor Load
+[2017.09.15-10.58.59:270][  0]LocalizationService: Localization service is disabled
+[2017.09.15-10.59.00:701][  0]LogConsoleResponse: Display: 
+[2017.09.15-10.59.02:253][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/' took 0.02s
+[2017.09.15-10.59.02:253][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.15-10.59.02:254][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.15-10.59.02:257][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.15-10.59.05:566][  0]SourceControl: Source control is disabled
+[2017.09.15-10.59.05:592][  0]Cmd: MAP LOAD FILE="../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Maps/EditMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.15-10.59.05:594][  0]LightingResults: New page: Lighting Build
+[2017.09.15-10.59.05:678][  0]MapCheck: New page: Map Check
+[2017.09.15-10.59.05:678][  0]LightingResults: New page: Lighting Build
+[2017.09.15-10.59.06:265][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2017.09.15-10.59.06:265][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.09.15-10.59.06:265][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.09.15-10.59.06:265][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2017.09.15-10.59.06:265][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 64X64)
+[2017.09.15-10.59.06:450][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2017.09.15-10.59.06:450][  0]LogTexture: Display: Building textures: unTitled (BGRA8, 10X10)
+[2017.09.15-10.59.06:450][  0]LogMaterial: Missing cached shader map for material lineMat, compiling. 
+[2017.09.15-10.59.06:554][  0]LogAIModule: Creating AISystem for world EditMap
+[2017.09.15-10.59.06:767][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.15-10.59.06:867][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.15-10.59.07:106][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 239.354ms to complete.
+[2017.09.15-10.59.07:106][  0]LogFileHelpers: Loading map 'EditMap' took 1.518
+[2017.09.15-10.59.08:221][  0]LogCollectionManager: Loaded 0 collections in 0.002366 seconds
+[2017.09.15-10.59.08:353][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/Collections/' took 0.01s
+[2017.09.15-10.59.08:353][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Developers/huozi/Collections/' took 0.01s
+[2017.09.15-10.59.08:353][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Collections/' took 0.01s
+[2017.09.15-10.59.08:353][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.09.15-10.59.08:370][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2386 classes and 500 folders.
+[2017.09.15-10.59.08:486][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.09.15-10.59.10:058][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0019 seconds. Added 0 classes and 0 folders.
+[2017.09.15-10.59.10:193][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.09.15-10.59.10:305][  0]LogSlate: Took 0.027136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.15-10.59.10:329][  0]LogSlate: Took 0.021230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.15-10.59.10:366][  0]LogSlate: Took 0.019911 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.15-10.59.10:685][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.09.15-10.59.11:044][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0020 seconds. Added 1 classes and 2 folders.
+[2017.09.15-10.59.11:045][  0]LogLoad: (Engine Initialization) Total time: 97.32 seconds
+[2017.09.15-10.59.11:045][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.15-10.59.11:057][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.09.15-10.59.11:058][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.09.15-10.59.11:480][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.09.15-10.59.11:644][  0]LogSlate: Took 0.040668 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.15-10.59.12:410][  3]LogAssetRegistry: Asset discovery search completed in 72.8098 seconds
+[2017.09.15-10.59.12:414][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.09.15-10.59.12:414][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
+[2017.09.15-11.07.01:277][148]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.15-11.07.01:351][148]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.15-11.07.01:351][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.15-11.07.01:381][148]PIE: New page: PIE session: EditMap (Sep 16, 2017, 5:07:01 AM)
+[2017.09.15-11.07.01:381][148]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EditMap
+[2017.09.15-11.07.01:387][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006300s)
+[2017.09.15-11.07.01:389][148]LogAIModule: Creating AISystem for world EditMap
+[2017.09.15-11.07.01:389][148]LogPlayLevel: PIE: World Init took: (0.001579s)
+[2017.09.15-11.07.01:389][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EditMap.EditMap to /Game/Maps/UEDPIE_0_EditMap.EditMap (0.008345s)
+[2017.09.15-11.07.01:417][148]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.15-11.07.01:433][148]LogInit: FAudioDevice initialized.
+[2017.09.15-11.07.01:492][148]LogLinker: Warning: Can't find file '/Game/GameSetting/MapEditorMode'
+[2017.09.15-11.07.01:492][148]LogLinker: Warning: Can't find file '/Game/GameSetting/MapEditorMode'
+[2017.09.15-11.07.01:493][148]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/GameSetting/MapEditorMode.MapEditorMode_C'
+[2017.09.15-11.07.01:493][148]LogLoad: Game class is 'GameModeBase'
+[2017.09.15-11.07.01:495][148]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EditMap.EditMap up for play (max tick rate 0) at 2017.09.15-20.07.01
+[2017.09.15-11.07.01:505][148]LogWorld: Bringing up level for play took: 0.010426
+[2017.09.15-11.07.01:576][148]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.09.15-11.07.01:759][148]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_EditMap 1.336
+[2017.09.15-11.07.01:759][148]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.15-11.07.32:735][232]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.09.15-11.07.38:357][287]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.15-11.07.38:470][287]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.15-11.07.58:504][638]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.15-11.07.58:974][638]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 113 classes and 0 folders.
+[2017.09.15-11.08.00:155][638]LogSlate: Took 0.018948 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.09.15-11.08.00:648][639]LogSlate: Took 0.014163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.09.15-11.08.02:187][753]LogSlate: Took 0.038097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.09.15-11.08.23:777][759]BlueprintLog: New page: Compile MapSetting
+[2017.09.15-11.08.24:457][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WorldSetting/MapSetting" FILE="../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/WorldSetting/MapSetting.uasset" SILENT=true
+[2017.09.15-11.08.24:547][802]LogSavePackage: Save=59.78ms
+[2017.09.15-11.08.24:547][802]LogSavePackage: Moving '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/MapSettingD8A183C148B64DFCF585ACA88DC9AEC3.tmp' to '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/WorldSetting/MapSetting.uasset'
+[2017.09.15-11.08.24:550][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/WorldSetting/MapSetting.uasset
+[2017.09.15-11.08.27:402][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.15-11.08.27:430][ 71]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.15-11.08.27:431][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.15-11.08.27:431][ 71]PIE: New page: PIE session: EditMap (Sep 16, 2017, 5:08:27 AM)
+[2017.09.15-11.08.27:431][ 71]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EditMap
+[2017.09.15-11.08.27:434][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003529s)
+[2017.09.15-11.08.27:435][ 71]LogAIModule: Creating AISystem for world EditMap
+[2017.09.15-11.08.27:435][ 71]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2017.09.15-11.08.27:435][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EditMap.EditMap to /Game/Maps/UEDPIE_0_EditMap.EditMap (0.004440s)
+[2017.09.15-11.08.27:460][ 71]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.15-11.08.27:473][ 71]LogInit: FAudioDevice initialized.
+[2017.09.15-11.08.27:507][ 71]LogLoad: Game class is 'GameModeBase'
+[2017.09.15-11.08.27:509][ 71]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EditMap.EditMap up for play (max tick rate 0) at 2017.09.15-20.08.27
+[2017.09.15-11.08.27:509][ 71]LogWorld: Bringing up level for play took: 0.000880
+[2017.09.15-11.08.27:523][ 71]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_EditMap -0.901
+[2017.09.15-11.08.27:523][ 71]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.15-11.08.57:530][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.09.15-11.09.00:529][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.09.15-11.09.01:911][382]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_EditMap.EditMap:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.15-11.09.01:911][382]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_EditMap.EditMap:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.15-11.09.02:020][385]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_EditMap.EditMap:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.15-11.09.02:020][385]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_EditMap.EditMap:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.15-11.09.02:095][387]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_EditMap.EditMap:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.15-11.09.02:096][387]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_EditMap.EditMap:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.15-11.09.02:131][388]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_EditMap.EditMap:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.15-11.09.02:131][388]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_EditMap.EditMap:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.15-11.09.02:168][389]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_EditMap.EditMap:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.15-11.09.02:168][389]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_EditMap.EditMap:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.15-11.09.02:204][390]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_EditMap.EditMap:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.15-11.09.02:204][390]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_EditMap.EditMap:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.15-11.09.02:275][392]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_EditMap.EditMap:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.15-11.09.02:275][392]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_EditMap.EditMap:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.15-11.09.03:275][424]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.09.15-11.09.03:966][448]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.09.15-11.09.23:793][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.09.15-11.11.01:332][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.09.15-11.11.03:861][338]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.15-11.11.03:929][338]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.15-11.11.11:766][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.09.15-11.11.26:120][962]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.15-11.11.26:138][962]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.15-11.11.26:138][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.15-11.11.26:138][962]PIE: New page: PIE session: EditMap (Sep 16, 2017, 5:11:26 AM)
+[2017.09.15-11.11.26:138][962]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EditMap
+[2017.09.15-11.11.26:141][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003012s)
+[2017.09.15-11.11.26:142][962]LogAIModule: Creating AISystem for world EditMap
+[2017.09.15-11.11.26:142][962]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2017.09.15-11.11.26:142][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EditMap.EditMap to /Game/Maps/UEDPIE_0_EditMap.EditMap (0.004020s)
+[2017.09.15-11.11.26:168][962]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.15-11.11.26:181][962]LogInit: FAudioDevice initialized.
+[2017.09.15-11.11.26:212][962]LogLoad: Game class is 'GameModeBase'
+[2017.09.15-11.11.26:214][962]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EditMap.EditMap up for play (max tick rate 0) at 2017.09.15-20.11.26
+[2017.09.15-11.11.26:214][962]LogWorld: Bringing up level for play took: 0.000962
+[2017.09.15-11.11.26:229][962]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_EditMap -0.194
+[2017.09.15-11.11.26:229][962]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.15-11.11.58:985][863]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_EditMap.EditMap:PersistentLevel.LightSource : LightComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.15-11.12.23:154][386]LogEditorViewport: Clicking on Actor (LMB): LineBP_C (LineBP90)
+[2017.09.15-11.12.24:135][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.09.15-11.12.24:692][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.09.15-11.12.25:103][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.09.15-11.12.25:570][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.09.15-11.13.58:972][929]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.15-11.13.59:012][929]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.15-11.16.13:675][443]LogEditor: Attempting to add actor of class 'SplineMeshActor' to level at 5290.00,14250.00,18990.00
+[2017.09.15-11.16.13:825][457]LogEditor: Attempting to add actor of class 'SplineMeshActor' to level at 30680.00,13220.00,0.00
+[2017.09.15-11.16.28:034][142]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.09.15-11.16.28:984][253]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.09.15-11.17.18:769][891]LogSlate: Took 0.000577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.15-11.17.28:080][918]LogSavePackage: Save=192.01ms
+[2017.09.15-11.17.28:080][918]LogSavePackage: Moving '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/EditMap_Auto154CB45784C3AD8EF52734E9B6591259C.tmp' to '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/Maps/EditMap_Auto1.umap'
+[2017.09.15-11.17.28:082][918]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/Maps/EditMap_Auto1.umap
+[2017.09.15-11.17.28:086][918]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/EditMap' took 0.251
+[2017.09.15-11.17.28:086][918]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.251
+[2017.09.15-11.20.09:277][133]Cmd: DELETE
+[2017.09.15-11.20.09:277][133]Cmd: ACTOR DELETE
+[2017.09.15-11.20.09:431][133]LogEditorActor: Deleted Actor: SplineMeshActor
+[2017.09.15-11.20.09:481][133]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2017.09.15-11.20.10:978][309]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.09.15-11.27.21:289][129]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.15-11.27.21:319][129]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.15-11.27.21:319][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.15-11.27.21:319][129]PIE: New page: PIE session: EditMap (Sep 16, 2017, 5:27:21 AM)
+[2017.09.15-11.27.21:319][129]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EditMap
+[2017.09.15-11.27.21:322][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003286s)
+[2017.09.15-11.27.21:323][129]LogAIModule: Creating AISystem for world EditMap
+[2017.09.15-11.27.21:323][129]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2017.09.15-11.27.21:324][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EditMap.EditMap to /Game/Maps/UEDPIE_0_EditMap.EditMap (0.004594s)
+[2017.09.15-11.27.21:352][129]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.15-11.27.21:366][129]LogInit: FAudioDevice initialized.
+[2017.09.15-11.27.21:399][129]LogLoad: Game class is 'GameModeBase'
+[2017.09.15-11.27.21:401][129]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EditMap.EditMap up for play (max tick rate 0) at 2017.09.15-20.27.21
+[2017.09.15-11.27.21:401][129]LogWorld: Bringing up level for play took: 0.001071
+[2017.09.15-11.27.21:416][129]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_EditMap 0.992
+[2017.09.15-11.27.21:416][129]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.15-11.27.47:246][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.09.15-11.36.26:981][766]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.09.15-11.36.28:417][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.09.15-11.36.30:357][898]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.09.15-11.36.32:659][987]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.09.15-11.36.34:908][ 57]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.09.15-11.36.36:435][147]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.09.15-11.36.37:237][209]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.09.15-11.36.39:125][272]LogEditorViewport: Clicking on Actor (LMB): LineBP_C (LineBP178)
+[2017.09.15-11.37.14:255][770]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.244 s
+[2017.09.15-11.37.14:256][770]LogOutputDevice: Error: === Handled ensure: ===
+[2017.09.15-11.37.14:256][770]LogOutputDevice: Error: 
+[2017.09.15-11.37.14:256][770]LogOutputDevice: Error: Ensure condition failed: !Primitive->Bounds.BoxExtent.ContainsNaN() && !Primitive->Bounds.Origin.ContainsNaN() && !FMath::IsNaN(Primitive->Bounds.SphereRadius) && FMath::IsFinite(Primitive->Bounds.SphereRadius) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Renderer\Private\RendererScene.cpp] [Line: 877]
+[2017.09.15-11.37.14:256][770]LogOutputDevice: Error: Nans found on Bounds for Primitive CableComponent0: Origin X=-nan(ind) Y=-nan(ind) Z=-nan(ind), BoxExtent X=-nan(ind) Y=-nan(ind) Z=-nan(ind), SphereRadius -nan(ind)
+[2017.09.15-11.37.14:256][770]LogOutputDevice: Error: Stack: 
+[2017.09.15-11.37.14:256][770]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007F433606
+[2017.09.15-11.37.14:256][770]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007F1BC2D2
+[2017.09.15-11.37.14:256][770]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007F1D4746
+[2017.09.15-11.37.14:256][770]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x0000000077EE55B7
+[2017.09.15-11.37.14:256][770]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000080BC3F3C
+[2017.09.15-11.37.14:256][770]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000080ACAAF9
+[2017.09.15-11.37.14:256][770]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000080FB7167
+[2017.09.15-11.37.14:257][770]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000080FEED6D
+[2017.09.15-11.37.14:257][770]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000081002B1C
+[2017.09.15-11.37.14:257][770]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x0000000077F291EB
+[2017.09.15-11.37.14:257][770]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007D136068
+[2017.09.15-11.37.14:257][770]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000081742232
+[2017.09.15-11.37.14:257][770]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007D08EEA3
+[2017.09.15-11.37.14:257][770]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007D08CE5F
+[2017.09.15-11.37.14:257][770]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007D91CEE6
+[2017.09.15-11.37.14:257][770]LogOutputDevice: Error: UE4Editor.exe!0x000000003091534A
+[2017.09.15-11.37.14:257][770]LogOutputDevice: Error: UE4Editor.exe!0x0000000030923970
+[2017.09.15-11.37.14:257][770]LogOutputDevice: Error: UE4Editor.exe!0x00000000309239EA
+[2017.09.15-11.37.14:257][770]LogOutputDevice: Error: UE4Editor.exe!0x00000000309302D9
+[2017.09.15-11.37.14:257][770]LogOutputDevice: Error: UE4Editor.exe!0x0000000030931C47
+[2017.09.15-11.37.14:258][770]LogOutputDevice: Error: KERNEL32.DLL!0x00000000C9E72774
+[2017.09.15-11.37.14:258][770]LogOutputDevice: Error: ntdll.dll!0x00000000CA6B0D51
+[2017.09.15-11.37.14:258][770]LogOutputDevice: Error: 
+[2017.09.15-11.37.14:266][770]LogStats:                SubmitErrorReport -  0.000 s
+[2017.09.15-11.37.18:192][770]LogStats:                    SendNewReport -  3.926 s
+[2017.09.15-11.37.18:192][770]LogStats:             FDebug::EnsureFailed -  4.181 s
+[2017.09.15-11.37.18:250][772]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.056 s
+[2017.09.15-11.37.18:250][772]LogOutputDevice: Error: === Handled ensure: ===
+[2017.09.15-11.37.18:250][772]LogOutputDevice: Error: 
+[2017.09.15-11.37.18:250][772]LogOutputDevice: Error: Ensure condition failed: OriginalBounds.ContainsNaN() == false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Renderer\Private\ShadowSetup.cpp] [Line: 1505]
+[2017.09.15-11.37.18:250][772]LogOutputDevice: Error: OriginalBound contains NaN : Origin=X=-nan(ind) Y=-nan(ind) Z=-nan(ind), BoxExtent=(X=-nan(ind) Y=-nan(ind) Z=-nan(ind)), SphereRadius=(-nan(ind))
+[2017.09.15-11.37.18:250][772]LogOutputDevice: Error: Stack: 
+[2017.09.15-11.37.18:250][772]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007F433606
+[2017.09.15-11.37.18:250][772]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007F1BC2D2
+[2017.09.15-11.37.18:250][772]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007F1D4746
+[2017.09.15-11.37.18:250][772]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x0000000077FB0378
+[2017.09.15-11.37.18:250][772]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x0000000077FE8273
+[2017.09.15-11.37.18:250][772]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x0000000077FC5118
+[2017.09.15-11.37.18:250][772]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x0000000077F4BB2E
+[2017.09.15-11.37.18:250][772]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x0000000077F4AFBE
+[2017.09.15-11.37.18:250][772]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x0000000077A3F747
+[2017.09.15-11.37.18:250][772]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x0000000077F61B75
+[2017.09.15-11.37.18:251][772]LogOutputDevice: Error: UE4Editor-Renderer.dll!0x0000000077F40DE6
+[2017.09.15-11.37.18:251][772]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007F0824F5
+[2017.09.15-11.37.18:251][772]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007F082ADA
+[2017.09.15-11.37.18:251][772]LogOutputDevice: Error: UE4Editor-RenderCore.dll!0x000000009A7E1FB1
+[2017.09.15-11.37.18:251][772]LogOutputDevice: Error: UE4Editor-RenderCore.dll!0x000000009A7E3076
+[2017.09.15-11.37.18:251][772]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007F430678
+[2017.09.15-11.37.18:251][772]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007F426ECC
+[2017.09.15-11.37.18:251][772]LogOutputDevice: Error: KERNEL32.DLL!0x00000000C9E72774
+[2017.09.15-11.37.18:251][772]LogOutputDevice: Error: ntdll.dll!0x00000000CA6B0D51
+[2017.09.15-11.37.18:251][772]LogOutputDevice: Error: 
+[2017.09.15-11.37.18:251][772]LogStats:                SubmitErrorReport -  0.000 s
