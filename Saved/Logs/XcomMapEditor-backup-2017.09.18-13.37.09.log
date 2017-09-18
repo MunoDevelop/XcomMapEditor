@@ -1,0 +1,2134 @@
+﻿Log file open, 09/18/17 12:41:55
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: XcomMapEditor
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1969460595) SRandInit(1969460595).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.220043
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.18-03.41.57:261][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.18-03.41.57:261][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.18-03.41.57:335][  0]LogInit: Computer: DESKTOP-9TH7LOT
+[2017.09.18-03.41.57:335][  0]LogInit: User: huozi
+[2017.09.18-03.41.57:335][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.09.18-03.41.57:335][  0]LogInit: High frequency timer resolution =2.648439 MHz
+[2017.09.18-03.41.57:336][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.09.18-03.41.57:336][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.18-03.41.57:336][  0]LogMemory: Process Physical Memory: 282.84 MB used, 282.84 MB peak
+[2017.09.18-03.41.57:336][  0]LogMemory: Process Virtual Memory: 275.49 MB used, 275.49 MB peak
+[2017.09.18-03.41.57:336][  0]LogMemory: Physical Memory: 4004.88 MB used,  4138.41 MB free, 8143.29 MB total
+[2017.09.18-03.41.57:336][  0]LogMemory: Virtual Memory: 700.29 MB used,  4138.41 MB free, 134217728.00 MB total
+[2017.09.18-03.41.57:938][  0]LogInit: Using OS detected language (en-US).
+[2017.09.18-03.41.57:938][  0]LogInit: Using OS detected locale (en-US).
+[2017.09.18-03.41.58:162][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.09.18-03.42.03:069][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.18-03.42.03:117][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2017.09.18-03.42.03:117][  0]LogD3D11RHI:       4050/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.09.18-03.42.03:118][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.09.18-03.42.03:118][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.09.18-03.42.03:118][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.18-03.42.03:124][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.18-03.42.03:124][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2017.09.18-03.42.03:124][  0]LogWindows: EnumDisplayDevices:
+[2017.09.18-03.42.03:124][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2017.09.18-03.42.03:125][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2017.09.18-03.42.03:125][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2017.09.18-03.42.03:126][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2017.09.18-03.42.03:126][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.09.18-03.42.03:126][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2017.09.18-03.42.03:126][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2017.09.18-03.42.03:126][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2017.09.18-03.42.03:126][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.18-03.42.03:164][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.18-03.42.03:176][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.09.18-03.42.03:227][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Intermediate/Shaders/WorkingDirectory/11244/).
+[2017.09.18-03.42.03:227][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/huozi/AppData/Local/Temp/UnrealShaderWorkingDir/ED1574DC43DCCB7CDE27F2A077CC99A3/'.
+[2017.09.18-03.42.03:227][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.18-03.42.06:059][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.18-03.42.06:126][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.18-03.42.06:195][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.18-03.42.06:262][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.18-03.42.06:343][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.18-03.42.06:409][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.18-03.42.06:498][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.18-03.42.06:573][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.18-03.42.06:629][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.18-03.42.06:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.18-03.42.06:761][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.18-03.42.06:821][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.18-03.42.06:879][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.18-03.42.06:936][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.18-03.42.07:003][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.18-03.42.07:164][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.18-03.42.07:164][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.18-03.42.07:219][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.18-03.42.07:354][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.18-03.42.07:399][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.18-03.42.07:467][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.18-03.42.07:539][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.18-03.42.07:606][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.18-03.42.07:681][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.18-03.42.07:681][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.18-03.42.08:767][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.18-03.42.09:725][  0]LogDerivedDataCache: Loaded boot cache 0.96s 93MB C:/Users/huozi/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.18-03.42.09:725][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/huozi/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.18-03.42.09:725][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.18-03.42.09:725][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.18-03.42.09:725][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.18-03.42.09:725][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.18-03.42.09:787][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.18-03.42.09:822][  0]LogDerivedDataCache: Using Local data cache path C:/Users/huozi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.18-03.42.09:834][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.18-03.42.09:834][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.18-03.42.09:906][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.18-03.42.09:907][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.18-03.42.12:253][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2017.09.18-03.42.12:522][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.18-03.42.14:803][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.18-03.42.14:878][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.18-03.42.14:878][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.18-03.42.14:878][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.18-03.42.14:878][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.18-03.42.14:878][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.18-03.42.14:889][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.18-03.42.16:042][  0]LogNetVersion: XcomMapEditor , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 332790306)
+[2017.09.18-03.42.16:734][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.060966 seconds
+[2017.09.18-03.42.16:745][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.09.18-03.42.16:745][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.09.18-03.42.16:745][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.18-03.42.16:859][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.18-03.42.41:221][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.18-03.42.41:292][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.18-03.42.42:630][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.18-03.42.43:298][  0]SourceControl: Source control is disabled
+[2017.09.18-03.42.43:298][  0]SourceControl: Source control is disabled
+[2017.09.18-03.42.43:366][  0]SourceControl: Source control is disabled
+[2017.09.18-03.42.43:457][  0]SourceControl: Source control is disabled
+[2017.09.18-03.42.44:456][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.18-03.42.44:822][  0]LogOcInput: OculusInput pre-init called
+[2017.09.18-03.42.45:244][  0]LogEngine: Initializing Engine...
+[2017.09.18-03.42.45:246][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.18-03.42.45:737][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.18-03.42.45:737][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.18-03.42.45:906][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.18-03.42.45:922][  0]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.18-03.42.45:946][  0]LogInit: FAudioDevice initialized.
+[2017.09.18-03.42.46:110][  0]LogDerivedDataCache: Saved boot cache 0.16s 93MB C:/Users/huozi/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.18-03.42.46:130][  0]LogInit: Texture streaming: Enabled
+[2017.09.18-03.42.46:296][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.18-03.42.46:681][  0]LogInit: Transaction tracking system initialized
+[2017.09.18-03.42.47:281][  0]BlueprintLog: New page: Editor Load
+[2017.09.18-03.42.48:654][  0]LocalizationService: Localization service is disabled
+[2017.09.18-03.42.49:858][  0]LogConsoleResponse: Display: 
+[2017.09.18-03.42.51:842][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.18-03.42.51:843][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.18-03.42.51:843][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.18-03.42.52:244][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/' took 0.03s
+[2017.09.18-03.42.54:774][  0]SourceControl: Source control is disabled
+[2017.09.18-03.42.54:774][  0]Cmd: MAP LOAD FILE="../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Maps/EditMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.18-03.42.54:774][  0]LightingResults: New page: Lighting Build
+[2017.09.18-03.42.54:827][  0]MapCheck: New page: Map Check
+[2017.09.18-03.42.54:827][  0]LightingResults: New page: Lighting Build
+[2017.09.18-03.42.56:626][  0]LogAIModule: Creating AISystem for world EditMap
+[2017.09.18-03.42.56:642][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.18-03.42.56:655][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.18-03.42.56:721][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.173ms to complete.
+[2017.09.18-03.42.56:721][  0]LogFileHelpers: Loading map 'EditMap' took 1.947
+[2017.09.18-03.42.57:050][  0]LogCollectionManager: Loaded 0 collections in 0.002158 seconds
+[2017.09.18-03.42.57:148][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/Collections/' took 0.01s
+[2017.09.18-03.42.57:148][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Developers/huozi/Collections/' took 0.01s
+[2017.09.18-03.42.57:148][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Collections/' took 0.01s
+[2017.09.18-03.42.57:148][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.09.18-03.42.57:158][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2386 classes and 500 folders.
+[2017.09.18-03.42.57:251][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.09.18-03.42.58:977][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.09.18-03.42.59:057][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.09.18-03.42.59:135][  0]LogSlate: Took 0.033154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.18-03.42.59:157][  0]LogSlate: Took 0.019283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.18-03.42.59:179][  0]LogSlate: Took 0.016206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.18-03.42.59:410][  0]LogRenderer: Reallocating scene render targets to support 1208x568 Format 10 NumSamples 1 (Frame:1).
+[2017.09.18-03.42.59:613][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.09.18-03.42.59:613][  0]LogLoad: (Engine Initialization) Total time: 69.20 seconds
+[2017.09.18-03.42.59:613][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.18-03.42.59:614][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.09.18-03.42.59:614][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.09.18-03.42.59:977][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.09.18-03.43.00:067][  0]LogSlate: Took 0.004275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.18-03.43.00:318][  1]LogAssetRegistry: Asset discovery search completed in 48.0882 seconds
+[2017.09.18-03.43.00:324][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.09.18-03.43.00:324][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000120 seconds (updated 0 objects)
+[2017.09.18-03.43.03:254][194]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.18-03.43.03:754][194]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 113 classes and 0 folders.
+[2017.09.18-03.43.04:455][194]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.18-03.43.04:646][194]LogSlate: Took 0.025199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.09.18-03.43.09:136][576]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.18-03.43.21:996][923]BlueprintLog: New page: Compile BasicTileBP
+[2017.09.18-03.43.22:829][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WorldSetting/Tiles/BasicTileBP" FILE="../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/WorldSetting/Tiles/BasicTileBP.uasset" SILENT=true
+[2017.09.18-03.43.22:875][975]LogSavePackage: Save=24.41ms
+[2017.09.18-03.43.22:875][975]LogSavePackage: Moving '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/BasicTileBPAD06348D47B54B5790A8D1B11C438849.tmp' to '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/WorldSetting/Tiles/BasicTileBP.uasset'
+[2017.09.18-03.43.22:878][975]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/WorldSetting/Tiles/BasicTileBP.uasset
+[2017.09.18-03.43.25:000][218]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.18-03.43.25:178][218]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.18-03.43.25:178][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.18-03.43.25:179][218]PIE: New page: PIE session: EditMap (Sep 18, 2017, 9:43:25 PM)
+[2017.09.18-03.43.25:179][218]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EditMap
+[2017.09.18-03.43.25:183][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004474s)
+[2017.09.18-03.43.25:184][218]LogAIModule: Creating AISystem for world EditMap
+[2017.09.18-03.43.25:184][218]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2017.09.18-03.43.25:184][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EditMap.EditMap to /Game/Maps/UEDPIE_0_EditMap.EditMap (0.005523s)
+[2017.09.18-03.43.25:214][218]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.18-03.43.25:227][218]LogInit: FAudioDevice initialized.
+[2017.09.18-03.43.25:281][218]LogLoad: Game class is 'MapEditorMode_C'
+[2017.09.18-03.43.25:283][218]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EditMap.EditMap up for play (max tick rate 0) at 2017.09.18-12.43.25
+[2017.09.18-03.43.25:284][218]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2017.09.18-03.43.25:284][218]LogWorld: Bringing up level for play took: 0.000815
+[2017.09.18-03.43.25:285][218]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.09.18-03.43.25:336][218]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.09.18-03.43.25:336][218]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.18-03.43.25:336][218]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.18-03.43.27:154][218]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_EditMap 1.054
+[2017.09.18-03.43.27:157][218]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.18-03.43.27:415][219]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:440][220]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:449][221]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:458][222]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:466][223]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:475][224]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:483][225]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:491][226]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:500][227]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:509][228]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:519][229]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:529][230]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:539][231]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:550][232]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:559][233]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:568][234]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:578][235]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:587][236]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:596][237]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:606][238]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:616][239]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:625][240]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:634][241]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:643][242]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:651][243]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:660][244]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:668][245]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:676][246]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:685][247]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:693][248]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:702][249]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:710][250]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:719][251]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:727][252]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:736][253]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:745][254]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:753][255]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:762][256]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:771][257]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:780][258]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:789][259]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:798][260]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:807][261]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:816][262]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:825][263]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:834][264]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:844][265]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:853][266]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:862][267]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:870][268]LogBlueprintUserMessages: [EditMap_C_0] 5 1
+[2017.09.18-03.43.27:879][269]LogBlueprintUserMessages: [EditMap_C_0] 5 1
+[2017.09.18-03.43.27:894][270]LogBlueprintUserMessages: [EditMap_C_0] 5 1
+[2017.09.18-03.43.27:903][271]LogBlueprintUserMessages: [EditMap_C_0] 5 1
+[2017.09.18-03.43.27:912][272]LogBlueprintUserMessages: [EditMap_C_0] 5 1
+[2017.09.18-03.43.27:921][273]LogBlueprintUserMessages: [EditMap_C_0] 5 1
+[2017.09.18-03.43.27:930][274]LogBlueprintUserMessages: [EditMap_C_0] 5 2
+[2017.09.18-03.43.27:939][275]LogBlueprintUserMessages: [EditMap_C_0] 5 3
+[2017.09.18-03.43.27:948][276]LogBlueprintUserMessages: [EditMap_C_0] 5 4
+[2017.09.18-03.43.27:959][277]LogBlueprintUserMessages: [EditMap_C_0] 5 6
+[2017.09.18-03.43.27:976][278]LogBlueprintUserMessages: [EditMap_C_0] 5 12
+[2017.09.18-03.43.27:986][279]LogBlueprintUserMessages: [EditMap_C_0] 5 12
+[2017.09.18-03.43.27:997][280]LogBlueprintUserMessages: [EditMap_C_0] 5 13
+[2017.09.18-03.43.28:006][281]LogBlueprintUserMessages: [EditMap_C_0] 5 13
+[2017.09.18-03.43.28:015][282]LogBlueprintUserMessages: [EditMap_C_0] 5 13
+[2017.09.18-03.43.28:024][283]LogBlueprintUserMessages: [EditMap_C_0] 5 13
+[2017.09.18-03.43.28:033][284]LogBlueprintUserMessages: [EditMap_C_0] 5 13
+[2017.09.18-03.43.28:042][285]LogBlueprintUserMessages: [EditMap_C_0] 5 13
+[2017.09.18-03.43.28:052][286]LogBlueprintUserMessages: [EditMap_C_0] 5 14
+[2017.09.18-03.43.28:060][287]LogBlueprintUserMessages: [EditMap_C_0] 5 14
+[2017.09.18-03.43.28:070][288]LogBlueprintUserMessages: [EditMap_C_0] 5 14
+[2017.09.18-03.43.28:078][289]LogBlueprintUserMessages: [EditMap_C_0] 5 14
+[2017.09.18-03.43.28:086][290]LogBlueprintUserMessages: [EditMap_C_0] 5 14
+[2017.09.18-03.43.28:095][291]LogBlueprintUserMessages: [EditMap_C_0] 5 14
+[2017.09.18-03.43.28:103][292]LogBlueprintUserMessages: [EditMap_C_0] 5 14
+[2017.09.18-03.43.28:112][293]LogBlueprintUserMessages: [EditMap_C_0] 5 15
+[2017.09.18-03.43.28:121][294]LogBlueprintUserMessages: [EditMap_C_0] 5 15
+[2017.09.18-03.43.28:129][295]LogBlueprintUserMessages: [EditMap_C_0] 5 15
+[2017.09.18-03.43.28:138][296]LogBlueprintUserMessages: [EditMap_C_0] 5 15
+[2017.09.18-03.43.28:147][297]LogBlueprintUserMessages: [EditMap_C_0] 5 15
+[2017.09.18-03.43.28:155][298]LogBlueprintUserMessages: [EditMap_C_0] 5 15
+[2017.09.18-03.43.28:163][299]LogBlueprintUserMessages: [EditMap_C_0] 5 15
+[2017.09.18-03.43.28:172][300]LogBlueprintUserMessages: [EditMap_C_0] 5 16
+[2017.09.18-03.43.28:180][301]LogBlueprintUserMessages: [EditMap_C_0] 5 16
+[2017.09.18-03.43.28:188][302]LogBlueprintUserMessages: [EditMap_C_0] 5 16
+[2017.09.18-03.43.28:197][303]LogBlueprintUserMessages: [EditMap_C_0] 5 16
+[2017.09.18-03.43.28:205][304]LogBlueprintUserMessages: [EditMap_C_0] 5 16
+[2017.09.18-03.43.28:213][305]LogBlueprintUserMessages: [EditMap_C_0] 5 16
+[2017.09.18-03.43.28:222][306]LogBlueprintUserMessages: [EditMap_C_0] 5 17
+[2017.09.18-03.43.28:233][307]LogBlueprintUserMessages: [EditMap_C_0] 5 17
+[2017.09.18-03.43.28:250][308]LogBlueprintUserMessages: [EditMap_C_0] 5 17
+[2017.09.18-03.43.28:256][309]LogBlueprintUserMessages: [EditMap_C_0] 5 17
+[2017.09.18-03.43.28:264][310]LogBlueprintUserMessages: [EditMap_C_0] 5 17
+[2017.09.18-03.43.28:273][311]LogBlueprintUserMessages: [EditMap_C_0] 5 17
+[2017.09.18-03.43.28:281][312]LogBlueprintUserMessages: [EditMap_C_0] 5 17
+[2017.09.18-03.43.28:291][313]LogBlueprintUserMessages: [EditMap_C_0] 5 17
+[2017.09.18-03.43.28:302][314]LogBlueprintUserMessages: [EditMap_C_0] 5 17
+[2017.09.18-03.43.28:311][315]LogBlueprintUserMessages: [EditMap_C_0] 4 16
+[2017.09.18-03.43.28:321][316]LogBlueprintUserMessages: [EditMap_C_0] 3 13
+[2017.09.18-03.43.28:331][317]LogBlueprintUserMessages: [EditMap_C_0] 2 12
+[2017.09.18-03.43.28:341][318]LogBlueprintUserMessages: [EditMap_C_0] 1 10
+[2017.09.18-03.43.28:350][319]LogBlueprintUserMessages: [EditMap_C_0] 1 8
+[2017.09.18-03.43.28:358][320]LogBlueprintUserMessages: [EditMap_C_0] 0 7
+[2017.09.18-03.43.28:370][321]LogBlueprintUserMessages: [EditMap_C_0] 0 6
+[2017.09.18-03.43.28:379][322]LogBlueprintUserMessages: [EditMap_C_0] 0 5
+[2017.09.18-03.43.28:388][323]LogBlueprintUserMessages: [EditMap_C_0] 0 4
+[2017.09.18-03.43.28:397][324]LogBlueprintUserMessages: [EditMap_C_0] 0 4
+[2017.09.18-03.43.28:407][325]LogBlueprintUserMessages: [EditMap_C_0] 0 4
+[2017.09.18-03.43.28:416][326]LogBlueprintUserMessages: [EditMap_C_0] 0 3
+[2017.09.18-03.43.28:425][327]LogBlueprintUserMessages: [EditMap_C_0] 0 3
+[2017.09.18-03.43.28:688][328]LogBlueprintUserMessages: [EditMap_C_0] 0 2
+[2017.09.18-03.43.28:696][329]LogBlueprintUserMessages: [EditMap_C_0] 0 2
+[2017.09.18-03.43.28:705][330]LogBlueprintUserMessages: [EditMap_C_0] 0 2
+[2017.09.18-03.43.28:713][331]LogBlueprintUserMessages: [EditMap_C_0] 0 2
+[2017.09.18-03.43.28:721][332]LogBlueprintUserMessages: [EditMap_C_0] 0 2
+[2017.09.18-03.43.28:730][333]LogBlueprintUserMessages: [EditMap_C_0] 0 2
+[2017.09.18-03.43.28:738][334]LogBlueprintUserMessages: [EditMap_C_0] 0 2
+[2017.09.18-03.43.28:748][335]LogBlueprintUserMessages: [EditMap_C_0] 1 2
+[2017.09.18-03.43.28:758][336]LogBlueprintUserMessages: [EditMap_C_0] 1 1
+[2017.09.18-03.43.28:768][337]LogBlueprintUserMessages: [EditMap_C_0] 1 1
+[2017.09.18-03.43.28:778][338]LogBlueprintUserMessages: [EditMap_C_0] 1 1
+[2017.09.18-03.43.28:788][339]LogBlueprintUserMessages: [EditMap_C_0] 1 1
+[2017.09.18-03.43.28:797][340]LogBlueprintUserMessages: [EditMap_C_0] 1 1
+[2017.09.18-03.43.28:807][341]LogBlueprintUserMessages: [EditMap_C_0] 1 1
+[2017.09.18-03.43.28:816][342]LogBlueprintUserMessages: [EditMap_C_0] 1 1
+[2017.09.18-03.43.28:827][343]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.28:839][344]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.28:852][345]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.28:864][346]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.28:874][347]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.28:883][348]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.28:892][349]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.28:902][350]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.28:911][351]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.28:921][352]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.28:930][353]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.28:939][354]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.28:948][355]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.28:957][356]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.28:966][357]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.28:975][358]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.28:985][359]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.28:994][360]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:004][361]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:013][362]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:022][363]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:031][364]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:040][365]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:050][366]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:059][367]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:068][368]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:077][369]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:086][370]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:095][371]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:104][372]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:113][373]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:122][374]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:132][375]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:140][376]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:149][377]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:158][378]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:167][379]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:176][380]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:185][381]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:194][382]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:204][383]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:212][384]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:222][385]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:231][386]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:241][387]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:249][388]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:258][389]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:268][390]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:277][391]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:286][392]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:296][393]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:305][394]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:315][395]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:324][396]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:333][397]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:343][398]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:352][399]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:361][400]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:370][401]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:378][402]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:387][403]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:396][404]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:404][405]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:413][406]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:422][407]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:431][408]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:440][409]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:448][410]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:457][411]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:465][412]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:474][413]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:482][414]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:491][415]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:499][416]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:507][417]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:517][418]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:526][419]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:536][420]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:545][421]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.29:555][422]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.29:564][423]LogBlueprintUserMessages: [EditMap_C_0] 1 1
+[2017.09.18-03.43.29:572][424]LogBlueprintUserMessages: [EditMap_C_0] 1 1
+[2017.09.18-03.43.29:581][425]LogBlueprintUserMessages: [EditMap_C_0] 1 1
+[2017.09.18-03.43.29:590][426]LogBlueprintUserMessages: [EditMap_C_0] 1 1
+[2017.09.18-03.43.29:599][427]LogBlueprintUserMessages: [EditMap_C_0] 1 1
+[2017.09.18-03.43.29:608][428]LogBlueprintUserMessages: [EditMap_C_0] 1 1
+[2017.09.18-03.43.29:619][429]LogBlueprintUserMessages: [EditMap_C_0] 1 1
+[2017.09.18-03.43.29:628][430]LogBlueprintUserMessages: [EditMap_C_0] 1 1
+[2017.09.18-03.43.29:638][431]LogBlueprintUserMessages: [EditMap_C_0] 1 1
+[2017.09.18-03.43.29:647][432]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.29:656][433]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.29:665][434]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.29:674][435]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:682][436]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:691][437]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:700][438]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:709][439]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:718][440]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:727][441]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:736][442]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:745][443]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:753][444]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:762][445]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:770][446]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:779][447]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:788][448]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:797][449]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:806][450]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:815][451]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:824][452]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:833][453]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:841][454]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:850][455]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:858][456]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:867][457]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:875][458]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:885][459]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:894][460]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:903][461]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:912][462]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:921][463]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:931][464]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:941][465]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:950][466]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:959][467]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:968][468]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:977][469]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:986][470]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.29:996][471]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.30:006][472]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.30:016][473]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:025][474]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:034][475]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:043][476]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:053][477]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:063][478]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:072][479]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:082][480]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:091][481]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:100][482]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:109][483]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:118][484]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:127][485]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:135][486]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:144][487]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:152][488]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:161][489]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:170][490]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:180][491]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:188][492]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:198][493]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:208][494]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:217][495]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:226][496]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:236][497]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:245][498]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:254][499]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:264][500]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:273][501]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:283][502]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:292][503]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:301][504]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:311][505]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:322][506]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:332][507]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:340][508]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:350][509]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:359][510]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:368][511]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:377][512]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:386][513]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:395][514]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:405][515]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:414][516]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:423][517]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:432][518]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:441][519]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:450][520]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:458][521]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:467][522]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:477][523]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:486][524]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:495][525]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:504][526]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:514][527]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.30:524][528]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.30:534][529]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.30:544][530]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.30:553][531]LogBlueprintUserMessages: [EditMap_C_0] 2 0
+[2017.09.18-03.43.31:283][610]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:292][611]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:302][612]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:311][613]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:320][614]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:329][615]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:338][616]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:348][617]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:356][618]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:366][619]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:375][620]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:385][621]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:395][622]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:405][623]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:414][624]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:423][625]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:432][626]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:441][627]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:451][628]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:460][629]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:468][630]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:477][631]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:485][632]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:495][633]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:504][634]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:513][635]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:522][636]LogBlueprintUserMessages: [EditMap_C_0] 5 0
+[2017.09.18-03.43.31:531][637]LogBlueprintUserMessages: [EditMap_C_0] 6 0
+[2017.09.18-03.43.31:540][638]LogBlueprintUserMessages: [EditMap_C_0] 6 0
+[2017.09.18-03.43.31:549][639]LogBlueprintUserMessages: [EditMap_C_0] 6 0
+[2017.09.18-03.43.31:558][640]LogBlueprintUserMessages: [EditMap_C_0] 6 0
+[2017.09.18-03.43.31:567][641]LogBlueprintUserMessages: [EditMap_C_0] 6 0
+[2017.09.18-03.43.31:575][642]LogBlueprintUserMessages: [EditMap_C_0] 6 0
+[2017.09.18-03.43.31:584][643]LogBlueprintUserMessages: [EditMap_C_0] 6 0
+[2017.09.18-03.43.31:593][644]LogBlueprintUserMessages: [EditMap_C_0] 6 0
+[2017.09.18-03.43.31:603][645]LogBlueprintUserMessages: [EditMap_C_0] 6 0
+[2017.09.18-03.43.31:613][646]LogBlueprintUserMessages: [EditMap_C_0] 6 0
+[2017.09.18-03.43.31:622][647]LogBlueprintUserMessages: [EditMap_C_0] 6 0
+[2017.09.18-03.43.31:631][648]LogBlueprintUserMessages: [EditMap_C_0] 6 0
+[2017.09.18-03.43.31:641][649]LogBlueprintUserMessages: [EditMap_C_0] 6 0
+[2017.09.18-03.43.31:651][650]LogBlueprintUserMessages: [EditMap_C_0] 6 0
+[2017.09.18-03.43.31:660][651]LogBlueprintUserMessages: [EditMap_C_0] 6 0
+[2017.09.18-03.43.31:669][652]LogBlueprintUserMessages: [EditMap_C_0] 7 0
+[2017.09.18-03.43.31:678][653]LogBlueprintUserMessages: [EditMap_C_0] 7 0
+[2017.09.18-03.43.31:688][654]LogBlueprintUserMessages: [EditMap_C_0] 7 0
+[2017.09.18-03.43.31:698][655]LogBlueprintUserMessages: [EditMap_C_0] 7 0
+[2017.09.18-03.43.31:707][656]LogBlueprintUserMessages: [EditMap_C_0] 7 0
+[2017.09.18-03.43.31:717][657]LogBlueprintUserMessages: [EditMap_C_0] 8 0
+[2017.09.18-03.43.31:726][658]LogBlueprintUserMessages: [EditMap_C_0] 8 0
+[2017.09.18-03.43.31:735][659]LogBlueprintUserMessages: [EditMap_C_0] 8 0
+[2017.09.18-03.43.31:745][660]LogBlueprintUserMessages: [EditMap_C_0] 8 0
+[2017.09.18-03.43.32:360][726]LogBlueprintUserMessages: [EditMap_C_0] 13 0
+[2017.09.18-03.43.32:369][727]LogBlueprintUserMessages: [EditMap_C_0] 11 0
+[2017.09.18-03.43.32:378][728]LogBlueprintUserMessages: [EditMap_C_0] 10 0
+[2017.09.18-03.43.32:388][729]LogBlueprintUserMessages: [EditMap_C_0] 9 0
+[2017.09.18-03.43.32:397][730]LogBlueprintUserMessages: [EditMap_C_0] 9 0
+[2017.09.18-03.43.32:410][731]LogBlueprintUserMessages: [EditMap_C_0] 7 0
+[2017.09.18-03.43.32:420][732]LogBlueprintUserMessages: [EditMap_C_0] 7 1
+[2017.09.18-03.43.32:429][733]LogBlueprintUserMessages: [EditMap_C_0] 6 1
+[2017.09.18-03.43.32:439][734]LogBlueprintUserMessages: [EditMap_C_0] 5 1
+[2017.09.18-03.43.32:448][735]LogBlueprintUserMessages: [EditMap_C_0] 5 1
+[2017.09.18-03.43.32:457][736]LogBlueprintUserMessages: [EditMap_C_0] 5 1
+[2017.09.18-03.43.32:467][737]LogBlueprintUserMessages: [EditMap_C_0] 4 2
+[2017.09.18-03.43.32:477][738]LogBlueprintUserMessages: [EditMap_C_0] 4 2
+[2017.09.18-03.43.32:487][739]LogBlueprintUserMessages: [EditMap_C_0] 4 2
+[2017.09.18-03.43.32:497][740]LogBlueprintUserMessages: [EditMap_C_0] 4 2
+[2017.09.18-03.43.32:506][741]LogBlueprintUserMessages: [EditMap_C_0] 3 2
+[2017.09.18-03.43.32:516][742]LogBlueprintUserMessages: [EditMap_C_0] 3 2
+[2017.09.18-03.43.32:525][743]LogBlueprintUserMessages: [EditMap_C_0] 3 2
+[2017.09.18-03.43.32:535][744]LogBlueprintUserMessages: [EditMap_C_0] 3 3
+[2017.09.18-03.43.32:545][745]LogBlueprintUserMessages: [EditMap_C_0] 3 3
+[2017.09.18-03.43.32:554][746]LogBlueprintUserMessages: [EditMap_C_0] 3 3
+[2017.09.18-03.43.32:563][747]LogBlueprintUserMessages: [EditMap_C_0] 3 3
+[2017.09.18-03.43.32:572][748]LogBlueprintUserMessages: [EditMap_C_0] 3 3
+[2017.09.18-03.43.32:581][749]LogBlueprintUserMessages: [EditMap_C_0] 3 3
+[2017.09.18-03.43.32:590][750]LogBlueprintUserMessages: [EditMap_C_0] 3 3
+[2017.09.18-03.43.32:600][751]LogBlueprintUserMessages: [EditMap_C_0] 3 3
+[2017.09.18-03.43.32:610][752]LogBlueprintUserMessages: [EditMap_C_0] 3 3
+[2017.09.18-03.43.32:619][753]LogBlueprintUserMessages: [EditMap_C_0] 3 3
+[2017.09.18-03.43.32:629][754]LogBlueprintUserMessages: [EditMap_C_0] 3 3
+[2017.09.18-03.43.32:640][755]LogBlueprintUserMessages: [EditMap_C_0] 3 3
+[2017.09.18-03.43.32:650][756]LogBlueprintUserMessages: [EditMap_C_0] 3 3
+[2017.09.18-03.43.32:659][757]LogBlueprintUserMessages: [EditMap_C_0] 3 3
+[2017.09.18-03.43.32:670][758]LogBlueprintUserMessages: [EditMap_C_0] 2 3
+[2017.09.18-03.43.32:680][759]LogBlueprintUserMessages: [EditMap_C_0] 2 3
+[2017.09.18-03.43.32:689][760]LogBlueprintUserMessages: [EditMap_C_0] 1 3
+[2017.09.18-03.43.32:699][761]LogBlueprintUserMessages: [EditMap_C_0] 1 3
+[2017.09.18-03.43.32:709][762]LogBlueprintUserMessages: [EditMap_C_0] 1 3
+[2017.09.18-03.43.32:718][763]LogBlueprintUserMessages: [EditMap_C_0] 1 2
+[2017.09.18-03.43.32:728][764]LogBlueprintUserMessages: [EditMap_C_0] 1 2
+[2017.09.18-03.43.32:738][765]LogBlueprintUserMessages: [EditMap_C_0] 0 2
+[2017.09.18-03.43.32:747][766]LogBlueprintUserMessages: [EditMap_C_0] 0 2
+[2017.09.18-03.43.32:756][767]LogBlueprintUserMessages: [EditMap_C_0] 0 2
+[2017.09.18-03.43.32:765][768]LogBlueprintUserMessages: [EditMap_C_0] 0 2
+[2017.09.18-03.43.32:774][769]LogBlueprintUserMessages: [EditMap_C_0] 0 2
+[2017.09.18-03.43.32:945][787]LogBlueprintUserMessages: [EditMap_C_0] 0 3
+[2017.09.18-03.43.32:955][788]LogBlueprintUserMessages: [EditMap_C_0] 2 4
+[2017.09.18-03.43.32:964][789]LogBlueprintUserMessages: [EditMap_C_0] 3 4
+[2017.09.18-03.43.32:973][790]LogBlueprintUserMessages: [EditMap_C_0] 4 4
+[2017.09.18-03.43.32:982][791]LogBlueprintUserMessages: [EditMap_C_0] 4 4
+[2017.09.18-03.43.32:990][792]LogBlueprintUserMessages: [EditMap_C_0] 4 5
+[2017.09.18-03.43.33:000][793]LogBlueprintUserMessages: [EditMap_C_0] 5 5
+[2017.09.18-03.43.33:010][794]LogBlueprintUserMessages: [EditMap_C_0] 5 5
+[2017.09.18-03.43.33:019][795]LogBlueprintUserMessages: [EditMap_C_0] 5 5
+[2017.09.18-03.43.33:029][796]LogBlueprintUserMessages: [EditMap_C_0] 5 5
+[2017.09.18-03.43.33:039][797]LogBlueprintUserMessages: [EditMap_C_0] 5 6
+[2017.09.18-03.43.33:049][798]LogBlueprintUserMessages: [EditMap_C_0] 5 6
+[2017.09.18-03.43.33:059][799]LogBlueprintUserMessages: [EditMap_C_0] 5 6
+[2017.09.18-03.43.33:068][800]LogBlueprintUserMessages: [EditMap_C_0] 5 6
+[2017.09.18-03.43.33:076][801]LogBlueprintUserMessages: [EditMap_C_0] 5 6
+[2017.09.18-03.43.33:085][802]LogBlueprintUserMessages: [EditMap_C_0] 5 7
+[2017.09.18-03.43.33:094][803]LogBlueprintUserMessages: [EditMap_C_0] 5 7
+[2017.09.18-03.43.33:103][804]LogBlueprintUserMessages: [EditMap_C_0] 5 7
+[2017.09.18-03.43.33:111][805]LogBlueprintUserMessages: [EditMap_C_0] 5 8
+[2017.09.18-03.43.33:120][806]LogBlueprintUserMessages: [EditMap_C_0] 5 8
+[2017.09.18-03.43.33:130][807]LogBlueprintUserMessages: [EditMap_C_0] 5 9
+[2017.09.18-03.43.33:139][808]LogBlueprintUserMessages: [EditMap_C_0] 5 9
+[2017.09.18-03.43.33:149][809]LogBlueprintUserMessages: [EditMap_C_0] 5 10
+[2017.09.18-03.43.33:158][810]LogBlueprintUserMessages: [EditMap_C_0] 5 10
+[2017.09.18-03.43.33:167][811]LogBlueprintUserMessages: [EditMap_C_0] 6 10
+[2017.09.18-03.43.33:176][812]LogBlueprintUserMessages: [EditMap_C_0] 6 11
+[2017.09.18-03.43.33:186][813]LogBlueprintUserMessages: [EditMap_C_0] 6 11
+[2017.09.18-03.43.33:195][814]LogBlueprintUserMessages: [EditMap_C_0] 6 11
+[2017.09.18-03.43.33:205][815]LogBlueprintUserMessages: [EditMap_C_0] 6 11
+[2017.09.18-03.43.33:213][816]LogBlueprintUserMessages: [EditMap_C_0] 6 12
+[2017.09.18-03.43.33:222][817]LogBlueprintUserMessages: [EditMap_C_0] 6 12
+[2017.09.18-03.43.33:231][818]LogBlueprintUserMessages: [EditMap_C_0] 6 12
+[2017.09.18-03.43.33:240][819]LogBlueprintUserMessages: [EditMap_C_0] 6 13
+[2017.09.18-03.43.33:249][820]LogBlueprintUserMessages: [EditMap_C_0] 6 14
+[2017.09.18-03.43.33:258][821]LogBlueprintUserMessages: [EditMap_C_0] 6 14
+[2017.09.18-03.43.33:268][822]LogBlueprintUserMessages: [EditMap_C_0] 6 15
+[2017.09.18-03.43.33:278][823]LogBlueprintUserMessages: [EditMap_C_0] 6 17
+[2017.09.18-03.43.33:287][824]LogBlueprintUserMessages: [EditMap_C_0] 6 19
+[2017.09.18-03.43.33:296][825]LogBlueprintUserMessages: [EditMap_C_0] 7 20
+[2017.09.18-03.43.33:305][826]LogBlueprintUserMessages: [EditMap_C_0] 7 20
+[2017.09.18-03.43.33:314][827]LogBlueprintUserMessages: [EditMap_C_0] 7 20
+[2017.09.18-03.43.33:322][828]LogBlueprintUserMessages: [EditMap_C_0] 7 21
+[2017.09.18-03.43.33:331][829]LogBlueprintUserMessages: [EditMap_C_0] 7 21
+[2017.09.18-03.43.33:340][830]LogBlueprintUserMessages: [EditMap_C_0] 8 21
+[2017.09.18-03.43.33:350][831]LogBlueprintUserMessages: [EditMap_C_0] 8 22
+[2017.09.18-03.43.33:359][832]LogBlueprintUserMessages: [EditMap_C_0] 8 22
+[2017.09.18-03.43.33:370][833]LogBlueprintUserMessages: [EditMap_C_0] 9 23
+[2017.09.18-03.43.33:380][834]LogBlueprintUserMessages: [EditMap_C_0] 9 23
+[2017.09.18-03.43.33:390][835]LogBlueprintUserMessages: [EditMap_C_0] 9 23
+[2017.09.18-03.43.33:399][836]LogBlueprintUserMessages: [EditMap_C_0] 10 24
+[2017.09.18-03.43.33:408][837]LogBlueprintUserMessages: [EditMap_C_0] 10 24
+[2017.09.18-03.43.33:417][838]LogBlueprintUserMessages: [EditMap_C_0] 11 25
+[2017.09.18-03.43.33:426][839]LogBlueprintUserMessages: [EditMap_C_0] 11 25
+[2017.09.18-03.43.33:435][840]LogBlueprintUserMessages: [EditMap_C_0] 13 26
+[2017.09.18-03.43.33:444][841]LogBlueprintUserMessages: [EditMap_C_0] 13 26
+[2017.09.18-03.43.33:454][842]LogBlueprintUserMessages: [EditMap_C_0] 13 26
+[2017.09.18-03.43.33:463][843]LogBlueprintUserMessages: [EditMap_C_0] 13 26
+[2017.09.18-03.43.33:473][844]LogBlueprintUserMessages: [EditMap_C_0] 13 25
+[2017.09.18-03.43.33:482][845]LogBlueprintUserMessages: [EditMap_C_0] 14 25
+[2017.09.18-03.43.33:492][846]LogBlueprintUserMessages: [EditMap_C_0] 14 24
+[2017.09.18-03.43.33:502][847]LogBlueprintUserMessages: [EditMap_C_0] 14 24
+[2017.09.18-03.43.33:511][848]LogBlueprintUserMessages: [EditMap_C_0] 14 23
+[2017.09.18-03.43.33:521][849]LogBlueprintUserMessages: [EditMap_C_0] 14 23
+[2017.09.18-03.43.33:531][850]LogBlueprintUserMessages: [EditMap_C_0] 15 23
+[2017.09.18-03.43.33:540][851]LogBlueprintUserMessages: [EditMap_C_0] 15 23
+[2017.09.18-03.43.33:550][852]LogBlueprintUserMessages: [EditMap_C_0] 15 23
+[2017.09.18-03.43.33:561][853]LogBlueprintUserMessages: [EditMap_C_0] 15 23
+[2017.09.18-03.43.33:571][854]LogBlueprintUserMessages: [EditMap_C_0] 15 23
+[2017.09.18-03.43.33:581][855]LogBlueprintUserMessages: [EditMap_C_0] 16 23
+[2017.09.18-03.43.33:590][856]LogBlueprintUserMessages: [EditMap_C_0] 16 23
+[2017.09.18-03.43.33:600][857]LogBlueprintUserMessages: [EditMap_C_0] 16 23
+[2017.09.18-03.43.33:610][858]LogBlueprintUserMessages: [EditMap_C_0] 16 23
+[2017.09.18-03.43.33:620][859]LogBlueprintUserMessages: [EditMap_C_0] 16 23
+[2017.09.18-03.43.33:630][860]LogBlueprintUserMessages: [EditMap_C_0] 17 23
+[2017.09.18-03.43.33:640][861]LogBlueprintUserMessages: [EditMap_C_0] 17 23
+[2017.09.18-03.43.33:651][862]LogBlueprintUserMessages: [EditMap_C_0] 17 23
+[2017.09.18-03.43.33:661][863]LogBlueprintUserMessages: [EditMap_C_0] 17 23
+[2017.09.18-03.43.33:672][864]LogBlueprintUserMessages: [EditMap_C_0] 17 22
+[2017.09.18-03.43.33:683][865]LogBlueprintUserMessages: [EditMap_C_0] 15 21
+[2017.09.18-03.43.33:694][866]LogBlueprintUserMessages: [EditMap_C_0] 14 20
+[2017.09.18-03.43.33:704][867]LogBlueprintUserMessages: [EditMap_C_0] 11 17
+[2017.09.18-03.43.33:714][868]LogBlueprintUserMessages: [EditMap_C_0] 11 16
+[2017.09.18-03.43.33:724][869]LogBlueprintUserMessages: [EditMap_C_0] 10 16
+[2017.09.18-03.43.33:735][870]LogBlueprintUserMessages: [EditMap_C_0] 9 14
+[2017.09.18-03.43.33:745][871]LogBlueprintUserMessages: [EditMap_C_0] 9 14
+[2017.09.18-03.43.33:756][872]LogBlueprintUserMessages: [EditMap_C_0] 8 13
+[2017.09.18-03.43.33:766][873]LogBlueprintUserMessages: [EditMap_C_0] 8 12
+[2017.09.18-03.43.33:776][874]LogBlueprintUserMessages: [EditMap_C_0] 8 12
+[2017.09.18-03.43.33:785][875]LogBlueprintUserMessages: [EditMap_C_0] 8 12
+[2017.09.18-03.43.33:795][876]LogBlueprintUserMessages: [EditMap_C_0] 8 12
+[2017.09.18-03.43.33:806][877]LogBlueprintUserMessages: [EditMap_C_0] 8 12
+[2017.09.18-03.43.33:817][878]LogBlueprintUserMessages: [EditMap_C_0] 8 12
+[2017.09.18-03.43.33:827][879]LogBlueprintUserMessages: [EditMap_C_0] 8 12
+[2017.09.18-03.43.33:837][880]LogBlueprintUserMessages: [EditMap_C_0] 8 12
+[2017.09.18-03.43.33:848][881]LogBlueprintUserMessages: [EditMap_C_0] 8 12
+[2017.09.18-03.43.33:858][882]LogBlueprintUserMessages: [EditMap_C_0] 8 12
+[2017.09.18-03.43.33:869][883]LogBlueprintUserMessages: [EditMap_C_0] 8 13
+[2017.09.18-03.43.33:879][884]LogBlueprintUserMessages: [EditMap_C_0] 8 13
+[2017.09.18-03.43.33:889][885]LogBlueprintUserMessages: [EditMap_C_0] 8 13
+[2017.09.18-03.43.33:899][886]LogBlueprintUserMessages: [EditMap_C_0] 7 14
+[2017.09.18-03.43.33:909][887]LogBlueprintUserMessages: [EditMap_C_0] 7 15
+[2017.09.18-03.43.33:919][888]LogBlueprintUserMessages: [EditMap_C_0] 7 16
+[2017.09.18-03.43.33:929][889]LogBlueprintUserMessages: [EditMap_C_0] 6 18
+[2017.09.18-03.43.33:941][890]LogBlueprintUserMessages: [EditMap_C_0] 6 19
+[2017.09.18-03.43.33:952][891]LogBlueprintUserMessages: [EditMap_C_0] 6 20
+[2017.09.18-03.43.33:961][892]LogBlueprintUserMessages: [EditMap_C_0] 6 20
+[2017.09.18-03.43.33:971][893]LogBlueprintUserMessages: [EditMap_C_0] 5 20
+[2017.09.18-03.43.33:982][894]LogBlueprintUserMessages: [EditMap_C_0] 5 20
+[2017.09.18-03.43.33:992][895]LogBlueprintUserMessages: [EditMap_C_0] 5 20
+[2017.09.18-03.43.34:003][896]LogBlueprintUserMessages: [EditMap_C_0] 5 20
+[2017.09.18-03.43.34:014][897]LogBlueprintUserMessages: [EditMap_C_0] 5 20
+[2017.09.18-03.43.34:024][898]LogBlueprintUserMessages: [EditMap_C_0] 5 21
+[2017.09.18-03.43.34:035][899]LogBlueprintUserMessages: [EditMap_C_0] 5 21
+[2017.09.18-03.43.34:045][900]LogBlueprintUserMessages: [EditMap_C_0] 5 21
+[2017.09.18-03.43.34:056][901]LogBlueprintUserMessages: [EditMap_C_0] 5 21
+[2017.09.18-03.43.34:067][902]LogBlueprintUserMessages: [EditMap_C_0] 5 21
+[2017.09.18-03.43.34:077][903]LogBlueprintUserMessages: [EditMap_C_0] 5 22
+[2017.09.18-03.43.34:088][904]LogBlueprintUserMessages: [EditMap_C_0] 5 22
+[2017.09.18-03.43.34:098][905]LogBlueprintUserMessages: [EditMap_C_0] 5 22
+[2017.09.18-03.43.34:109][906]LogBlueprintUserMessages: [EditMap_C_0] 5 22
+[2017.09.18-03.43.34:120][907]LogBlueprintUserMessages: [EditMap_C_0] 5 22
+[2017.09.18-03.43.34:131][908]LogBlueprintUserMessages: [EditMap_C_0] 5 23
+[2017.09.18-03.43.34:142][909]LogBlueprintUserMessages: [EditMap_C_0] 5 23
+[2017.09.18-03.43.34:152][910]LogBlueprintUserMessages: [EditMap_C_0] 5 23
+[2017.09.18-03.43.34:163][911]LogBlueprintUserMessages: [EditMap_C_0] 5 23
+[2017.09.18-03.43.34:174][912]LogBlueprintUserMessages: [EditMap_C_0] 5 23
+[2017.09.18-03.43.34:185][913]LogBlueprintUserMessages: [EditMap_C_0] 5 24
+[2017.09.18-03.43.34:195][914]LogBlueprintUserMessages: [EditMap_C_0] 5 24
+[2017.09.18-03.43.34:206][915]LogBlueprintUserMessages: [EditMap_C_0] 5 24
+[2017.09.18-03.43.34:217][916]LogBlueprintUserMessages: [EditMap_C_0] 5 24
+[2017.09.18-03.43.34:227][917]LogBlueprintUserMessages: [EditMap_C_0] 5 24
+[2017.09.18-03.43.34:238][918]LogBlueprintUserMessages: [EditMap_C_0] 5 25
+[2017.09.18-03.43.34:249][919]LogBlueprintUserMessages: [EditMap_C_0] 5 25
+[2017.09.18-03.43.34:260][920]LogBlueprintUserMessages: [EditMap_C_0] 5 25
+[2017.09.18-03.43.34:271][921]LogBlueprintUserMessages: [EditMap_C_0] 5 25
+[2017.09.18-03.43.34:282][922]LogBlueprintUserMessages: [EditMap_C_0] 5 25
+[2017.09.18-03.43.34:293][923]LogBlueprintUserMessages: [EditMap_C_0] 5 26
+[2017.09.18-03.43.34:306][924]LogBlueprintUserMessages: [EditMap_C_0] 5 26
+[2017.09.18-03.43.34:320][925]LogBlueprintUserMessages: [EditMap_C_0] 5 26
+[2017.09.18-03.43.34:331][926]LogBlueprintUserMessages: [EditMap_C_0] 5 26
+[2017.09.18-03.43.34:342][927]LogBlueprintUserMessages: [EditMap_C_0] 5 26
+[2017.09.18-03.43.34:352][928]LogBlueprintUserMessages: [EditMap_C_0] 5 27
+[2017.09.18-03.43.34:365][929]LogBlueprintUserMessages: [EditMap_C_0] 5 27
+[2017.09.18-03.43.34:376][930]LogBlueprintUserMessages: [EditMap_C_0] 5 27
+[2017.09.18-03.43.34:388][931]LogBlueprintUserMessages: [EditMap_C_0] 5 27
+[2017.09.18-03.43.34:399][932]LogBlueprintUserMessages: [EditMap_C_0] 5 26
+[2017.09.18-03.43.34:410][933]LogBlueprintUserMessages: [EditMap_C_0] 5 24
+[2017.09.18-03.43.34:421][934]LogBlueprintUserMessages: [EditMap_C_0] 6 23
+[2017.09.18-03.43.34:432][935]LogBlueprintUserMessages: [EditMap_C_0] 6 21
+[2017.09.18-03.43.34:443][936]LogBlueprintUserMessages: [EditMap_C_0] 6 20
+[2017.09.18-03.43.34:454][937]LogBlueprintUserMessages: [EditMap_C_0] 7 19
+[2017.09.18-03.43.34:466][938]LogBlueprintUserMessages: [EditMap_C_0] 7 19
+[2017.09.18-03.43.34:477][939]LogBlueprintUserMessages: [EditMap_C_0] 7 18
+[2017.09.18-03.43.34:488][940]LogBlueprintUserMessages: [EditMap_C_0] 7 18
+[2017.09.18-03.43.34:500][941]LogBlueprintUserMessages: [EditMap_C_0] 7 18
+[2017.09.18-03.43.34:512][942]LogBlueprintUserMessages: [EditMap_C_0] 7 18
+[2017.09.18-03.43.34:523][943]LogBlueprintUserMessages: [EditMap_C_0] 7 18
+[2017.09.18-03.43.34:534][944]LogBlueprintUserMessages: [EditMap_C_0] 7 18
+[2017.09.18-03.43.34:545][945]LogBlueprintUserMessages: [EditMap_C_0] 7 18
+[2017.09.18-03.43.34:555][946]LogBlueprintUserMessages: [EditMap_C_0] 7 18
+[2017.09.18-03.43.34:566][947]LogBlueprintUserMessages: [EditMap_C_0] 7 18
+[2017.09.18-03.43.34:576][948]LogBlueprintUserMessages: [EditMap_C_0] 7 18
+[2017.09.18-03.43.34:588][949]LogBlueprintUserMessages: [EditMap_C_0] 7 18
+[2017.09.18-03.43.34:598][950]LogBlueprintUserMessages: [EditMap_C_0] 7 18
+[2017.09.18-03.43.34:609][951]LogBlueprintUserMessages: [EditMap_C_0] 7 18
+[2017.09.18-03.43.34:621][952]LogBlueprintUserMessages: [EditMap_C_0] 7 18
+[2017.09.18-03.43.34:632][953]LogBlueprintUserMessages: [EditMap_C_0] 7 17
+[2017.09.18-03.43.34:643][954]LogBlueprintUserMessages: [EditMap_C_0] 6 17
+[2017.09.18-03.43.34:655][955]LogBlueprintUserMessages: [EditMap_C_0] 5 16
+[2017.09.18-03.43.34:667][956]LogBlueprintUserMessages: [EditMap_C_0] 4 14
+[2017.09.18-03.43.34:678][957]LogBlueprintUserMessages: [EditMap_C_0] 3 13
+[2017.09.18-03.43.34:690][958]LogBlueprintUserMessages: [EditMap_C_0] 2 11
+[2017.09.18-03.43.34:700][959]LogBlueprintUserMessages: [EditMap_C_0] 2 9
+[2017.09.18-03.43.34:713][960]LogBlueprintUserMessages: [EditMap_C_0] 2 7
+[2017.09.18-03.43.34:726][961]LogBlueprintUserMessages: [EditMap_C_0] 1 6
+[2017.09.18-03.43.34:739][962]LogBlueprintUserMessages: [EditMap_C_0] 1 6
+[2017.09.18-03.43.34:752][963]LogBlueprintUserMessages: [EditMap_C_0] 1 6
+[2017.09.18-03.43.34:763][964]LogBlueprintUserMessages: [EditMap_C_0] 1 6
+[2017.09.18-03.43.34:774][965]LogBlueprintUserMessages: [EditMap_C_0] 1 6
+[2017.09.18-03.43.34:785][966]LogBlueprintUserMessages: [EditMap_C_0] 0 5
+[2017.09.18-03.43.34:796][967]LogBlueprintUserMessages: [EditMap_C_0] 0 5
+[2017.09.18-03.43.34:807][968]LogBlueprintUserMessages: [EditMap_C_0] 0 5
+[2017.09.18-03.43.34:818][969]LogBlueprintUserMessages: [EditMap_C_0] 0 5
+[2017.09.18-03.43.34:829][970]LogBlueprintUserMessages: [EditMap_C_0] 0 5
+[2017.09.18-03.43.34:973][984]LogBlueprintUserMessages: [EditMap_C_0] 0 1
+[2017.09.18-03.43.34:983][985]LogBlueprintUserMessages: [EditMap_C_0] 0 0
+[2017.09.18-03.43.34:992][986]LogBlueprintUserMessages: [EditMap_C_0] 1 0
+[2017.09.18-03.43.35:224][  9]LogBlueprintUserMessages: [EditMap_C_0] 7 1
+[2017.09.18-03.43.35:233][ 10]LogBlueprintUserMessages: [EditMap_C_0] 7 2
+[2017.09.18-03.43.35:243][ 11]LogBlueprintUserMessages: [EditMap_C_0] 7 5
+[2017.09.18-03.43.35:253][ 12]LogBlueprintUserMessages: [EditMap_C_0] 7 6
+[2017.09.18-03.43.35:263][ 13]LogBlueprintUserMessages: [EditMap_C_0] 7 7
+[2017.09.18-03.43.35:274][ 14]LogBlueprintUserMessages: [EditMap_C_0] 7 9
+[2017.09.18-03.43.35:284][ 15]LogBlueprintUserMessages: [EditMap_C_0] 7 9
+[2017.09.18-03.43.35:294][ 16]LogBlueprintUserMessages: [EditMap_C_0] 7 9
+[2017.09.18-03.43.35:303][ 17]LogBlueprintUserMessages: [EditMap_C_0] 7 10
+[2017.09.18-03.43.35:313][ 18]LogBlueprintUserMessages: [EditMap_C_0] 7 10
+[2017.09.18-03.43.35:323][ 19]LogBlueprintUserMessages: [EditMap_C_0] 7 10
+[2017.09.18-03.43.35:333][ 20]LogBlueprintUserMessages: [EditMap_C_0] 7 10
+[2017.09.18-03.43.35:343][ 21]LogBlueprintUserMessages: [EditMap_C_0] 7 10
+[2017.09.18-03.43.35:352][ 22]LogBlueprintUserMessages: [EditMap_C_0] 7 9
+[2017.09.18-03.43.35:362][ 23]LogBlueprintUserMessages: [EditMap_C_0] 7 9
+[2017.09.18-03.43.35:373][ 24]LogBlueprintUserMessages: [EditMap_C_0] 7 9
+[2017.09.18-03.43.35:384][ 25]LogBlueprintUserMessages: [EditMap_C_0] 7 9
+[2017.09.18-03.43.35:394][ 26]LogBlueprintUserMessages: [EditMap_C_0] 7 9
+[2017.09.18-03.43.35:403][ 27]LogBlueprintUserMessages: [EditMap_C_0] 7 9
+[2017.09.18-03.43.35:413][ 28]LogBlueprintUserMessages: [EditMap_C_0] 7 9
+[2017.09.18-03.43.35:422][ 29]LogBlueprintUserMessages: [EditMap_C_0] 7 9
+[2017.09.18-03.43.35:433][ 30]LogBlueprintUserMessages: [EditMap_C_0] 7 9
+[2017.09.18-03.43.35:443][ 31]LogBlueprintUserMessages: [EditMap_C_0] 7 8
+[2017.09.18-03.43.35:453][ 32]LogBlueprintUserMessages: [EditMap_C_0] 7 8
+[2017.09.18-03.43.35:463][ 33]LogBlueprintUserMessages: [EditMap_C_0] 7 8
+[2017.09.18-03.43.35:474][ 34]LogBlueprintUserMessages: [EditMap_C_0] 8 8
+[2017.09.18-03.43.35:484][ 35]LogBlueprintUserMessages: [EditMap_C_0] 9 7
+[2017.09.18-03.43.35:493][ 36]LogBlueprintUserMessages: [EditMap_C_0] 11 6
+[2017.09.18-03.43.35:502][ 37]LogBlueprintUserMessages: [EditMap_C_0] 13 5
+[2017.09.18-03.43.35:511][ 38]LogBlueprintUserMessages: [EditMap_C_0] 14 3
+[2017.09.18-03.43.35:913][ 80]LogBlueprintUserMessages: [EditMap_C_0] 0 3
+[2017.09.18-03.43.35:922][ 81]LogBlueprintUserMessages: [EditMap_C_0] 0 3
+[2017.09.18-03.43.35:932][ 82]LogBlueprintUserMessages: [EditMap_C_0] 0 4
+[2017.09.18-03.43.35:941][ 83]LogBlueprintUserMessages: [EditMap_C_0] 0 5
+[2017.09.18-03.43.35:950][ 84]LogBlueprintUserMessages: [EditMap_C_0] 0 5
+[2017.09.18-03.43.35:959][ 85]LogBlueprintUserMessages: [EditMap_C_0] 0 5
+[2017.09.18-03.43.35:969][ 86]LogBlueprintUserMessages: [EditMap_C_0] 0 5
+[2017.09.18-03.43.35:977][ 87]LogBlueprintUserMessages: [EditMap_C_0] 0 5
+[2017.09.18-03.43.35:986][ 88]LogBlueprintUserMessages: [EditMap_C_0] 0 5
+[2017.09.18-03.43.35:995][ 89]LogBlueprintUserMessages: [EditMap_C_0] 0 5
+[2017.09.18-03.43.36:006][ 90]LogBlueprintUserMessages: [EditMap_C_0] 0 4
+[2017.09.18-03.43.36:016][ 91]LogBlueprintUserMessages: [EditMap_C_0] 0 3
+[2017.09.18-03.43.36:261][118]LogBlueprintUserMessages: [EditMap_C_0] 14 2
+[2017.09.18-03.43.36:270][119]LogBlueprintUserMessages: [EditMap_C_0] 14 6
+[2017.09.18-03.43.36:279][120]LogBlueprintUserMessages: [EditMap_C_0] 15 8
+[2017.09.18-03.43.36:289][121]LogBlueprintUserMessages: [EditMap_C_0] 15 10
+[2017.09.18-03.43.36:297][122]LogBlueprintUserMessages: [EditMap_C_0] 15 11
+[2017.09.18-03.43.36:306][123]LogBlueprintUserMessages: [EditMap_C_0] 15 12
+[2017.09.18-03.43.36:316][124]LogBlueprintUserMessages: [EditMap_C_0] 15 13
+[2017.09.18-03.43.36:325][125]LogBlueprintUserMessages: [EditMap_C_0] 16 13
+[2017.09.18-03.43.36:334][126]LogBlueprintUserMessages: [EditMap_C_0] 16 13
+[2017.09.18-03.43.36:343][127]LogBlueprintUserMessages: [EditMap_C_0] 16 13
+[2017.09.18-03.43.36:352][128]LogBlueprintUserMessages: [EditMap_C_0] 16 13
+[2017.09.18-03.43.36:361][129]LogBlueprintUserMessages: [EditMap_C_0] 16 13
+[2017.09.18-03.43.36:370][130]LogBlueprintUserMessages: [EditMap_C_0] 17 13
+[2017.09.18-03.43.36:379][131]LogBlueprintUserMessages: [EditMap_C_0] 17 13
+[2017.09.18-03.43.36:389][132]LogBlueprintUserMessages: [EditMap_C_0] 17 13
+[2017.09.18-03.43.36:398][133]LogBlueprintUserMessages: [EditMap_C_0] 17 13
+[2017.09.18-03.43.36:407][134]LogBlueprintUserMessages: [EditMap_C_0] 17 13
+[2017.09.18-03.43.36:416][135]LogBlueprintUserMessages: [EditMap_C_0] 18 13
+[2017.09.18-03.43.36:425][136]LogBlueprintUserMessages: [EditMap_C_0] 18 13
+[2017.09.18-03.43.36:435][137]LogBlueprintUserMessages: [EditMap_C_0] 18 13
+[2017.09.18-03.43.36:444][138]LogBlueprintUserMessages: [EditMap_C_0] 18 13
+[2017.09.18-03.43.36:453][139]LogBlueprintUserMessages: [EditMap_C_0] 18 13
+[2017.09.18-03.43.36:462][140]LogBlueprintUserMessages: [EditMap_C_0] 19 13
+[2017.09.18-03.43.36:471][141]LogBlueprintUserMessages: [EditMap_C_0] 19 13
+[2017.09.18-03.43.36:480][142]LogBlueprintUserMessages: [EditMap_C_0] 19 13
+[2017.09.18-03.43.36:489][143]LogBlueprintUserMessages: [EditMap_C_0] 19 13
+[2017.09.18-03.43.36:498][144]LogBlueprintUserMessages: [EditMap_C_0] 19 13
+[2017.09.18-03.43.36:507][145]LogBlueprintUserMessages: [EditMap_C_0] 20 13
+[2017.09.18-03.43.36:516][146]LogBlueprintUserMessages: [EditMap_C_0] 20 13
+[2017.09.18-03.43.36:525][147]LogBlueprintUserMessages: [EditMap_C_0] 20 13
+[2017.09.18-03.43.36:534][148]LogBlueprintUserMessages: [EditMap_C_0] 20 13
+[2017.09.18-03.43.36:544][149]LogBlueprintUserMessages: [EditMap_C_0] 20 13
+[2017.09.18-03.43.36:553][150]LogBlueprintUserMessages: [EditMap_C_0] 21 13
+[2017.09.18-03.43.36:562][151]LogBlueprintUserMessages: [EditMap_C_0] 21 13
+[2017.09.18-03.43.36:572][152]LogBlueprintUserMessages: [EditMap_C_0] 21 13
+[2017.09.18-03.43.36:582][153]LogBlueprintUserMessages: [EditMap_C_0] 21 13
+[2017.09.18-03.43.36:592][154]LogBlueprintUserMessages: [EditMap_C_0] 21 13
+[2017.09.18-03.43.36:601][155]LogBlueprintUserMessages: [EditMap_C_0] 22 13
+[2017.09.18-03.43.36:611][156]LogBlueprintUserMessages: [EditMap_C_0] 22 13
+[2017.09.18-03.43.36:621][157]LogBlueprintUserMessages: [EditMap_C_0] 22 13
+[2017.09.18-03.43.36:631][158]LogBlueprintUserMessages: [EditMap_C_0] 22 13
+[2017.09.18-03.43.36:641][159]LogBlueprintUserMessages: [EditMap_C_0] 22 13
+[2017.09.18-03.43.36:651][160]LogBlueprintUserMessages: [EditMap_C_0] 23 13
+[2017.09.18-03.43.36:661][161]LogBlueprintUserMessages: [EditMap_C_0] 23 13
+[2017.09.18-03.43.36:674][162]LogBlueprintUserMessages: [EditMap_C_0] 23 13
+[2017.09.18-03.43.36:685][163]LogBlueprintUserMessages: [EditMap_C_0] 23 13
+[2017.09.18-03.43.36:694][164]LogBlueprintUserMessages: [EditMap_C_0] 23 13
+[2017.09.18-03.43.36:704][165]LogBlueprintUserMessages: [EditMap_C_0] 24 13
+[2017.09.18-03.43.36:714][166]LogBlueprintUserMessages: [EditMap_C_0] 24 13
+[2017.09.18-03.43.36:724][167]LogBlueprintUserMessages: [EditMap_C_0] 24 13
+[2017.09.18-03.43.36:734][168]LogBlueprintUserMessages: [EditMap_C_0] 24 13
+[2017.09.18-03.43.36:744][169]LogBlueprintUserMessages: [EditMap_C_0] 24 13
+[2017.09.18-03.43.36:754][170]LogBlueprintUserMessages: [EditMap_C_0] 25 13
+[2017.09.18-03.43.36:766][171]LogBlueprintUserMessages: [EditMap_C_0] 25 13
+[2017.09.18-03.43.36:776][172]LogBlueprintUserMessages: [EditMap_C_0] 25 13
+[2017.09.18-03.43.36:786][173]LogBlueprintUserMessages: [EditMap_C_0] 25 13
+[2017.09.18-03.43.36:796][174]LogBlueprintUserMessages: [EditMap_C_0] 25 14
+[2017.09.18-03.43.36:806][175]LogBlueprintUserMessages: [EditMap_C_0] 26 14
+[2017.09.18-03.43.36:816][176]LogBlueprintUserMessages: [EditMap_C_0] 26 14
+[2017.09.18-03.43.36:826][177]LogBlueprintUserMessages: [EditMap_C_0] 26 14
+[2017.09.18-03.43.36:837][178]LogBlueprintUserMessages: [EditMap_C_0] 26 14
+[2017.09.18-03.43.36:847][179]LogBlueprintUserMessages: [EditMap_C_0] 26 15
+[2017.09.18-03.43.36:857][180]LogBlueprintUserMessages: [EditMap_C_0] 27 15
+[2017.09.18-03.43.36:868][181]LogBlueprintUserMessages: [EditMap_C_0] 27 15
+[2017.09.18-03.43.36:878][182]LogBlueprintUserMessages: [EditMap_C_0] 27 16
+[2017.09.18-03.43.36:889][183]LogBlueprintUserMessages: [EditMap_C_0] 27 17
+[2017.09.18-03.43.36:899][184]LogBlueprintUserMessages: [EditMap_C_0] 28 19
+[2017.09.18-03.43.36:909][185]LogBlueprintUserMessages: [EditMap_C_0] 28 20
+[2017.09.18-03.43.36:920][186]LogBlueprintUserMessages: [EditMap_C_0] 28 21
+[2017.09.18-03.43.36:931][187]LogBlueprintUserMessages: [EditMap_C_0] 28 21
+[2017.09.18-03.43.36:941][188]LogBlueprintUserMessages: [EditMap_C_0] 28 21
+[2017.09.18-03.43.36:952][189]LogBlueprintUserMessages: [EditMap_C_0] 29 21
+[2017.09.18-03.43.36:962][190]LogBlueprintUserMessages: [EditMap_C_0] 29 22
+[2017.09.18-03.43.36:974][191]LogBlueprintUserMessages: [EditMap_C_0] 29 22
+[2017.09.18-03.43.36:985][192]LogBlueprintUserMessages: [EditMap_C_0] 29 22
+[2017.09.18-03.43.36:995][193]LogBlueprintUserMessages: [EditMap_C_0] 29 22
+[2017.09.18-03.43.37:006][194]LogBlueprintUserMessages: [EditMap_C_0] 30 22
+[2017.09.18-03.43.37:017][195]LogBlueprintUserMessages: [EditMap_C_0] 30 23
+[2017.09.18-03.43.37:028][196]LogBlueprintUserMessages: [EditMap_C_0] 30 23
+[2017.09.18-03.43.37:040][197]LogBlueprintUserMessages: [EditMap_C_0] 30 23
+[2017.09.18-03.43.37:052][198]LogBlueprintUserMessages: [EditMap_C_0] 30 23
+[2017.09.18-03.43.37:063][199]LogBlueprintUserMessages: [EditMap_C_0] 31 23
+[2017.09.18-03.43.37:076][200]LogBlueprintUserMessages: [EditMap_C_0] 31 24
+[2017.09.18-03.43.37:088][201]LogBlueprintUserMessages: [EditMap_C_0] 31 24
+[2017.09.18-03.43.37:101][202]LogBlueprintUserMessages: [EditMap_C_0] 31 24
+[2017.09.18-03.43.37:113][203]LogBlueprintUserMessages: [EditMap_C_0] 31 24
+[2017.09.18-03.43.37:125][204]LogBlueprintUserMessages: [EditMap_C_0] 32 24
+[2017.09.18-03.43.37:137][205]LogBlueprintUserMessages: [EditMap_C_0] 32 25
+[2017.09.18-03.43.37:149][206]LogBlueprintUserMessages: [EditMap_C_0] 32 25
+[2017.09.18-03.43.37:160][207]LogBlueprintUserMessages: [EditMap_C_0] 32 25
+[2017.09.18-03.43.37:173][208]LogBlueprintUserMessages: [EditMap_C_0] 32 23
+[2017.09.18-03.43.37:185][209]LogBlueprintUserMessages: [EditMap_C_0] 33 20
+[2017.09.18-03.43.37:197][210]LogBlueprintUserMessages: [EditMap_C_0] 33 18
+[2017.09.18-03.43.37:210][211]LogBlueprintUserMessages: [EditMap_C_0] 33 14
+[2017.09.18-03.43.37:223][212]LogBlueprintUserMessages: [EditMap_C_0] 33 10
+[2017.09.18-03.43.37:237][213]LogBlueprintUserMessages: [EditMap_C_0] 33 6
+[2017.09.18-03.43.37:252][214]LogBlueprintUserMessages: [EditMap_C_0] 34 3
+[2017.09.18-03.43.37:265][215]LogBlueprintUserMessages: [EditMap_C_0] 34 2
+[2017.09.18-03.43.37:279][216]LogBlueprintUserMessages: [EditMap_C_0] 34 0
+[2017.09.18-03.43.37:989][274]LogBlueprintUserMessages: [EditMap_C_0] 46 1
+[2017.09.18-03.43.38:001][275]LogBlueprintUserMessages: [EditMap_C_0] 46 4
+[2017.09.18-03.43.38:014][276]LogBlueprintUserMessages: [EditMap_C_0] 46 5
+[2017.09.18-03.43.38:026][277]LogBlueprintUserMessages: [EditMap_C_0] 46 8
+[2017.09.18-03.43.38:037][278]LogBlueprintUserMessages: [EditMap_C_0] 46 9
+[2017.09.18-03.43.38:049][279]LogBlueprintUserMessages: [EditMap_C_0] 47 11
+[2017.09.18-03.43.38:062][280]LogBlueprintUserMessages: [EditMap_C_0] 47 12
+[2017.09.18-03.43.38:074][281]LogBlueprintUserMessages: [EditMap_C_0] 47 12
+[2017.09.18-03.43.38:086][282]LogBlueprintUserMessages: [EditMap_C_0] 47 13
+[2017.09.18-03.43.38:099][283]LogBlueprintUserMessages: [EditMap_C_0] 48 13
+[2017.09.18-03.43.38:110][284]LogBlueprintUserMessages: [EditMap_C_0] 48 13
+[2017.09.18-03.43.38:122][285]LogBlueprintUserMessages: [EditMap_C_0] 48 13
+[2017.09.18-03.43.38:134][286]LogBlueprintUserMessages: [EditMap_C_0] 48 13
+[2017.09.18-03.43.38:146][287]LogBlueprintUserMessages: [EditMap_C_0] 48 13
+[2017.09.18-03.43.38:158][288]LogBlueprintUserMessages: [EditMap_C_0] 49 13
+[2017.09.18-03.43.38:170][289]LogBlueprintUserMessages: [EditMap_C_0] 49 13
+[2017.09.18-03.43.38:183][290]LogBlueprintUserMessages: [EditMap_C_0] 49 13
+[2017.09.18-03.43.38:194][291]LogBlueprintUserMessages: [EditMap_C_0] 49 13
+[2017.09.18-03.43.38:206][292]LogBlueprintUserMessages: [EditMap_C_0] 49 13
+[2017.09.18-03.43.38:218][293]LogBlueprintUserMessages: [EditMap_C_0] 50 13
+[2017.09.18-03.43.38:230][294]LogBlueprintUserMessages: [EditMap_C_0] 50 13
+[2017.09.18-03.43.38:243][295]LogBlueprintUserMessages: [EditMap_C_0] 50 13
+[2017.09.18-03.43.38:254][296]LogBlueprintUserMessages: [EditMap_C_0] 50 13
+[2017.09.18-03.43.38:267][297]LogBlueprintUserMessages: [EditMap_C_0] 50 13
+[2017.09.18-03.43.38:280][298]LogBlueprintUserMessages: [EditMap_C_0] 51 13
+[2017.09.18-03.43.38:292][299]LogBlueprintUserMessages: [EditMap_C_0] 51 13
+[2017.09.18-03.43.38:305][300]LogBlueprintUserMessages: [EditMap_C_0] 51 13
+[2017.09.18-03.43.38:318][301]LogBlueprintUserMessages: [EditMap_C_0] 51 13
+[2017.09.18-03.43.38:330][302]LogBlueprintUserMessages: [EditMap_C_0] 51 13
+[2017.09.18-03.43.38:342][303]LogBlueprintUserMessages: [EditMap_C_0] 52 13
+[2017.09.18-03.43.38:353][304]LogBlueprintUserMessages: [EditMap_C_0] 52 13
+[2017.09.18-03.43.38:366][305]LogBlueprintUserMessages: [EditMap_C_0] 52 13
+[2017.09.18-03.43.38:377][306]LogBlueprintUserMessages: [EditMap_C_0] 52 13
+[2017.09.18-03.43.38:389][307]LogBlueprintUserMessages: [EditMap_C_0] 52 13
+[2017.09.18-03.43.38:401][308]LogBlueprintUserMessages: [EditMap_C_0] 53 13
+[2017.09.18-03.43.38:414][309]LogBlueprintUserMessages: [EditMap_C_0] 53 13
+[2017.09.18-03.43.38:428][310]LogBlueprintUserMessages: [EditMap_C_0] 53 13
+[2017.09.18-03.43.38:440][311]LogBlueprintUserMessages: [EditMap_C_0] 53 13
+[2017.09.18-03.43.38:453][312]LogBlueprintUserMessages: [EditMap_C_0] 53 13
+[2017.09.18-03.43.38:465][313]LogBlueprintUserMessages: [EditMap_C_0] 54 13
+[2017.09.18-03.43.38:477][314]LogBlueprintUserMessages: [EditMap_C_0] 54 13
+[2017.09.18-03.43.38:489][315]LogBlueprintUserMessages: [EditMap_C_0] 54 13
+[2017.09.18-03.43.38:501][316]LogBlueprintUserMessages: [EditMap_C_0] 54 13
+[2017.09.18-03.43.38:514][317]LogBlueprintUserMessages: [EditMap_C_0] 54 13
+[2017.09.18-03.43.38:525][318]LogBlueprintUserMessages: [EditMap_C_0] 55 13
+[2017.09.18-03.43.38:538][319]LogBlueprintUserMessages: [EditMap_C_0] 55 13
+[2017.09.18-03.43.38:550][320]LogBlueprintUserMessages: [EditMap_C_0] 55 13
+[2017.09.18-03.43.38:562][321]LogBlueprintUserMessages: [EditMap_C_0] 55 13
+[2017.09.18-03.43.38:573][322]LogBlueprintUserMessages: [EditMap_C_0] 55 13
+[2017.09.18-03.43.38:585][323]LogBlueprintUserMessages: [EditMap_C_0] 56 13
+[2017.09.18-03.43.38:598][324]LogBlueprintUserMessages: [EditMap_C_0] 56 13
+[2017.09.18-03.43.38:609][325]LogBlueprintUserMessages: [EditMap_C_0] 56 13
+[2017.09.18-03.43.38:621][326]LogBlueprintUserMessages: [EditMap_C_0] 56 13
+[2017.09.18-03.43.38:632][327]LogBlueprintUserMessages: [EditMap_C_0] 56 13
+[2017.09.18-03.43.38:644][328]LogBlueprintUserMessages: [EditMap_C_0] 57 13
+[2017.09.18-03.43.38:655][329]LogBlueprintUserMessages: [EditMap_C_0] 57 13
+[2017.09.18-03.43.38:667][330]LogBlueprintUserMessages: [EditMap_C_0] 57 13
+[2017.09.18-03.43.38:679][331]LogBlueprintUserMessages: [EditMap_C_0] 57 13
+[2017.09.18-03.43.38:691][332]LogBlueprintUserMessages: [EditMap_C_0] 57 13
+[2017.09.18-03.43.38:703][333]LogBlueprintUserMessages: [EditMap_C_0] 58 13
+[2017.09.18-03.43.38:714][334]LogBlueprintUserMessages: [EditMap_C_0] 58 13
+[2017.09.18-03.43.38:726][335]LogBlueprintUserMessages: [EditMap_C_0] 58 13
+[2017.09.18-03.43.38:738][336]LogBlueprintUserMessages: [EditMap_C_0] 58 13
+[2017.09.18-03.43.38:750][337]LogBlueprintUserMessages: [EditMap_C_0] 58 13
+[2017.09.18-03.43.38:761][338]LogBlueprintUserMessages: [EditMap_C_0] 59 13
+[2017.09.18-03.43.38:772][339]LogBlueprintUserMessages: [EditMap_C_0] 59 13
+[2017.09.18-03.43.38:784][340]LogBlueprintUserMessages: [EditMap_C_0] 59 13
+[2017.09.18-03.43.38:795][341]LogBlueprintUserMessages: [EditMap_C_0] 59 13
+[2017.09.18-03.43.38:807][342]LogBlueprintUserMessages: [EditMap_C_0] 59 13
+[2017.09.18-03.43.38:820][343]LogBlueprintUserMessages: [EditMap_C_0] 60 13
+[2017.09.18-03.43.38:833][344]LogBlueprintUserMessages: [EditMap_C_0] 60 13
+[2017.09.18-03.43.38:845][345]LogBlueprintUserMessages: [EditMap_C_0] 60 13
+[2017.09.18-03.43.38:857][346]LogBlueprintUserMessages: [EditMap_C_0] 60 13
+[2017.09.18-03.43.38:869][347]LogBlueprintUserMessages: [EditMap_C_0] 60 13
+[2017.09.18-03.43.38:881][348]LogBlueprintUserMessages: [EditMap_C_0] 61 13
+[2017.09.18-03.43.38:892][349]LogBlueprintUserMessages: [EditMap_C_0] 61 13
+[2017.09.18-03.43.38:904][350]LogBlueprintUserMessages: [EditMap_C_0] 61 13
+[2017.09.18-03.43.38:915][351]LogBlueprintUserMessages: [EditMap_C_0] 61 13
+[2017.09.18-03.43.38:927][352]LogBlueprintUserMessages: [EditMap_C_0] 61 13
+[2017.09.18-03.43.38:939][353]LogBlueprintUserMessages: [EditMap_C_0] 62 13
+[2017.09.18-03.43.38:951][354]LogBlueprintUserMessages: [EditMap_C_0] 62 13
+[2017.09.18-03.43.38:962][355]LogBlueprintUserMessages: [EditMap_C_0] 62 13
+[2017.09.18-03.43.38:974][356]LogBlueprintUserMessages: [EditMap_C_0] 62 13
+[2017.09.18-03.43.38:986][357]LogBlueprintUserMessages: [EditMap_C_0] 62 13
+[2017.09.18-03.43.38:998][358]LogBlueprintUserMessages: [EditMap_C_0] 63 13
+[2017.09.18-03.43.39:010][359]LogBlueprintUserMessages: [EditMap_C_0] 63 13
+[2017.09.18-03.43.39:023][360]LogBlueprintUserMessages: [EditMap_C_0] 63 13
+[2017.09.18-03.43.39:035][361]LogBlueprintUserMessages: [EditMap_C_0] 63 13
+[2017.09.18-03.43.39:047][362]LogBlueprintUserMessages: [EditMap_C_0] 63 13
+[2017.09.18-03.43.39:059][363]LogBlueprintUserMessages: [EditMap_C_0] 64 13
+[2017.09.18-03.43.39:072][364]LogBlueprintUserMessages: [EditMap_C_0] 64 13
+[2017.09.18-03.43.39:085][365]LogBlueprintUserMessages: [EditMap_C_0] 64 13
+[2017.09.18-03.43.39:096][366]LogBlueprintUserMessages: [EditMap_C_0] 64 13
+[2017.09.18-03.43.39:108][367]LogBlueprintUserMessages: [EditMap_C_0] 64 13
+[2017.09.18-03.43.39:119][368]LogBlueprintUserMessages: [EditMap_C_0] 65 13
+[2017.09.18-03.43.39:132][369]LogBlueprintUserMessages: [EditMap_C_0] 65 13
+[2017.09.18-03.43.39:143][370]LogBlueprintUserMessages: [EditMap_C_0] 65 13
+[2017.09.18-03.43.39:155][371]LogBlueprintUserMessages: [EditMap_C_0] 65 13
+[2017.09.18-03.43.39:167][372]LogBlueprintUserMessages: [EditMap_C_0] 65 13
+[2017.09.18-03.43.39:178][373]LogBlueprintUserMessages: [EditMap_C_0] 66 13
+[2017.09.18-03.43.39:191][374]LogBlueprintUserMessages: [EditMap_C_0] 66 13
+[2017.09.18-03.43.39:203][375]LogBlueprintUserMessages: [EditMap_C_0] 66 13
+[2017.09.18-03.43.39:215][376]LogBlueprintUserMessages: [EditMap_C_0] 66 12
+[2017.09.18-03.43.39:228][377]LogBlueprintUserMessages: [EditMap_C_0] 66 11
+[2017.09.18-03.43.39:241][378]LogBlueprintUserMessages: [EditMap_C_0] 66 10
+[2017.09.18-03.43.39:253][379]LogBlueprintUserMessages: [EditMap_C_0] 66 10
+[2017.09.18-03.43.39:266][380]LogBlueprintUserMessages: [EditMap_C_0] 65 10
+[2017.09.18-03.43.39:279][381]LogBlueprintUserMessages: [EditMap_C_0] 65 10
+[2017.09.18-03.43.39:290][382]LogBlueprintUserMessages: [EditMap_C_0] 65 10
+[2017.09.18-03.43.39:303][383]LogBlueprintUserMessages: [EditMap_C_0] 65 10
+[2017.09.18-03.43.39:315][384]LogBlueprintUserMessages: [EditMap_C_0] 65 9
+[2017.09.18-03.43.39:326][385]LogBlueprintUserMessages: [EditMap_C_0] 65 9
+[2017.09.18-03.43.39:339][386]LogBlueprintUserMessages: [EditMap_C_0] 64 9
+[2017.09.18-03.43.39:351][387]LogBlueprintUserMessages: [EditMap_C_0] 64 9
+[2017.09.18-03.43.39:364][388]LogBlueprintUserMessages: [EditMap_C_0] 64 9
+[2017.09.18-03.43.39:376][389]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:387][390]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:400][391]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:412][392]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:424][393]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:436][394]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:448][395]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:460][396]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:472][397]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:483][398]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:495][399]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:506][400]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:518][401]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:528][402]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:539][403]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:551][404]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:562][405]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:573][406]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:586][407]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:598][408]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:610][409]LogBlueprintUserMessages: [EditMap_C_0] 64 8
+[2017.09.18-03.43.39:622][410]LogBlueprintUserMessages: [EditMap_C_0] 64 9
+[2017.09.18-03.43.39:635][411]LogBlueprintUserMessages: [EditMap_C_0] 65 9
+[2017.09.18-03.43.39:646][412]LogBlueprintUserMessages: [EditMap_C_0] 66 11
+[2017.09.18-03.43.39:657][413]LogBlueprintUserMessages: [EditMap_C_0] 67 12
+[2017.09.18-03.43.39:670][414]LogBlueprintUserMessages: [EditMap_C_0] 67 13
+[2017.09.18-03.43.39:682][415]LogBlueprintUserMessages: [EditMap_C_0] 68 14
+[2017.09.18-03.43.39:696][416]LogBlueprintUserMessages: [EditMap_C_0] 68 14
+[2017.09.18-03.43.39:710][417]LogBlueprintUserMessages: [EditMap_C_0] 68 15
+[2017.09.18-03.43.39:723][418]LogBlueprintUserMessages: [EditMap_C_0] 68 15
+[2017.09.18-03.43.39:735][419]LogBlueprintUserMessages: [EditMap_C_0] 69 15
+[2017.09.18-03.43.39:747][420]LogBlueprintUserMessages: [EditMap_C_0] 69 15
+[2017.09.18-03.43.39:759][421]LogBlueprintUserMessages: [EditMap_C_0] 69 15
+[2017.09.18-03.43.39:772][422]LogBlueprintUserMessages: [EditMap_C_0] 69 15
+[2017.09.18-03.43.39:784][423]LogBlueprintUserMessages: [EditMap_C_0] 69 15
+[2017.09.18-03.43.39:795][424]LogBlueprintUserMessages: [EditMap_C_0] 70 15
+[2017.09.18-03.43.39:808][425]LogBlueprintUserMessages: [EditMap_C_0] 70 15
+[2017.09.18-03.43.39:821][426]LogBlueprintUserMessages: [EditMap_C_0] 70 15
+[2017.09.18-03.43.39:833][427]LogBlueprintUserMessages: [EditMap_C_0] 70 15
+[2017.09.18-03.43.39:844][428]LogBlueprintUserMessages: [EditMap_C_0] 70 15
+[2017.09.18-03.43.39:856][429]LogBlueprintUserMessages: [EditMap_C_0] 71 15
+[2017.09.18-03.43.39:868][430]LogBlueprintUserMessages: [EditMap_C_0] 71 15
+[2017.09.18-03.43.39:880][431]LogBlueprintUserMessages: [EditMap_C_0] 71 15
+[2017.09.18-03.43.39:892][432]LogBlueprintUserMessages: [EditMap_C_0] 71 15
+[2017.09.18-03.43.39:904][433]LogBlueprintUserMessages: [EditMap_C_0] 71 15
+[2017.09.18-03.43.39:916][434]LogBlueprintUserMessages: [EditMap_C_0] 72 15
+[2017.09.18-03.43.39:928][435]LogBlueprintUserMessages: [EditMap_C_0] 72 15
+[2017.09.18-03.43.39:940][436]LogBlueprintUserMessages: [EditMap_C_0] 72 15
+[2017.09.18-03.43.39:953][437]LogBlueprintUserMessages: [EditMap_C_0] 72 15
+[2017.09.18-03.43.39:965][438]LogBlueprintUserMessages: [EditMap_C_0] 72 15
+[2017.09.18-03.43.39:977][439]LogBlueprintUserMessages: [EditMap_C_0] 73 15
+[2017.09.18-03.43.39:989][440]LogBlueprintUserMessages: [EditMap_C_0] 73 15
+[2017.09.18-03.43.40:002][441]LogBlueprintUserMessages: [EditMap_C_0] 73 15
+[2017.09.18-03.43.40:014][442]LogBlueprintUserMessages: [EditMap_C_0] 73 15
+[2017.09.18-03.43.40:025][443]LogBlueprintUserMessages: [EditMap_C_0] 73 15
+[2017.09.18-03.43.40:037][444]LogBlueprintUserMessages: [EditMap_C_0] 74 15
+[2017.09.18-03.43.40:049][445]LogBlueprintUserMessages: [EditMap_C_0] 74 15
+[2017.09.18-03.43.40:061][446]LogBlueprintUserMessages: [EditMap_C_0] 74 15
+[2017.09.18-03.43.40:073][447]LogBlueprintUserMessages: [EditMap_C_0] 74 15
+[2017.09.18-03.43.40:086][448]LogBlueprintUserMessages: [EditMap_C_0] 74 15
+[2017.09.18-03.43.40:097][449]LogBlueprintUserMessages: [EditMap_C_0] 75 15
+[2017.09.18-03.43.40:109][450]LogBlueprintUserMessages: [EditMap_C_0] 75 15
+[2017.09.18-03.43.40:120][451]LogBlueprintUserMessages: [EditMap_C_0] 75 15
+[2017.09.18-03.43.40:133][452]LogBlueprintUserMessages: [EditMap_C_0] 75 15
+[2017.09.18-03.43.40:144][453]LogBlueprintUserMessages: [EditMap_C_0] 75 15
+[2017.09.18-03.43.40:156][454]LogBlueprintUserMessages: [EditMap_C_0] 76 15
+[2017.09.18-03.43.40:170][455]LogBlueprintUserMessages: [EditMap_C_0] 76 15
+[2017.09.18-03.43.40:186][456]LogBlueprintUserMessages: [EditMap_C_0] 76 15
+[2017.09.18-03.43.40:198][457]LogBlueprintUserMessages: [EditMap_C_0] 76 15
+[2017.09.18-03.43.40:209][458]LogBlueprintUserMessages: [EditMap_C_0] 76 15
+[2017.09.18-03.43.40:220][459]LogBlueprintUserMessages: [EditMap_C_0] 77 15
+[2017.09.18-03.43.40:232][460]LogBlueprintUserMessages: [EditMap_C_0] 77 15
+[2017.09.18-03.43.40:243][461]LogBlueprintUserMessages: [EditMap_C_0] 77 15
+[2017.09.18-03.43.40:255][462]LogBlueprintUserMessages: [EditMap_C_0] 77 15
+[2017.09.18-03.43.40:268][463]LogBlueprintUserMessages: [EditMap_C_0] 77 15
+[2017.09.18-03.43.40:280][464]LogBlueprintUserMessages: [EditMap_C_0] 78 15
+[2017.09.18-03.43.40:293][465]LogBlueprintUserMessages: [EditMap_C_0] 78 15
+[2017.09.18-03.43.40:305][466]LogBlueprintUserMessages: [EditMap_C_0] 78 15
+[2017.09.18-03.43.40:318][467]LogBlueprintUserMessages: [EditMap_C_0] 78 15
+[2017.09.18-03.43.40:331][468]LogBlueprintUserMessages: [EditMap_C_0] 78 15
+[2017.09.18-03.43.40:342][469]LogBlueprintUserMessages: [EditMap_C_0] 79 16
+[2017.09.18-03.43.40:355][470]LogBlueprintUserMessages: [EditMap_C_0] 79 16
+[2017.09.18-03.43.40:367][471]LogBlueprintUserMessages: [EditMap_C_0] 79 17
+[2017.09.18-03.43.40:380][472]LogBlueprintUserMessages: [EditMap_C_0] 79 18
+[2017.09.18-03.43.40:392][473]LogBlueprintUserMessages: [EditMap_C_0] 79 19
+[2017.09.18-03.43.40:405][474]LogBlueprintUserMessages: [EditMap_C_0] 80 21
+[2017.09.18-03.43.40:417][475]LogBlueprintUserMessages: [EditMap_C_0] 80 23
+[2017.09.18-03.43.40:429][476]LogBlueprintUserMessages: [EditMap_C_0] 80 23
+[2017.09.18-03.43.40:442][477]LogBlueprintUserMessages: [EditMap_C_0] 80 23
+[2017.09.18-03.43.40:455][478]LogBlueprintUserMessages: [EditMap_C_0] 80 23
+[2017.09.18-03.43.40:467][479]LogBlueprintUserMessages: [EditMap_C_0] 81 24
+[2017.09.18-03.43.40:480][480]LogBlueprintUserMessages: [EditMap_C_0] 81 24
+[2017.09.18-03.43.40:493][481]LogBlueprintUserMessages: [EditMap_C_0] 80 24
+[2017.09.18-03.43.40:506][482]LogBlueprintUserMessages: [EditMap_C_0] 80 24
+[2017.09.18-03.43.40:519][483]LogBlueprintUserMessages: [EditMap_C_0] 80 23
+[2017.09.18-03.43.40:531][484]LogBlueprintUserMessages: [EditMap_C_0] 79 23
+[2017.09.18-03.43.40:543][485]LogBlueprintUserMessages: [EditMap_C_0] 79 23
+[2017.09.18-03.43.40:556][486]LogBlueprintUserMessages: [EditMap_C_0] 79 24
+[2017.09.18-03.43.40:568][487]LogBlueprintUserMessages: [EditMap_C_0] 79 24
+[2017.09.18-03.43.40:581][488]LogBlueprintUserMessages: [EditMap_C_0] 79 24
+[2017.09.18-03.43.40:594][489]LogBlueprintUserMessages: [EditMap_C_0] 79 24
+[2017.09.18-03.43.40:609][490]LogBlueprintUserMessages: [EditMap_C_0] 79 25
+[2017.09.18-03.43.40:624][491]LogBlueprintUserMessages: [EditMap_C_0] 79 25
+[2017.09.18-03.43.40:639][492]LogBlueprintUserMessages: [EditMap_C_0] 79 25
+[2017.09.18-03.43.40:653][493]LogBlueprintUserMessages: [EditMap_C_0] 79 25
+[2017.09.18-03.43.40:665][494]LogBlueprintUserMessages: [EditMap_C_0] 78 25
+[2017.09.18-03.43.40:677][495]LogBlueprintUserMessages: [EditMap_C_0] 78 25
+[2017.09.18-03.43.40:690][496]LogBlueprintUserMessages: [EditMap_C_0] 78 25
+[2017.09.18-03.43.40:702][497]LogBlueprintUserMessages: [EditMap_C_0] 78 25
+[2017.09.18-03.43.40:715][498]LogBlueprintUserMessages: [EditMap_C_0] 78 26
+[2017.09.18-03.43.40:727][499]LogBlueprintUserMessages: [EditMap_C_0] 78 26
+[2017.09.18-03.43.40:739][500]LogBlueprintUserMessages: [EditMap_C_0] 78 26
+[2017.09.18-03.43.40:751][501]LogBlueprintUserMessages: [EditMap_C_0] 78 26
+[2017.09.18-03.43.40:763][502]LogBlueprintUserMessages: [EditMap_C_0] 78 26
+[2017.09.18-03.43.40:775][503]LogBlueprintUserMessages: [EditMap_C_0] 78 27
+[2017.09.18-03.43.40:788][504]LogBlueprintUserMessages: [EditMap_C_0] 78 27
+[2017.09.18-03.43.40:801][505]LogBlueprintUserMessages: [EditMap_C_0] 78 27
+[2017.09.18-03.43.40:813][506]LogBlueprintUserMessages: [EditMap_C_0] 78 27
+[2017.09.18-03.43.40:827][507]LogBlueprintUserMessages: [EditMap_C_0] 78 27
+[2017.09.18-03.43.40:841][508]LogBlueprintUserMessages: [EditMap_C_0] 78 28
+[2017.09.18-03.43.40:855][509]LogBlueprintUserMessages: [EditMap_C_0] 79 28
+[2017.09.18-03.43.40:869][510]LogBlueprintUserMessages: [EditMap_C_0] 79 28
+[2017.09.18-03.43.40:883][511]LogBlueprintUserMessages: [EditMap_C_0] 80 28
+[2017.09.18-03.43.40:896][512]LogBlueprintUserMessages: [EditMap_C_0] 81 28
+[2017.09.18-03.43.40:910][513]LogBlueprintUserMessages: [EditMap_C_0] 82 28
+[2017.09.18-03.43.40:924][514]LogBlueprintUserMessages: [EditMap_C_0] 82 27
+[2017.09.18-03.43.40:938][515]LogBlueprintUserMessages: [EditMap_C_0] 82 26
+[2017.09.18-03.43.40:951][516]LogBlueprintUserMessages: [EditMap_C_0] 82 25
+[2017.09.18-03.43.40:965][517]LogBlueprintUserMessages: [EditMap_C_0] 83 24
+[2017.09.18-03.43.40:978][518]LogBlueprintUserMessages: [EditMap_C_0] 83 24
+[2017.09.18-03.43.40:993][519]LogBlueprintUserMessages: [EditMap_C_0] 83 23
+[2017.09.18-03.43.41:007][520]LogBlueprintUserMessages: [EditMap_C_0] 83 23
+[2017.09.18-03.43.41:020][521]LogBlueprintUserMessages: [EditMap_C_0] 83 23
+[2017.09.18-03.43.41:033][522]LogBlueprintUserMessages: [EditMap_C_0] 84 23
+[2017.09.18-03.43.41:047][523]LogBlueprintUserMessages: [EditMap_C_0] 84 23
+[2017.09.18-03.43.41:061][524]LogBlueprintUserMessages: [EditMap_C_0] 84 23
+[2017.09.18-03.43.41:074][525]LogBlueprintUserMessages: [EditMap_C_0] 84 23
+[2017.09.18-03.43.41:089][526]LogBlueprintUserMessages: [EditMap_C_0] 84 23
+[2017.09.18-03.43.41:102][527]LogBlueprintUserMessages: [EditMap_C_0] 85 23
+[2017.09.18-03.43.41:115][528]LogBlueprintUserMessages: [EditMap_C_0] 85 23
+[2017.09.18-03.43.41:128][529]LogBlueprintUserMessages: [EditMap_C_0] 85 23
+[2017.09.18-03.43.41:140][530]LogBlueprintUserMessages: [EditMap_C_0] 85 23
+[2017.09.18-03.43.41:153][531]LogBlueprintUserMessages: [EditMap_C_0] 85 23
+[2017.09.18-03.43.41:166][532]LogBlueprintUserMessages: [EditMap_C_0] 86 23
+[2017.09.18-03.43.41:179][533]LogBlueprintUserMessages: [EditMap_C_0] 86 23
+[2017.09.18-03.43.41:193][534]LogBlueprintUserMessages: [EditMap_C_0] 86 23
+[2017.09.18-03.43.41:205][535]LogBlueprintUserMessages: [EditMap_C_0] 85 24
+[2017.09.18-03.43.41:219][536]LogBlueprintUserMessages: [EditMap_C_0] 84 25
+[2017.09.18-03.43.41:233][537]LogBlueprintUserMessages: [EditMap_C_0] 82 27
+[2017.09.18-03.43.41:246][538]LogBlueprintUserMessages: [EditMap_C_0] 80 27
+[2017.09.18-03.43.41:261][539]LogBlueprintUserMessages: [EditMap_C_0] 79 26
+[2017.09.18-03.43.41:276][540]LogBlueprintUserMessages: [EditMap_C_0] 78 26
+[2017.09.18-03.43.41:289][541]LogBlueprintUserMessages: [EditMap_C_0] 78 26
+[2017.09.18-03.43.41:303][542]LogBlueprintUserMessages: [EditMap_C_0] 77 26
+[2017.09.18-03.43.41:317][543]LogBlueprintUserMessages: [EditMap_C_0] 77 26
+[2017.09.18-03.43.41:330][544]LogBlueprintUserMessages: [EditMap_C_0] 77 26
+[2017.09.18-03.43.41:344][545]LogBlueprintUserMessages: [EditMap_C_0] 76 26
+[2017.09.18-03.43.41:358][546]LogBlueprintUserMessages: [EditMap_C_0] 76 26
+[2017.09.18-03.43.41:371][547]LogBlueprintUserMessages: [EditMap_C_0] 75 25
+[2017.09.18-03.43.41:385][548]LogBlueprintUserMessages: [EditMap_C_0] 73 25
+[2017.09.18-03.43.41:398][549]LogBlueprintUserMessages: [EditMap_C_0] 73 25
+[2017.09.18-03.43.41:412][550]LogBlueprintUserMessages: [EditMap_C_0] 72 24
+[2017.09.18-03.43.41:425][551]LogBlueprintUserMessages: [EditMap_C_0] 71 24
+[2017.09.18-03.43.41:438][552]LogBlueprintUserMessages: [EditMap_C_0] 71 24
+[2017.09.18-03.43.41:454][553]LogBlueprintUserMessages: [EditMap_C_0] 70 24
+[2017.09.18-03.43.41:470][554]LogBlueprintUserMessages: [EditMap_C_0] 70 25
+[2017.09.18-03.43.41:484][555]LogBlueprintUserMessages: [EditMap_C_0] 70 25
+[2017.09.18-03.43.41:498][556]LogBlueprintUserMessages: [EditMap_C_0] 70 25
+[2017.09.18-03.43.41:511][557]LogBlueprintUserMessages: [EditMap_C_0] 70 25
+[2017.09.18-03.43.41:525][558]LogBlueprintUserMessages: [EditMap_C_0] 69 25
+[2017.09.18-03.43.41:538][559]LogBlueprintUserMessages: [EditMap_C_0] 69 26
+[2017.09.18-03.43.41:553][560]LogBlueprintUserMessages: [EditMap_C_0] 69 26
+[2017.09.18-03.43.41:567][561]LogBlueprintUserMessages: [EditMap_C_0] 69 26
+[2017.09.18-03.43.41:581][562]LogBlueprintUserMessages: [EditMap_C_0] 69 26
+[2017.09.18-03.43.41:595][563]LogBlueprintUserMessages: [EditMap_C_0] 69 26
+[2017.09.18-03.43.41:609][564]LogBlueprintUserMessages: [EditMap_C_0] 69 25
+[2017.09.18-03.43.41:624][565]LogBlueprintUserMessages: [EditMap_C_0] 70 24
+[2017.09.18-03.43.41:638][566]LogBlueprintUserMessages: [EditMap_C_0] 71 24
+[2017.09.18-03.43.41:652][567]LogBlueprintUserMessages: [EditMap_C_0] 73 22
+[2017.09.18-03.43.41:667][568]LogBlueprintUserMessages: [EditMap_C_0] 77 20
+[2017.09.18-03.43.41:681][569]LogBlueprintUserMessages: [EditMap_C_0] 84 15
+[2017.09.18-03.43.41:697][570]LogBlueprintUserMessages: [EditMap_C_0] 84 9
+[2017.09.18-03.43.41:713][571]LogBlueprintUserMessages: [EditMap_C_0] 84 3
+[2017.09.18-03.43.41:729][572]LogBlueprintUserMessages: [EditMap_C_0] 85 3
+[2017.09.18-03.43.41:743][573]LogBlueprintUserMessages: [EditMap_C_0] 85 3
+[2017.09.18-03.43.41:757][574]LogBlueprintUserMessages: [EditMap_C_0] 85 3
+[2017.09.18-03.43.41:772][575]LogBlueprintUserMessages: [EditMap_C_0] 85 3
+[2017.09.18-03.43.41:786][576]LogBlueprintUserMessages: [EditMap_C_0] 85 2
+[2017.09.18-03.43.41:800][577]LogBlueprintUserMessages: [EditMap_C_0] 86 2
+[2017.09.18-03.43.41:814][578]LogBlueprintUserMessages: [EditMap_C_0] 86 2
+[2017.09.18-03.43.41:827][579]LogBlueprintUserMessages: [EditMap_C_0] 86 2
+[2017.09.18-03.43.41:841][580]LogBlueprintUserMessages: [EditMap_C_0] 86 2
+[2017.09.18-03.43.41:855][581]LogBlueprintUserMessages: [EditMap_C_0] 86 1
+[2017.09.18-03.43.41:869][582]LogBlueprintUserMessages: [EditMap_C_0] 87 1
+[2017.09.18-03.43.41:882][583]LogBlueprintUserMessages: [EditMap_C_0] 87 1
+[2017.09.18-03.43.41:895][584]LogBlueprintUserMessages: [EditMap_C_0] 87 1
+[2017.09.18-03.43.41:908][585]LogBlueprintUserMessages: [EditMap_C_0] 87 1
+[2017.09.18-03.43.41:922][586]LogBlueprintUserMessages: [EditMap_C_0] 87 0
+[2017.09.18-03.43.41:936][587]LogBlueprintUserMessages: [EditMap_C_0] 88 0
+[2017.09.18-03.43.41:949][588]LogBlueprintUserMessages: [EditMap_C_0] 88 0
+[2017.09.18-03.43.41:962][589]LogBlueprintUserMessages: [EditMap_C_0] 88 0
+[2017.09.18-03.43.43:340][721]LogBlueprintUserMessages: [EditMap_C_0] 99 7
+[2017.09.18-03.43.43:349][722]LogBlueprintUserMessages: [EditMap_C_0] 97 6
+[2017.09.18-03.43.43:357][723]LogBlueprintUserMessages: [EditMap_C_0] 97 5
+[2017.09.18-03.43.43:365][724]LogBlueprintUserMessages: [EditMap_C_0] 97 5
+[2017.09.18-03.43.43:374][725]LogBlueprintUserMessages: [EditMap_C_0] 97 5
+[2017.09.18-03.43.43:382][726]LogBlueprintUserMessages: [EditMap_C_0] 96 5
+[2017.09.18-03.43.43:390][727]LogBlueprintUserMessages: [EditMap_C_0] 96 5
+[2017.09.18-03.43.43:399][728]LogBlueprintUserMessages: [EditMap_C_0] 96 5
+[2017.09.18-03.43.43:407][729]LogBlueprintUserMessages: [EditMap_C_0] 96 5
+[2017.09.18-03.43.43:415][730]LogBlueprintUserMessages: [EditMap_C_0] 95 4
+[2017.09.18-03.43.43:424][731]LogBlueprintUserMessages: [EditMap_C_0] 95 4
+[2017.09.18-03.43.43:432][732]LogBlueprintUserMessages: [EditMap_C_0] 95 4
+[2017.09.18-03.43.43:440][733]LogBlueprintUserMessages: [EditMap_C_0] 95 4
+[2017.09.18-03.43.43:449][734]LogBlueprintUserMessages: [EditMap_C_0] 95 4
+[2017.09.18-03.43.43:457][735]LogBlueprintUserMessages: [EditMap_C_0] 95 4
+[2017.09.18-03.43.43:465][736]LogBlueprintUserMessages: [EditMap_C_0] 95 4
+[2017.09.18-03.43.43:474][737]LogBlueprintUserMessages: [EditMap_C_0] 95 4
+[2017.09.18-03.43.43:482][738]LogBlueprintUserMessages: [EditMap_C_0] 95 4
+[2017.09.18-03.43.43:491][739]LogBlueprintUserMessages: [EditMap_C_0] 95 4
+[2017.09.18-03.43.43:499][740]LogBlueprintUserMessages: [EditMap_C_0] 95 3
+[2017.09.18-03.43.43:507][741]LogBlueprintUserMessages: [EditMap_C_0] 95 3
+[2017.09.18-03.43.43:515][742]LogBlueprintUserMessages: [EditMap_C_0] 96 3
+[2017.09.18-03.43.43:524][743]LogBlueprintUserMessages: [EditMap_C_0] 96 3
+[2017.09.18-03.43.43:533][744]LogBlueprintUserMessages: [EditMap_C_0] 96 3
+[2017.09.18-03.43.43:542][745]LogBlueprintUserMessages: [EditMap_C_0] 96 3
+[2017.09.18-03.43.43:553][746]LogBlueprintUserMessages: [EditMap_C_0] 96 3
+[2017.09.18-03.43.43:562][747]LogBlueprintUserMessages: [EditMap_C_0] 96 3
+[2017.09.18-03.43.43:572][748]LogBlueprintUserMessages: [EditMap_C_0] 96 3
+[2017.09.18-03.43.43:583][749]LogBlueprintUserMessages: [EditMap_C_0] 96 3
+[2017.09.18-03.43.43:592][750]LogBlueprintUserMessages: [EditMap_C_0] 95 3
+[2017.09.18-03.43.43:601][751]LogBlueprintUserMessages: [EditMap_C_0] 94 4
+[2017.09.18-03.43.43:609][752]LogBlueprintUserMessages: [EditMap_C_0] 94 5
+[2017.09.18-03.43.43:618][753]LogBlueprintUserMessages: [EditMap_C_0] 94 5
+[2017.09.18-03.43.43:627][754]LogBlueprintUserMessages: [EditMap_C_0] 94 7
+[2017.09.18-03.43.43:634][755]LogBlueprintUserMessages: [EditMap_C_0] 94 7
+[2017.09.18-03.43.43:643][756]LogBlueprintUserMessages: [EditMap_C_0] 93 7
+[2017.09.18-03.43.43:651][757]LogBlueprintUserMessages: [EditMap_C_0] 93 7
+[2017.09.18-03.43.43:660][758]LogBlueprintUserMessages: [EditMap_C_0] 93 8
+[2017.09.18-03.43.43:669][759]LogBlueprintUserMessages: [EditMap_C_0] 93 8
+[2017.09.18-03.43.43:677][760]LogBlueprintUserMessages: [EditMap_C_0] 93 8
+[2017.09.18-03.43.43:686][761]LogBlueprintUserMessages: [EditMap_C_0] 92 8
+[2017.09.18-03.43.43:695][762]LogBlueprintUserMessages: [EditMap_C_0] 92 8
+[2017.09.18-03.43.43:704][763]LogBlueprintUserMessages: [EditMap_C_0] 92 9
+[2017.09.18-03.43.43:712][764]LogBlueprintUserMessages: [EditMap_C_0] 92 9
+[2017.09.18-03.43.43:722][765]LogBlueprintUserMessages: [EditMap_C_0] 92 9
+[2017.09.18-03.43.43:732][766]LogBlueprintUserMessages: [EditMap_C_0] 91 9
+[2017.09.18-03.43.43:742][767]LogBlueprintUserMessages: [EditMap_C_0] 91 9
+[2017.09.18-03.43.43:751][768]LogBlueprintUserMessages: [EditMap_C_0] 91 10
+[2017.09.18-03.43.43:761][769]LogBlueprintUserMessages: [EditMap_C_0] 91 10
+[2017.09.18-03.43.43:770][770]LogBlueprintUserMessages: [EditMap_C_0] 91 10
+[2017.09.18-03.43.43:780][771]LogBlueprintUserMessages: [EditMap_C_0] 90 10
+[2017.09.18-03.43.43:789][772]LogBlueprintUserMessages: [EditMap_C_0] 90 10
+[2017.09.18-03.43.43:798][773]LogBlueprintUserMessages: [EditMap_C_0] 90 11
+[2017.09.18-03.43.43:807][774]LogBlueprintUserMessages: [EditMap_C_0] 90 11
+[2017.09.18-03.43.43:817][775]LogBlueprintUserMessages: [EditMap_C_0] 90 11
+[2017.09.18-03.43.43:826][776]LogBlueprintUserMessages: [EditMap_C_0] 89 11
+[2017.09.18-03.43.43:835][777]LogBlueprintUserMessages: [EditMap_C_0] 89 11
+[2017.09.18-03.43.43:844][778]LogBlueprintUserMessages: [EditMap_C_0] 89 12
+[2017.09.18-03.43.43:854][779]LogBlueprintUserMessages: [EditMap_C_0] 89 12
+[2017.09.18-03.43.43:864][780]LogBlueprintUserMessages: [EditMap_C_0] 89 12
+[2017.09.18-03.43.43:873][781]LogBlueprintUserMessages: [EditMap_C_0] 88 12
+[2017.09.18-03.43.43:883][782]LogBlueprintUserMessages: [EditMap_C_0] 88 13
+[2017.09.18-03.43.43:893][783]LogBlueprintUserMessages: [EditMap_C_0] 88 13
+[2017.09.18-03.43.43:903][784]LogBlueprintUserMessages: [EditMap_C_0] 88 13
+[2017.09.18-03.43.43:913][785]LogBlueprintUserMessages: [EditMap_C_0] 88 13
+[2017.09.18-03.43.43:923][786]LogBlueprintUserMessages: [EditMap_C_0] 89 14
+[2017.09.18-03.43.43:933][787]LogBlueprintUserMessages: [EditMap_C_0] 89 14
+[2017.09.18-03.43.43:943][788]LogBlueprintUserMessages: [EditMap_C_0] 90 15
+[2017.09.18-03.43.43:953][789]LogBlueprintUserMessages: [EditMap_C_0] 90 15
+[2017.09.18-03.43.43:963][790]LogBlueprintUserMessages: [EditMap_C_0] 91 16
+[2017.09.18-03.43.43:973][791]LogBlueprintUserMessages: [EditMap_C_0] 92 16
+[2017.09.18-03.43.43:984][792]LogBlueprintUserMessages: [EditMap_C_0] 92 17
+[2017.09.18-03.43.43:993][793]LogBlueprintUserMessages: [EditMap_C_0] 93 17
+[2017.09.18-03.43.44:005][794]LogBlueprintUserMessages: [EditMap_C_0] 95 17
+[2017.09.18-03.43.44:016][795]LogBlueprintUserMessages: [EditMap_C_0] 97 17
+[2017.09.18-03.43.44:026][796]LogBlueprintUserMessages: [EditMap_C_0] 98 16
+[2017.09.18-03.43.44:037][797]LogBlueprintUserMessages: [EditMap_C_0] 98 16
+[2017.09.18-03.43.44:048][798]LogBlueprintUserMessages: [EditMap_C_0] 100 14
+[2017.09.18-03.43.44:497][842]LogBlueprintUserMessages: [EditMap_C_0] 100 5
+[2017.09.18-03.43.44:508][843]LogBlueprintUserMessages: [EditMap_C_0] 99 5
+[2017.09.18-03.43.44:518][844]LogBlueprintUserMessages: [EditMap_C_0] 98 6
+[2017.09.18-03.43.44:528][845]LogBlueprintUserMessages: [EditMap_C_0] 97 6
+[2017.09.18-03.43.44:538][846]LogBlueprintUserMessages: [EditMap_C_0] 97 6
+[2017.09.18-03.43.44:548][847]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:557][848]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:566][849]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:576][850]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:585][851]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:594][852]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:604][853]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:612][854]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:622][855]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:632][856]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:641][857]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:652][858]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:662][859]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:671][860]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:680][861]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:689][862]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:699][863]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:709][864]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:718][865]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:727][866]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:738][867]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:747][868]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:757][869]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:768][870]LogBlueprintUserMessages: [EditMap_C_0] 97 7
+[2017.09.18-03.43.44:778][871]LogBlueprintUserMessages: [EditMap_C_0] 97 8
+[2017.09.18-03.43.44:788][872]LogBlueprintUserMessages: [EditMap_C_0] 97 8
+[2017.09.18-03.43.44:798][873]LogBlueprintUserMessages: [EditMap_C_0] 98 8
+[2017.09.18-03.43.44:808][874]LogBlueprintUserMessages: [EditMap_C_0] 98 9
+[2017.09.18-03.43.44:818][875]LogBlueprintUserMessages: [EditMap_C_0] 98 10
+[2017.09.18-03.43.44:827][876]LogBlueprintUserMessages: [EditMap_C_0] 98 12
+[2017.09.18-03.43.44:837][877]LogBlueprintUserMessages: [EditMap_C_0] 98 13
+[2017.09.18-03.43.44:848][878]LogBlueprintUserMessages: [EditMap_C_0] 98 14
+[2017.09.18-03.43.44:858][879]LogBlueprintUserMessages: [EditMap_C_0] 98 17
+[2017.09.18-03.43.44:868][880]LogBlueprintUserMessages: [EditMap_C_0] 98 17
+[2017.09.18-03.43.44:878][881]LogBlueprintUserMessages: [EditMap_C_0] 98 17
+[2017.09.18-03.43.44:888][882]LogBlueprintUserMessages: [EditMap_C_0] 97 17
+[2017.09.18-03.43.44:897][883]LogBlueprintUserMessages: [EditMap_C_0] 97 17
+[2017.09.18-03.43.44:907][884]LogBlueprintUserMessages: [EditMap_C_0] 97 18
+[2017.09.18-03.43.44:916][885]LogBlueprintUserMessages: [EditMap_C_0] 97 18
+[2017.09.18-03.43.44:925][886]LogBlueprintUserMessages: [EditMap_C_0] 97 18
+[2017.09.18-03.43.44:935][887]LogBlueprintUserMessages: [EditMap_C_0] 96 18
+[2017.09.18-03.43.44:945][888]LogBlueprintUserMessages: [EditMap_C_0] 96 18
+[2017.09.18-03.43.44:956][889]LogBlueprintUserMessages: [EditMap_C_0] 96 18
+[2017.09.18-03.43.44:966][890]LogBlueprintUserMessages: [EditMap_C_0] 96 18
+[2017.09.18-03.43.44:976][891]LogBlueprintUserMessages: [EditMap_C_0] 96 19
+[2017.09.18-03.43.44:986][892]LogBlueprintUserMessages: [EditMap_C_0] 96 19
+[2017.09.18-03.43.44:997][893]LogBlueprintUserMessages: [EditMap_C_0] 96 19
+[2017.09.18-03.43.45:007][894]LogBlueprintUserMessages: [EditMap_C_0] 96 19
+[2017.09.18-03.43.45:018][895]LogBlueprintUserMessages: [EditMap_C_0] 96 19
+[2017.09.18-03.43.45:028][896]LogBlueprintUserMessages: [EditMap_C_0] 96 20
+[2017.09.18-03.43.45:040][897]LogBlueprintUserMessages: [EditMap_C_0] 96 20
+[2017.09.18-03.43.45:051][898]LogBlueprintUserMessages: [EditMap_C_0] 96 20
+[2017.09.18-03.43.45:062][899]LogBlueprintUserMessages: [EditMap_C_0] 96 20
+[2017.09.18-03.43.45:073][900]LogBlueprintUserMessages: [EditMap_C_0] 96 20
+[2017.09.18-03.43.45:084][901]LogBlueprintUserMessages: [EditMap_C_0] 96 19
+[2017.09.18-03.43.45:094][902]LogBlueprintUserMessages: [EditMap_C_0] 96 19
+[2017.09.18-03.43.45:105][903]LogBlueprintUserMessages: [EditMap_C_0] 96 17
+[2017.09.18-03.43.45:116][904]LogBlueprintUserMessages: [EditMap_C_0] 96 16
+[2017.09.18-03.43.45:127][905]LogBlueprintUserMessages: [EditMap_C_0] 95 13
+[2017.09.18-03.43.45:137][906]LogBlueprintUserMessages: [EditMap_C_0] 95 12
+[2017.09.18-03.43.45:147][907]LogBlueprintUserMessages: [EditMap_C_0] 95 10
+[2017.09.18-03.43.45:158][908]LogBlueprintUserMessages: [EditMap_C_0] 95 8
+[2017.09.18-03.43.45:169][909]LogBlueprintUserMessages: [EditMap_C_0] 94 4
+[2017.09.18-03.43.45:179][910]LogBlueprintUserMessages: [EditMap_C_0] 94 0
+[2017.09.18-03.43.45:741][969]LogBlueprintUserMessages: [EditMap_C_0] 97 0
+[2017.09.18-03.43.45:751][970]LogBlueprintUserMessages: [EditMap_C_0] 97 1
+[2017.09.18-03.43.45:760][971]LogBlueprintUserMessages: [EditMap_C_0] 97 1
+[2017.09.18-03.43.45:770][972]LogBlueprintUserMessages: [EditMap_C_0] 97 1
+[2017.09.18-03.43.45:779][973]LogBlueprintUserMessages: [EditMap_C_0] 97 2
+[2017.09.18-03.43.45:790][974]LogBlueprintUserMessages: [EditMap_C_0] 97 2
+[2017.09.18-03.43.45:800][975]LogBlueprintUserMessages: [EditMap_C_0] 97 2
+[2017.09.18-03.43.45:810][976]LogBlueprintUserMessages: [EditMap_C_0] 97 2
+[2017.09.18-03.43.45:820][977]LogBlueprintUserMessages: [EditMap_C_0] 97 2
+[2017.09.18-03.43.45:830][978]LogBlueprintUserMessages: [EditMap_C_0] 97 2
+[2017.09.18-03.43.45:840][979]LogBlueprintUserMessages: [EditMap_C_0] 97 2
+[2017.09.18-03.43.45:850][980]LogBlueprintUserMessages: [EditMap_C_0] 97 2
+[2017.09.18-03.43.45:860][981]LogBlueprintUserMessages: [EditMap_C_0] 97 2
+[2017.09.18-03.43.45:870][982]LogBlueprintUserMessages: [EditMap_C_0] 97 2
+[2017.09.18-03.43.45:880][983]LogBlueprintUserMessages: [EditMap_C_0] 97 2
+[2017.09.18-03.43.45:890][984]LogBlueprintUserMessages: [EditMap_C_0] 98 2
+[2017.09.18-03.43.45:900][985]LogBlueprintUserMessages: [EditMap_C_0] 100 2
+[2017.09.18-03.43.46:405][ 40]LogBlueprintUserMessages: [EditMap_C_0] 100 11
+[2017.09.18-03.43.46:413][ 41]LogBlueprintUserMessages: [EditMap_C_0] 100 11
+[2017.09.18-03.43.46:422][ 42]LogBlueprintUserMessages: [EditMap_C_0] 100 12
+[2017.09.18-03.43.46:430][ 43]LogBlueprintUserMessages: [EditMap_C_0] 100 12
+[2017.09.18-03.43.46:438][ 44]LogBlueprintUserMessages: [EditMap_C_0] 100 12
+[2017.09.18-03.43.46:447][ 45]LogBlueprintUserMessages: [EditMap_C_0] 100 12
+[2017.09.18-03.43.46:455][ 46]LogBlueprintUserMessages: [EditMap_C_0] 100 12
+[2017.09.18-03.43.46:463][ 47]LogBlueprintUserMessages: [EditMap_C_0] 100 12
+[2017.09.18-03.43.46:472][ 48]LogBlueprintUserMessages: [EditMap_C_0] 100 13
+[2017.09.18-03.43.46:480][ 49]LogBlueprintUserMessages: [EditMap_C_0] 100 13
+[2017.09.18-03.43.46:489][ 50]LogBlueprintUserMessages: [EditMap_C_0] 100 13
+[2017.09.18-03.43.46:498][ 51]LogBlueprintUserMessages: [EditMap_C_0] 99 13
+[2017.09.18-03.43.46:508][ 52]LogBlueprintUserMessages: [EditMap_C_0] 99 13
+[2017.09.18-03.43.46:518][ 53]LogBlueprintUserMessages: [EditMap_C_0] 99 13
+[2017.09.18-03.43.46:527][ 54]LogBlueprintUserMessages: [EditMap_C_0] 99 13
+[2017.09.18-03.43.46:538][ 55]LogBlueprintUserMessages: [EditMap_C_0] 99 14
+[2017.09.18-03.43.46:549][ 56]LogBlueprintUserMessages: [EditMap_C_0] 99 14
+[2017.09.18-03.43.46:558][ 57]LogBlueprintUserMessages: [EditMap_C_0] 99 14
+[2017.09.18-03.43.46:568][ 58]LogBlueprintUserMessages: [EditMap_C_0] 99 14
+[2017.09.18-03.43.46:577][ 59]LogBlueprintUserMessages: [EditMap_C_0] 99 14
+[2017.09.18-03.43.46:586][ 60]LogBlueprintUserMessages: [EditMap_C_0] 99 15
+[2017.09.18-03.43.46:595][ 61]LogBlueprintUserMessages: [EditMap_C_0] 99 15
+[2017.09.18-03.43.46:604][ 62]LogBlueprintUserMessages: [EditMap_C_0] 99 15
+[2017.09.18-03.43.46:614][ 63]LogBlueprintUserMessages: [EditMap_C_0] 99 15
+[2017.09.18-03.43.46:622][ 64]LogBlueprintUserMessages: [EditMap_C_0] 99 15
+[2017.09.18-03.43.46:631][ 65]LogBlueprintUserMessages: [EditMap_C_0] 99 16
+[2017.09.18-03.43.46:640][ 66]LogBlueprintUserMessages: [EditMap_C_0] 99 16
+[2017.09.18-03.43.46:649][ 67]LogBlueprintUserMessages: [EditMap_C_0] 99 16
+[2017.09.18-03.43.46:658][ 68]LogBlueprintUserMessages: [EditMap_C_0] 99 16
+[2017.09.18-03.43.46:667][ 69]LogBlueprintUserMessages: [EditMap_C_0] 99 16
+[2017.09.18-03.43.46:676][ 70]LogBlueprintUserMessages: [EditMap_C_0] 99 17
+[2017.09.18-03.43.46:685][ 71]LogBlueprintUserMessages: [EditMap_C_0] 99 17
+[2017.09.18-03.43.46:694][ 72]LogBlueprintUserMessages: [EditMap_C_0] 98 17
+[2017.09.18-03.43.46:703][ 73]LogBlueprintUserMessages: [EditMap_C_0] 98 17
+[2017.09.18-03.43.46:712][ 74]LogBlueprintUserMessages: [EditMap_C_0] 98 17
+[2017.09.18-03.43.46:721][ 75]LogBlueprintUserMessages: [EditMap_C_0] 97 17
+[2017.09.18-03.43.46:731][ 76]LogBlueprintUserMessages: [EditMap_C_0] 97 17
+[2017.09.18-03.43.46:741][ 77]LogBlueprintUserMessages: [EditMap_C_0] 97 17
+[2017.09.18-03.43.46:750][ 78]LogBlueprintUserMessages: [EditMap_C_0] 97 17
+[2017.09.18-03.43.46:760][ 79]LogBlueprintUserMessages: [EditMap_C_0] 96 17
+[2017.09.18-03.43.46:770][ 80]LogBlueprintUserMessages: [EditMap_C_0] 96 18
+[2017.09.18-03.43.46:779][ 81]LogBlueprintUserMessages: [EditMap_C_0] 96 18
+[2017.09.18-03.43.46:788][ 82]LogBlueprintUserMessages: [EditMap_C_0] 96 18
+[2017.09.18-03.43.46:799][ 83]LogBlueprintUserMessages: [EditMap_C_0] 95 18
+[2017.09.18-03.43.46:809][ 84]LogBlueprintUserMessages: [EditMap_C_0] 95 18
+[2017.09.18-03.43.46:820][ 85]LogBlueprintUserMessages: [EditMap_C_0] 95 19
+[2017.09.18-03.43.46:830][ 86]LogBlueprintUserMessages: [EditMap_C_0] 95 19
+[2017.09.18-03.43.46:840][ 87]LogBlueprintUserMessages: [EditMap_C_0] 95 19
+[2017.09.18-03.43.46:851][ 88]LogBlueprintUserMessages: [EditMap_C_0] 94 19
+[2017.09.18-03.43.46:861][ 89]LogBlueprintUserMessages: [EditMap_C_0] 94 19
+[2017.09.18-03.43.46:870][ 90]LogBlueprintUserMessages: [EditMap_C_0] 94 20
+[2017.09.18-03.43.46:880][ 91]LogBlueprintUserMessages: [EditMap_C_0] 94 20
+[2017.09.18-03.43.46:890][ 92]LogBlueprintUserMessages: [EditMap_C_0] 94 20
+[2017.09.18-03.43.46:900][ 93]LogBlueprintUserMessages: [EditMap_C_0] 93 20
+[2017.09.18-03.43.46:909][ 94]LogBlueprintUserMessages: [EditMap_C_0] 93 20
+[2017.09.18-03.43.46:921][ 95]LogBlueprintUserMessages: [EditMap_C_0] 93 21
+[2017.09.18-03.43.46:932][ 96]LogBlueprintUserMessages: [EditMap_C_0] 93 21
+[2017.09.18-03.43.46:943][ 97]LogBlueprintUserMessages: [EditMap_C_0] 93 21
+[2017.09.18-03.43.46:954][ 98]LogBlueprintUserMessages: [EditMap_C_0] 92 21
+[2017.09.18-03.43.46:964][ 99]LogBlueprintUserMessages: [EditMap_C_0] 92 21
+[2017.09.18-03.43.46:976][100]LogBlueprintUserMessages: [EditMap_C_0] 92 22
+[2017.09.18-03.43.46:987][101]LogBlueprintUserMessages: [EditMap_C_0] 92 22
+[2017.09.18-03.43.46:999][102]LogBlueprintUserMessages: [EditMap_C_0] 92 22
+[2017.09.18-03.43.47:011][103]LogBlueprintUserMessages: [EditMap_C_0] 91 22
+[2017.09.18-03.43.47:023][104]LogBlueprintUserMessages: [EditMap_C_0] 91 22
+[2017.09.18-03.43.47:035][105]LogBlueprintUserMessages: [EditMap_C_0] 91 23
+[2017.09.18-03.43.47:045][106]LogBlueprintUserMessages: [EditMap_C_0] 91 23
+[2017.09.18-03.43.47:056][107]LogBlueprintUserMessages: [EditMap_C_0] 91 23
+[2017.09.18-03.43.47:067][108]LogBlueprintUserMessages: [EditMap_C_0] 90 23
+[2017.09.18-03.43.47:078][109]LogBlueprintUserMessages: [EditMap_C_0] 90 23
+[2017.09.18-03.43.47:089][110]LogBlueprintUserMessages: [EditMap_C_0] 90 24
+[2017.09.18-03.43.47:100][111]LogBlueprintUserMessages: [EditMap_C_0] 90 24
+[2017.09.18-03.43.47:111][112]LogBlueprintUserMessages: [EditMap_C_0] 90 24
+[2017.09.18-03.43.47:122][113]LogBlueprintUserMessages: [EditMap_C_0] 89 24
+[2017.09.18-03.43.47:133][114]LogBlueprintUserMessages: [EditMap_C_0] 89 24
+[2017.09.18-03.43.47:144][115]LogBlueprintUserMessages: [EditMap_C_0] 89 25
+[2017.09.18-03.43.47:155][116]LogBlueprintUserMessages: [EditMap_C_0] 89 25
+[2017.09.18-03.43.47:167][117]LogBlueprintUserMessages: [EditMap_C_0] 89 25
+[2017.09.18-03.43.47:178][118]LogBlueprintUserMessages: [EditMap_C_0] 88 25
+[2017.09.18-03.43.47:190][119]LogBlueprintUserMessages: [EditMap_C_0] 88 25
+[2017.09.18-03.43.47:202][120]LogBlueprintUserMessages: [EditMap_C_0] 88 26
+[2017.09.18-03.43.47:213][121]LogBlueprintUserMessages: [EditMap_C_0] 88 26
+[2017.09.18-03.43.47:225][122]LogBlueprintUserMessages: [EditMap_C_0] 88 26
+[2017.09.18-03.43.47:238][123]LogBlueprintUserMessages: [EditMap_C_0] 87 26
+[2017.09.18-03.43.47:253][124]LogBlueprintUserMessages: [EditMap_C_0] 87 26
+[2017.09.18-03.43.47:268][125]LogBlueprintUserMessages: [EditMap_C_0] 87 26
+[2017.09.18-03.43.47:280][126]LogBlueprintUserMessages: [EditMap_C_0] 87 25
+[2017.09.18-03.43.47:292][127]LogBlueprintUserMessages: [EditMap_C_0] 87 25
+[2017.09.18-03.43.47:304][128]LogBlueprintUserMessages: [EditMap_C_0] 86 25
+[2017.09.18-03.43.47:316][129]LogBlueprintUserMessages: [EditMap_C_0] 86 24
+[2017.09.18-03.43.47:328][130]LogBlueprintUserMessages: [EditMap_C_0] 86 24
+[2017.09.18-03.43.47:341][131]LogBlueprintUserMessages: [EditMap_C_0] 86 24
+[2017.09.18-03.43.47:353][132]LogBlueprintUserMessages: [EditMap_C_0] 86 24
+[2017.09.18-03.43.47:366][133]LogBlueprintUserMessages: [EditMap_C_0] 85 23
+[2017.09.18-03.43.47:379][134]LogBlueprintUserMessages: [EditMap_C_0] 85 23
+[2017.09.18-03.43.47:392][135]LogBlueprintUserMessages: [EditMap_C_0] 85 23
+[2017.09.18-03.43.47:405][136]LogBlueprintUserMessages: [EditMap_C_0] 85 23
+[2017.09.18-03.43.47:418][137]LogBlueprintUserMessages: [EditMap_C_0] 85 23
+[2017.09.18-03.43.47:431][138]LogBlueprintUserMessages: [EditMap_C_0] 84 23
+[2017.09.18-03.43.47:443][139]LogBlueprintUserMessages: [EditMap_C_0] 84 23
+[2017.09.18-03.43.47:457][140]LogBlueprintUserMessages: [EditMap_C_0] 84 22
+[2017.09.18-03.43.47:471][141]LogBlueprintUserMessages: [EditMap_C_0] 84 22
+[2017.09.18-03.43.47:484][142]LogBlueprintUserMessages: [EditMap_C_0] 84 22
+[2017.09.18-03.43.47:497][143]LogBlueprintUserMessages: [EditMap_C_0] 83 22
+[2017.09.18-03.43.47:509][144]LogBlueprintUserMessages: [EditMap_C_0] 83 22
+[2017.09.18-03.43.47:522][145]LogBlueprintUserMessages: [EditMap_C_0] 83 22
+[2017.09.18-03.43.47:535][146]LogBlueprintUserMessages: [EditMap_C_0] 83 22
+[2017.09.18-03.43.47:549][147]LogBlueprintUserMessages: [EditMap_C_0] 83 22
+[2017.09.18-03.43.47:562][148]LogBlueprintUserMessages: [EditMap_C_0] 82 22
+[2017.09.18-03.43.47:575][149]LogBlueprintUserMessages: [EditMap_C_0] 82 22
+[2017.09.18-03.43.47:588][150]LogBlueprintUserMessages: [EditMap_C_0] 82 22
+[2017.09.18-03.43.47:601][151]LogBlueprintUserMessages: [EditMap_C_0] 82 22
+[2017.09.18-03.43.47:614][152]LogBlueprintUserMessages: [EditMap_C_0] 82 22
+[2017.09.18-03.43.47:627][153]LogBlueprintUserMessages: [EditMap_C_0] 81 22
+[2017.09.18-03.43.47:640][154]LogBlueprintUserMessages: [EditMap_C_0] 81 22
+[2017.09.18-03.43.47:653][155]LogBlueprintUserMessages: [EditMap_C_0] 81 22
+[2017.09.18-03.43.47:667][156]LogBlueprintUserMessages: [EditMap_C_0] 81 22
+[2017.09.18-03.43.47:679][157]LogBlueprintUserMessages: [EditMap_C_0] 81 22
+[2017.09.18-03.43.47:693][158]LogBlueprintUserMessages: [EditMap_C_0] 80 22
+[2017.09.18-03.43.47:707][159]LogBlueprintUserMessages: [EditMap_C_0] 80 22
+[2017.09.18-03.43.47:721][160]LogBlueprintUserMessages: [EditMap_C_0] 80 22
+[2017.09.18-03.43.47:735][161]LogBlueprintUserMessages: [EditMap_C_0] 80 22
+[2017.09.18-03.43.47:751][162]LogBlueprintUserMessages: [EditMap_C_0] 80 22
+[2017.09.18-03.43.47:766][163]LogBlueprintUserMessages: [EditMap_C_0] 79 22
+[2017.09.18-03.43.47:780][164]LogBlueprintUserMessages: [EditMap_C_0] 79 22
+[2017.09.18-03.43.47:794][165]LogBlueprintUserMessages: [EditMap_C_0] 79 22
+[2017.09.18-03.43.47:808][166]LogBlueprintUserMessages: [EditMap_C_0] 79 22
+[2017.09.18-03.43.47:823][167]LogBlueprintUserMessages: [EditMap_C_0] 79 22
+[2017.09.18-03.43.47:837][168]LogBlueprintUserMessages: [EditMap_C_0] 78 22
+[2017.09.18-03.43.47:853][169]LogBlueprintUserMessages: [EditMap_C_0] 78 22
+[2017.09.18-03.43.47:867][170]LogBlueprintUserMessages: [EditMap_C_0] 78 22
+[2017.09.18-03.43.47:880][171]LogBlueprintUserMessages: [EditMap_C_0] 78 22
+[2017.09.18-03.43.47:894][172]LogBlueprintUserMessages: [EditMap_C_0] 78 22
+[2017.09.18-03.43.47:909][173]LogBlueprintUserMessages: [EditMap_C_0] 77 21
+[2017.09.18-03.43.47:923][174]LogBlueprintUserMessages: [EditMap_C_0] 77 21
+[2017.09.18-03.43.47:938][175]LogBlueprintUserMessages: [EditMap_C_0] 77 21
+[2017.09.18-03.43.47:952][176]LogBlueprintUserMessages: [EditMap_C_0] 77 20
+[2017.09.18-03.43.47:967][177]LogBlueprintUserMessages: [EditMap_C_0] 78 19
+[2017.09.18-03.43.47:981][178]LogBlueprintUserMessages: [EditMap_C_0] 78 19
+[2017.09.18-03.43.47:995][179]LogBlueprintUserMessages: [EditMap_C_0] 79 18
+[2017.09.18-03.43.48:010][180]LogBlueprintUserMessages: [EditMap_C_0] 79 18
+[2017.09.18-03.43.48:012][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.18-03.43.48:162][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.18-03.44.00:307][613]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.09.18-03.44.06:298][613]LogTexture: Display: Building textures: Ground_Dirt_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.44.06:298][613]LogTexture: Display: Building textures: Ground_Dirt_2k_n (BC5, 2048X2048)
+[2017.09.18-03.44.06:298][613]LogTexture: Display: Building textures: Ground_MuddyGrass_2k_n (BC5, 2048X2048)
+[2017.09.18-03.44.07:701][613]LogTexture: Display: Building textures: Ground_MuddyGrass_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.44.15:282][613]LogTexture: Display: Building textures: Ground_Dirt_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.44.15:282][613]LogTexture: Display: Building textures: Rock_JaggedCaveWall_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.44.15:282][613]LogTexture: Display: Building textures: Rock_JaggedCaveWall_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.44.15:362][613]LogTexture: Display: Building textures: Ground_MuddyGrass_2k_mask (AutoDXT, 2048X2048)
+[2017.09.18-03.44.16:483][613]LogTexture: Display: Building textures: Ground_MuddyGrass_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.44.19:353][613]LogTexture: Display: Building textures: Rock_JaggedCaveWall_2k_n (BC5, 2048X2048)
+[2017.09.18-03.44.19:353][613]LogTexture: Display: Building textures: Rock_JaggedCaveWall_2k_h (AutoDXT, 2048X2048)
+[2017.09.18-03.44.19:353][613]LogTexture: Display: Building textures: Wood_GeofwoodenPlankClean_2k_d (AutoDXT, 2048X2048)
+[2017.09.18-03.44.19:362][613]LogMaterial: Missing cached shader map for material Ground_MuddyGrass_WET, compiling. 
+[2017.09.18-03.44.20:082][613]LogTexture: Display: Building textures: Concrete_FlatSurface_2k_n (BC5, 2048X2048)
+[2017.09.18-03.44.21:389][613]LogTexture: Display: Building textures: Concrete_FlatSurface_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.44.29:744][613]LogTexture: Display: Building textures: Wood_GeofwoodenPlankClean_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.44.29:744][613]LogTexture: Display: Building textures: Wood_GeofwoodenPlankClean_2k_n (BC5, 2048X2048)
+[2017.09.18-03.44.29:744][613]LogTexture: Display: Building textures: wood_JFfantasyWoodPlanksNailedClean_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.44.29:744][613]LogTexture: Display: Building textures: wood_JFfantasyWoodPlanksNailedClean_2k_h (AutoDXT, 2048X2048)
+[2017.09.18-03.44.29:974][613]LogTexture: Display: Building textures: wood_JFfantasyWoodPlanksNailedClean_2k_n (BC5, 2048X2048)
+[2017.09.18-03.44.29:974][613]LogTexture: Display: Building textures: Concrete_Square_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.44.31:905][613]LogTexture: Display: Building textures: Metal_Gold_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.44.31:905][613]LogTexture: Display: Building textures: Metal_Gold_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.44.32:139][613]LogTexture: Display: Building textures: wood_JFfantasyWoodPlanksNailedClean_2k_mask (AutoDXT, 2048X2048)
+[2017.09.18-03.44.32:583][613]LogMaterial: Missing cached shader map for material MasterMaterial, compiling. 
+[2017.09.18-03.44.32:645][613]LogTexture: Display: Building textures: Metal_DiamondPlateSciFi_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.44.32:645][613]LogMaterial: Missing cached shader map for material Ground_Dirt, compiling. 
+[2017.09.18-03.44.32:772][613]LogMaterial: Missing cached shader map for material Wood_GeofwoodenPlankClean, compiling. 
+[2017.09.18-03.44.33:180][613]LogTexture: Display: Building textures: Metal_BrushedCopper_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.44.33:181][613]LogTexture: Display: Building textures: Brick_GuiBigCastleWall_2k_n (BC5, 2048X2048)
+[2017.09.18-03.44.34:066][613]LogTexture: Display: Building textures: Brick_GuiBigCastleWall_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.44.36:643][613]LogTexture: Display: Building textures: Brick_GuiBigCastleWall_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.44.44:465][613]LogTexture: Display: Building textures: Metal_BrushedCopper_2k_n (BC5, 2048X2048)
+[2017.09.18-03.44.44:465][613]LogTexture: Display: Building textures: Metal_BrushedCopper_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.44.44:465][613]LogTexture: Display: Building textures: Wood_InterlockingFloor_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.44.44:465][613]LogTexture: Display: Building textures: Wood_InterlockingFloor_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.44.44:465][613]LogTexture: Display: Building textures: Metal_LeadRough_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.44.44:688][613]LogTexture: Display: Building textures: Brick_GuiBigCastleWall_2k_h (AutoDXT, 2048X2048)
+[2017.09.18-03.44.46:283][613]LogMaterial: Missing cached shader map for material Brick_GuiBigCastleWall, compiling. 
+[2017.09.18-03.44.46:308][613]LogMaterial: Missing cached shader map for material Metal_Gold, compiling. 
+[2017.09.18-03.44.46:567][613]LogTexture: Display: Building textures: Metal_LeadRough_2k_n (BC5, 2048X2048)
+[2017.09.18-03.44.47:409][613]LogTexture: Display: Building textures: Metal_ReinforcedGridWall_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.44.48:873][613]LogTexture: Display: Building textures: misc_WoodenCrate_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.44.48:873][613]LogTexture: Display: Building textures: Metal_LeadRough_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.44.52:832][613]LogTexture: Display: Building textures: misc_WoodenCrate_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.44.52:832][613]LogTexture: Display: Building textures: misc_WoodenCrate_2k_h (AutoDXT, 2048X2048)
+[2017.09.18-03.44.52:833][613]LogTexture: Display: Building textures: misc_WoodenCrate_2k_mask (AutoDXT, 2048X2048)
+[2017.09.18-03.44.52:833][613]LogTexture: Display: Building textures: misc_WoodenCrate_2k_n (BC5, 2048X2048)
+[2017.09.18-03.44.52:833][613]LogTexture: Display: Building textures: Ground_guiFloodedMud_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.44.52:833][613]LogTexture: Display: Building textures: Ground_guiFloodedMud_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.44.53:037][613]LogTexture: Display: Building textures: Metal_LeadRough_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.44.59:742][613]LogTexture: Display: Building textures: Ground_guiFloodedMud_2k_mask (AutoDXT, 2048X2048)
+[2017.09.18-03.44.59:742][613]LogTexture: Display: Building textures: Wood_InterlockingFloor_2k_alb1 (AutoDXT, 2048X2048)
+[2017.09.18-03.44.59:742][613]LogTexture: Display: Building textures: Metal_ReinforcedGridWall_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.44.59:747][613]LogMaterial: Missing cached shader map for material Metal_LeadRough, compiling. 
+[2017.09.18-03.44.59:969][613]LogTexture: Display: Building textures: Metal_BrushedSteel_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.45.05:811][613]LogTexture: Display: Building textures: Metal_RustedSolid_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.45.05:811][613]LogTexture: Display: Building textures: Metal_RustedSolid_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.45.05:948][613]LogTexture: Display: Building textures: Metal_BrushedSteel_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.45.07:457][613]LogTexture: Display: Building textures: Metal_RustedSolid_2k_n (BC5, 2048X2048)
+[2017.09.18-03.45.07:600][613]LogTexture: Display: Building textures: Rock_HoleyWall_2k_n (BC5, 2048X2048)
+[2017.09.18-03.45.07:600][613]LogTexture: Display: Building textures: Metal_BrushedSteel_2k_n (BC5, 2048X2048)
+[2017.09.18-03.45.08:349][613]LogMaterial: Missing cached shader map for material Metal_BrushedSteel, compiling. 
+[2017.09.18-03.45.08:508][613]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2017.09.18-03.45.08:508][613]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2017.09.18-03.45.08:508][613]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2017.09.18-03.45.08:508][613]LogTexture: Display: Building textures: Metal_ReinforcedGridWall_2k_mask (AutoDXT, 2048X2048)
+[2017.09.18-03.45.08:944][613]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2017.09.18-03.45.08:944][613]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2017.09.18-03.45.08:944][613]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2017.09.18-03.45.08:944][613]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X128)
+[2017.09.18-03.45.08:944][613]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X32)
+[2017.09.18-03.45.09:070][613]LogTexture: Display: Building textures: Ground_GrassThickGreen_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.45.09:070][613]LogTexture: Display: Building textures: Metal_ReinforcedGridWall_2k_n (BC5, 2048X2048)
+[2017.09.18-03.45.09:900][613]LogTexture: Display: Building textures: Metal_ReinforcedGridWall_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.45.11:011][613]LogTexture: Display: Building textures: Ground_GrassThickGreen_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.45.11:016][613]LogMaterial: Missing cached shader map for material Metal_ReinforcedGridWall, compiling. 
+[2017.09.18-03.45.11:207][613]LogTexture: Display: Building textures: Rock_HoleyWall_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.45.14:228][613]LogTexture: Display: Building textures: Metal_DiamondPlateSciFi_2k_n (BC5, 2048X2048)
+[2017.09.18-03.45.14:228][613]LogTexture: Display: Building textures: Metal_DiamondPlateSciFi_2k_mask (AutoDXT, 2048X2048)
+[2017.09.18-03.45.14:440][613]LogTexture: Display: Building textures: Rock_HoleyWall_2k_alb2 (AutoDXT, 2048X2048)
+[2017.09.18-03.45.20:564][613]LogTexture: Display: Building textures: Metal_DiamondPlateSciFi_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.45.20:564][613]LogTexture: Display: Building textures: Metal_DiamondPlateSciFi_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.45.20:564][613]LogTexture: Display: Building textures: brick_guiGen_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.45.20:836][613]LogTexture: Display: Building textures: Rock_HoleyWall_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.45.22:396][613]LogTexture: Display: Building textures: brick_guiGen_2k_n (BC5, 2048X2048)
+[2017.09.18-03.45.22:396][613]LogTexture: Display: Building textures: brick_guiGen_2k_d (AutoDXT, 2048X2048)
+[2017.09.18-03.45.22:497][613]LogTexture: Display: Building textures: Rock_HoleyWall_2k_h (AutoDXT, 2048X2048)
+[2017.09.18-03.45.23:799][613]LogTexture: Display: Building textures: Ground_GrassThickGreen_2k_n (BC5, 2048X2048)
+[2017.09.18-03.45.23:839][613]LogMaterial: Missing cached shader map for material Rock_HoleyWall, compiling. 
+[2017.09.18-03.45.23:861][613]LogMaterial: Missing cached shader map for material Metal_DiamondPlateSciFi, compiling. 
+[2017.09.18-03.45.24:096][613]LogTexture: Display: Building textures: Wood_InterlockingFloor_2k_n (BC5, 2048X2048)
+[2017.09.18-03.45.24:951][613]LogTexture: Display: Building textures: Ground_GrassThickGreen_2k_h1 (AutoDXT, 2048X2048)
+[2017.09.18-03.45.24:956][613]LogMaterial: Missing cached shader map for material Wood_InterlockingFloor, compiling. 
+[2017.09.18-03.45.24:992][613]LogMaterial: Missing cached shader map for material Metal_RustedSolid, compiling. 
+[2017.09.18-03.45.25:015][613]LogMaterial: Missing cached shader map for material Rock_JaggedCaveWall, compiling. 
+[2017.09.18-03.45.25:671][613]LogMaterial: Missing cached shader map for material Ground_GrassThickGreen, compiling. 
+[2017.09.18-03.45.26:650][613]LogTexture: Display: Building textures: Ground_guiFloodedMud_2k_n (BC5, 2048X2048)
+[2017.09.18-03.45.26:650][613]LogMaterial: Missing cached shader map for material Ground_guiFloodedMud, compiling. 
+[2017.09.18-03.45.26:695][613]LogMaterial: Missing cached shader map for material Metal_BrushedCopper, compiling. 
+[2017.09.18-03.45.30:188][613]LogTexture: Display: Building textures: misc_WoodenCrate_2k_alb2 (AutoDXT, 2048X2048)
+[2017.09.18-03.45.30:273][613]LogMaterial: Missing cached shader map for material Ground_MuddyGrass_DRY, compiling. 
+[2017.09.18-03.45.34:487][613]LogTexture: Display: Building textures: Ground_DirtBrownTan_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.45.34:487][613]LogTexture: Display: Building textures: Ground_DirtBrownTan_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.45.34:487][613]LogMaterial: Missing cached shader map for material misc_WoodenCrate, compiling. 
+[2017.09.18-03.45.34:541][613]LogMaterial: Missing cached shader map for material brick_guiGen, compiling. 
+[2017.09.18-03.45.40:499][613]LogTexture: Display: Building textures: Ground_DirtBrownTan_2k_n (BC5, 2048X2048)
+[2017.09.18-03.45.40:499][613]LogTexture: Display: Building textures: Brick_chicagoStyle_2k_n (BC5, 2048X2048)
+[2017.09.18-03.45.40:499][613]LogTexture: Display: Building textures: Brick_chicagoStyle_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.45.40:499][613]LogMaterial: Missing cached shader map for material Ground_DirtBrownTan, compiling. 
+[2017.09.18-03.45.40:555][613]LogMaterial: Missing cached shader map for material MasterMaterial, compiling. 
+[2017.09.18-03.45.41:699][613]LogTexture: Display: Building textures: Brick_chicagoStyle_2k_h (AutoDXT, 2048X2048)
+[2017.09.18-03.45.43:714][613]LogTexture: Display: Building textures: Brick_chicagoStyle_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.45.47:659][613]LogAIModule: Creating AISystem for world Showcase
+[2017.09.18-03.45.49:013][613]LogTexture: Display: Building textures: Concrete_Square_2k_n (BC5, 2048X2048)
+[2017.09.18-03.45.49:013][613]LogTexture: Display: Building textures: Concrete_Square_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.45.54:133][613]LogMaterial: Missing cached shader map for material MasterMaterial, compiling. 
+[2017.09.18-03.45.56:498][613]LogTexture: Display: Building textures: brick_ancientDiagonal_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.46.04:557][613]LogTexture: Display: Building textures: brick_ancientDiagonal_2k_d (AutoDXT, 2048X2048)
+[2017.09.18-03.46.06:587][613]LogTexture: Display: Building textures: brick_ancientDiagonal_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.46.09:099][613]LogTexture: Display: Building textures: brick_ancientDiagonal_2k_h (AutoDXT, 2048X2048)
+[2017.09.18-03.46.14:380][613]LogTexture: Display: Building textures: brick_ancientDiagonal_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.46.20:956][613]LogTexture: Display: Building textures: Brick_BathStone_2k_d (AutoDXT, 2048X2048)
+[2017.09.18-03.46.22:297][613]LogTexture: Display: Building textures: Brick_BathStone_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.46.27:104][613]LogTexture: Display: Building textures: Brick_BathStone_2k_h (AutoDXT, 2048X2048)
+[2017.09.18-03.46.27:104][613]LogTexture: Display: Building textures: Brick_BathStone_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.46.35:463][613]LogTexture: Display: Building textures: Brick_chicagoStyle_2k_d (AutoDXT, 2048X2048)
+[2017.09.18-03.46.37:655][613]LogTexture: Display: Building textures: Brick_chicagoStyle_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.46.42:696][613]LogTexture: Display: Building textures: Brick_chicagoStyle_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.46.45:040][613]LogTexture: Display: Building textures: Brick_GuiBigCastleWall_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.46.53:215][613]LogTexture: Display: Building textures: Brick_GuiBigCastleWall_2k_d (AutoDXT, 2048X2048)
+[2017.09.18-03.46.55:420][613]LogTexture: Display: Building textures: Brick_GuiBigCastleWall_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.47.04:547][613]LogTexture: Display: Building textures: Brick_GuiBigCastleWall_2k_mask (AutoDXT, 2048X2048)
+[2017.09.18-03.47.04:547][613]LogTexture: Display: Building textures: brick_guiGen_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.47.07:156][613]LogTexture: Display: Building textures: brick_guiGen_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.47.08:947][613]LogTexture: Display: Building textures: brick_guiGen_2k_h (AutoDXT, 2048X2048)
+[2017.09.18-03.47.11:350][613]LogTexture: Display: Building textures: Concrete_FlatSurface_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.47.16:962][613]LogTexture: Display: Building textures: Concrete_FlatSurface_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.47.24:767][613]LogTexture: Display: Building textures: Concrete_Square_2k_d (AutoDXT, 2048X2048)
+[2017.09.18-03.47.26:953][613]LogTexture: Display: Building textures: Concrete_Square_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.47.29:616][613]LogTexture: Display: Building textures: Concrete_Square_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.47.34:696][613]LogTexture: Display: Building textures: Ground_ClumpySnow_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.47.37:567][613]LogTexture: Display: Building textures: Ground_ClumpySnow_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.47.42:292][613]LogTexture: Display: Building textures: Ground_ClumpySnow_2k_d (AutoDXT, 2048X2048)
+[2017.09.18-03.47.45:625][613]LogTexture: Display: Building textures: Ground_ClumpySnow_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.47.45:625][613]LogTexture: Display: Building textures: Ground_ClumpySnow_2k_h (AutoDXT, 2048X2048)
+[2017.09.18-03.47.46:829][613]LogTexture: Display: Building textures: Ground_ClumpySnow_2k_n (BC5, 2048X2048)
+[2017.09.18-03.47.48:735][613]LogTexture: Display: Building textures: Ground_ClumpySnow_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.47.50:740][613]LogTexture: Display: Building textures: Ground_Dirt_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.47.52:316][613]LogTexture: Display: Building textures: Ground_DirtBrownTan_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.47.58:728][613]LogTexture: Display: Building textures: Ground_DirtBrownTan_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.48.04:880][613]LogTexture: Display: Building textures: Ground_GrassThickGreen_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.48.10:340][613]LogTexture: Display: Building textures: Ground_GrassThickGreen_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.48.14:877][613]LogTexture: Display: Building textures: Ground_guiFloodedMud_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.48.17:553][613]LogTexture: Display: Building textures: Ground_guiFloodedMud_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.48.22:648][613]LogTexture: Display: Building textures: Ground_MuddyGrass_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.48.25:811][613]LogTexture: Display: Building textures: Ground_MuddyGrass_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.48.27:451][613]LogTexture: Display: Building textures: Ground_MuddyGrass_2k_h (AutoDXT, 2048X2048)
+[2017.09.18-03.48.31:586][613]LogTexture: Display: Building textures: Metal_BrushedCopper_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.48.33:430][613]LogTexture: Display: Building textures: Metal_BrushedSteel_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.48.36:155][613]LogTexture: Display: Building textures: Metal_DiamondPlateSciFi_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.48.37:281][613]LogTexture: Display: Building textures: Metal_Gold_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.48.40:408][613]LogTexture: Display: Building textures: Metal_Gold_2k_n (BC5, 2048X2048)
+[2017.09.18-03.48.40:408][613]LogTexture: Display: Building textures: Metal_LeadRough_2k_h (AutoDXT, 2048X2048)
+[2017.09.18-03.48.48:514][613]LogTexture: Display: Building textures: Metal_RustedSolid_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.48.50:073][613]LogTexture: Display: Building textures: Metal_sciFiCurveyWall_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.48.54:012][613]LogTexture: Display: Building textures: Metal_sciFiCurveyWall_2k_d (AutoDXT, 2048X2048)
+[2017.09.18-03.48.57:540][613]LogTexture: Display: Building textures: Metal_sciFiCurveyWall_2k_h (AutoDXT, 2048X2048)
+[2017.09.18-03.48.57:540][613]LogTexture: Display: Building textures: Metal_SciFiMetalWalkWayPowered_2k_alb (AutoDXT, 2048X2048)
+[2017.09.18-03.48.58:909][613]LogTexture: Display: Building textures: Metal_SciFiMetalWalkWayPowered_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.49.00:733][613]LogTexture: Display: Building textures: Metal_SciFiMetalWalkWayPowered_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.49.02:072][613]LogTexture: Display: Building textures: Metal_SciFiMetalWalkWayPowered_2k_h (AutoDXT, 2048X2048)
+[2017.09.18-03.49.02:072][613]LogTexture: Display: Building textures: Metal_SciFiMetalWalkWayPowered_2k_mask (AutoDXT, 2048X2048)
+[2017.09.18-03.49.05:143][613]LogTexture: Display: Building textures: Metal_SciFiMetalWalkWayPowered_2k_n (BC5, 2048X2048)
+[2017.09.18-03.49.05:143][613]LogTexture: Display: Building textures: Metal_SciFiMetalWalkWayPowered_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.49.09:139][613]LogTexture: Display: Building textures: Rock_JaggedCaveWall_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.49.12:917][613]LogTexture: Display: Building textures: Rock_JaggedCaveWall_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.49.14:014][613]LogTexture: Display: Building textures: Tile_WoodAndTileOffsetPattern_2k_ao (AutoDXT, 2048X2048)
+[2017.09.18-03.49.15:684][613]LogTexture: Display: Building textures: Wood_GeofwoodenPlankClean_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.49.17:826][613]LogTexture: Display: Building textures: Wood_GeofwoodenPlankClean_2k_h (AutoDXT, 2048X2048)
+[2017.09.18-03.49.17:826][613]LogTexture: Display: Building textures: Wood_GeofwoodenPlankClean_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.49.25:599][613]LogTexture: Display: Building textures: Wood_InterlockingFloor_2k_s (AutoDXT, 2048X2048)
+[2017.09.18-03.49.25:599][613]LogTexture: Display: Building textures: wood_JFfantasyWoodPlanksNailedClean_2k_d (AutoDXT, 2048X2048)
+[2017.09.18-03.49.27:071][613]LogTexture: Display: Building textures: wood_JFfantasyWoodPlanksNailedClean_2k_g (AutoDXT, 2048X2048)
+[2017.09.18-03.52.48:823][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EditMap" FILE="../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Maps/EditMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.18-03.52.49:082][888]LogSavePackage: Save=223.41ms
+[2017.09.18-03.52.49:082][888]LogSavePackage: Moving '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/EditMapD63A3D3C4E4430FA534199870053DCA6.tmp' to '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Maps/EditMap.umap'
+[2017.09.18-03.52.49:085][888]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Maps/EditMap.umap
+[2017.09.18-03.52.49:142][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EditMap_BuiltData" FILE="../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Maps/EditMap_BuiltData.uasset" SILENT=true
+[2017.09.18-03.52.49:185][888]LogSavePackage: Save=28.52ms
+[2017.09.18-03.52.49:186][888]LogSavePackage: Moving '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/EditMap_BuiltDataBEE3B11C4BEFD6C8CBBD959CCAE738BD.tmp' to '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Maps/EditMap_BuiltData.uasset'
+[2017.09.18-03.52.49:187][888]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Maps/EditMap_BuiltData.uasset
+[2017.09.18-03.52.50:315][  4]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2017.09.18-03.52.50:552][  5]Cmd: QUIT_EDITOR
+[2017.09.18-03.52.51:138][  5]LogExit: Preparing to exit.
+[2017.09.18-03.52.51:824][  5]LogDirectoryWatcher: A directory notification for 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/' was aborted.
+[2017.09.18-03.52.51:904][  5]LogExit: Editor shut down
+[2017.09.18-03.52.51:909][  5]LogExit: Transaction tracking system shut down
+[2017.09.18-03.52.52:206][  5]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.09.18-03.52.52:206][  5]LogDirectoryWatcher: A directory notification for '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/' was aborted.
+[2017.09.18-03.52.52:206][  5]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.09.18-03.52.52:206][  5]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.09.18-03.52.52:206][  5]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.09.18-03.52.53:198][  5]LogExit: Object subsystem successfully closed.
+[2017.09.18-03.52.53:381][  5]LogD3D11RHI: Shutdown
+[2017.09.18-03.52.53:386][  5]LogD3D11RHI: CleanupD3DDevice
+[2017.09.18-03.52.53:508][  5]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.09.18-03.52.54:265][  5]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (538)
+[2017.09.18-03.52.54:265][  5]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (536)
+[2017.09.18-03.52.54:265][  5]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2017.09.18-03.52.54:265][  5]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2017.09.18-03.52.54:294][  5]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.09.18-03.52.54:294][  5]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.09.18-03.52.54:328][  5]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.09.18-03.52.54:344][  5]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.09.18-03.52.54:345][  5]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.09.18-03.52.54:345][  5]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.09.18-03.52.54:345][  5]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.09.18-03.52.54:352][  5]LogDirectoryWatcher: A directory notification for 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Collections/' was aborted.
+[2017.09.18-03.52.54:353][  5]LogDirectoryWatcher: A directory notification for 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Developers/huozi/Collections/' was aborted.
+[2017.09.18-03.52.54:353][  5]LogDirectoryWatcher: A directory notification for 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/Collections/' was aborted.
+[2017.09.18-03.52.54:353][  5]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.09.18-03.52.54:354][  5]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.09.18-03.52.54:354][  5]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.09.18-03.52.54:369][  5]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.09.18-03.52.54:369][  5]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.09.18-03.52.54:370][  5]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.09.18-03.52.54:370][  5]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.09.18-03.52.54:370][  5]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.09.18-03.52.54:370][  5]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.09.18-03.52.54:380][  5]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.09.18-03.52.54:380][  5]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.09.18-03.52.54:380][  5]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.09.18-03.52.54:381][  5]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.09.18-03.52.54:387][  5]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.09.18-03.52.54:400][  5]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.09.18-03.52.54:419][  5]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.09.18-03.52.54:419][  5]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.09.18-03.52.54:419][  5]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.09.18-03.52.54:419][  5]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.09.18-03.52.54:419][  5]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.09.18-03.52.54:419][  5]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.09.18-03.52.54:419][  5]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.09.18-03.52.54:419][  5]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.09.18-03.52.54:419][  5]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.09.18-03.52.54:419][  5]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.09.18-03.52.54:420][  5]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.09.18-03.52.54:428][  5]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.09.18-03.52.54:428][  5]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.09.18-03.52.54:428][  5]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.09.18-03.52.54:428][  5]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.09.18-03.52.54:428][  5]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.09.18-03.52.54:441][  5]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.09.18-03.52.54:446][  5]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.09.18-03.52.54:451][  5]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.09.18-03.52.54:458][  5]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.09.18-03.52.54:458][  5]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.09.18-03.52.54:458][  5]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.09.18-03.52.54:458][  5]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.09.18-03.52.54:980][  5]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.09.18-03.52.54:980][  5]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.09.18-03.52.54:980][  5]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.09.18-03.52.54:980][  5]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.09.18-03.52.54:991][  5]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.09.18-03.52.55:020][  5]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.09.18-03.52.55:020][  5]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.09.18-03.52.55:047][  5]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.09.18-03.52.55:047][  5]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.09.18-03.52.55:076][  5]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.09.18-03.52.55:080][  5]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.09.18-03.52.55:080][  5]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.09.18-03.52.55:086][  5]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.09.18-03.52.55:086][  5]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.09.18-03.52.55:086][  5]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.09.18-03.52.55:086][  5]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.09.18-03.52.55:086][  5]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.09.18-03.52.55:086][  5]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.09.18-03.52.55:086][  5]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.09.18-03.52.55:132][  5]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.09.18-03.52.55:148][  5]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.09.18-03.52.55:152][  5]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.09.18-03.52.55:165][  5]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.09.18-03.52.55:181][  5]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.09.18-03.52.55:234][  5]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.09.18-03.52.55:239][  5]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.09.18-03.52.55:259][  5]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.09.18-03.52.55:301][  5]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.09.18-03.52.55:310][  5]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.09.18-03.52.55:337][  5]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.09.18-03.52.55:341][  5]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.09.18-03.52.55:406][  5]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.09.18-03.52.55:406][  5]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.09.18-03.52.55:421][  5]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.09.18-03.52.55:460][  5]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.09.18-03.52.55:460][  5]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.09.18-03.52.55:460][  5]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.09.18-03.52.55:499][  5]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.09.18-03.52.55:575][  5]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.09.18-03.52.55:584][  5]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.09.18-03.52.55:614][  5]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.09.18-03.52.55:614][  5]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.09.18-03.52.55:614][  5]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.09.18-03.52.55:614][  5]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.09.18-03.52.55:614][  5]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.09.18-03.52.55:678][  5]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.09.18-03.52.55:678][  5]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.09.18-03.52.55:678][  5]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.09.18-03.52.55:678][  5]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.09.18-03.52.55:678][  5]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.09.18-03.52.55:679][  5]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.09.18-03.52.55:679][  5]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.09.18-03.52.55:679][  5]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.09.18-03.52.55:679][  5]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.09.18-03.52.55:694][  5]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.09.18-03.52.55:885][  5]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.09.18-03.52.55:905][  5]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.09.18-03.52.55:905][  5]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.09.18-03.52.55:906][  5]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.09.18-03.52.55:906][  5]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.09.18-03.52.55:923][  5]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.09.18-03.52.55:923][  5]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.09.18-03.52.55:923][  5]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.09.18-03.52.55:923][  5]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.09.18-03.52.55:923][  5]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.09.18-03.52.55:923][  5]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.09.18-03.52.55:984][  5]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.09.18-03.52.55:984][  5]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.09.18-03.52.55:997][  5]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.09.18-03.52.55:997][  5]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.09.18-03.52.55:997][  5]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.09.18-03.52.55:997][  5]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.09.18-03.52.55:997][  5]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.09.18-03.52.56:028][  5]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.09.18-03.52.56:043][  5]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.09.18-03.52.56:043][  5]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.09.18-03.52.56:058][  5]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.09.18-03.52.56:059][  5]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.09.18-03.52.56:078][  5]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.09.18-03.52.56:093][  5]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.09.18-03.52.56:119][  5]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.09.18-03.52.56:135][  5]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.09.18-03.52.56:135][  5]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.09.18-03.52.56:135][  5]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.09.18-03.52.56:135][  5]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.09.18-03.52.56:173][  5]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.09.18-03.52.56:179][  5]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.09.18-03.52.56:204][  5]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.09.18-03.52.56:239][  5]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.09.18-03.52.56:239][  5]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.09.18-03.52.56:256][  5]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.09.18-03.52.56:256][  5]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.09.18-03.52.56:257][  5]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.09.18-03.52.56:257][  5]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.09.18-03.52.56:257][  5]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.09.18-03.52.56:257][  5]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.09.18-03.52.56:257][  5]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.09.18-03.52.56:278][  5]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.09.18-03.52.56:378][  5]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.09.18-03.52.56:531][  5]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.09.18-03.52.56:545][  5]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.09.18-03.52.56:545][  5]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.09.18-03.52.56:545][  5]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.09.18-03.52.56:584][  5]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.09.18-03.52.56:584][  5]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.09.18-03.52.56:585][  5]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.09.18-03.52.56:585][  5]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.09.18-03.52.56:590][  5]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.09.18-03.52.56:598][  5]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.09.18-03.52.56:610][  5]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.09.18-03.52.56:610][  5]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.09.18-03.52.56:618][  5]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.09.18-03.52.56:653][  5]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.09.18-03.52.56:653][  5]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.09.18-03.52.56:653][  5]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.09.18-03.52.56:653][  5]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.09.18-03.52.56:661][  5]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.09.18-03.52.56:671][  5]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.09.18-03.52.56:671][  5]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.09.18-03.52.56:693][  5]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.09.18-03.52.56:693][  5]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.09.18-03.52.56:698][  5]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.09.18-03.52.56:698][  5]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.09.18-03.52.56:727][  5]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.09.18-03.52.56:793][  5]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.09.18-03.52.56:821][  5]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.09.18-03.52.56:821][  5]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.09.18-03.52.56:866][  5]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.09.18-03.52.56:866][  5]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.09.18-03.52.56:868][  5]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.09.18-03.52.56:868][  5]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.09.18-03.52.56:869][  5]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.09.18-03.52.56:869][  5]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.09.18-03.52.56:869][  5]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.09.18-03.52.56:869][  5]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.09.18-03.52.56:869][  5]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.09.18-03.52.56:869][  5]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.09.18-03.52.56:869][  5]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.09.18-03.52.56:883][  5]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.09.18-03.52.56:891][  5]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.09.18-03.52.56:891][  5]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.09.18-03.52.56:898][  5]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.09.18-03.52.56:898][  5]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.09.18-03.52.56:904][  5]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.09.18-03.52.56:915][  5]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.09.18-03.52.56:915][  5]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.09.18-03.52.56:969][  5]LogDerivedDataCache: Shutdown
+[2017.09.18-03.52.56:969][  5]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.09.18-03.52.56:969][  5]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.09.18-03.52.56:979][  5]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.09.18-03.52.56:982][  5]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.09.18-03.52.56:992][  5]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.09.18-03.52.57:001][  5]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.09.18-03.52.57:010][  5]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.09.18-03.52.57:010][  5]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.09.18-03.52.57:010][  5]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.09.18-03.52.57:010][  5]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.09.18-03.52.57:018][  5]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.09.18-03.52.57:028][  5]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.09.18-03.52.57:028][  5]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.09.18-03.52.57:028][  5]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.09.18-03.52.57:028][  5]LogOnline: Display: Unloading online subsystem: NULL
+[2017.09.18-03.52.57:052][  5]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.09.18-03.52.57:059][  5]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.09.18-03.52.57:059][  5]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.09.18-03.52.57:065][  5]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE62A11EB-4613-FB53-1611-6E946DB4A6FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=a483da2d4fb89f4a2ddae281c3e89937%7C1475575a18e14080ac0ee1b5b0c163b7%7Cd7277f1c-046d-4f6a-97e4-5e4f1c368f9a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.09.18-03.52.57:086][  5]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.09.18-03.52.57:125][  5]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.09.18-03.52.57:132][  5]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.09.18-03.52.57:132][  5]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.09.18-03.52.57:146][  5]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.09.18-03.52.57:147][  5]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.09.18-03.52.57:147][  5]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.09.18-03.52.57:147][  5]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.09.18-03.52.57:158][  5]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.09.18-03.52.57:162][  5]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.09.18-03.52.57:162][  5]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.09.18-03.52.57:171][  5]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.09.18-03.52.57:171][  5]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.09.18-03.52.57:186][  5]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.09.18-03.52.57:186][  5]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.09.18-03.52.57:186][  5]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.09.18-03.52.57:186][  5]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.09.18-03.52.57:198][  5]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.09.18-03.52.57:207][  5]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.09.18-03.52.57:231][  5]LogExit: Exiting.
+[2017.09.18-03.52.57:283][  5]Log file closed, 09/18/17 12:52:57
