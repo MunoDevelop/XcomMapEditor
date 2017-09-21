@@ -1,0 +1,937 @@
+﻿Log file open, 09/21/17 15:01:18
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: XcomMapEditor
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-310470743) SRandInit(-310470742).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.282396
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.21-06.01.22:771][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.21-06.01.22:771][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.21-06.01.22:928][  0]LogInit: Computer: DESKTOP-5IA27J6
+[2017.09.21-06.01.22:928][  0]LogInit: User: huozi
+[2017.09.21-06.01.22:928][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.09.21-06.01.22:928][  0]LogInit: High frequency timer resolution =2.143474 MHz
+[2017.09.21-06.01.22:928][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.09.21-06.01.22:928][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.21-06.01.22:928][  0]LogMemory: Process Physical Memory: 279.50 MB used, 279.50 MB peak
+[2017.09.21-06.01.22:928][  0]LogMemory: Process Virtual Memory: 275.72 MB used, 275.72 MB peak
+[2017.09.21-06.01.22:928][  0]LogMemory: Physical Memory: 3518.50 MB used,  4579.42 MB free, 8097.92 MB total
+[2017.09.21-06.01.22:928][  0]LogMemory: Virtual Memory: 666.67 MB used,  4579.42 MB free, 134217728.00 MB total
+[2017.09.21-06.01.25:318][  0]LogInit: Using OS detected language (ko-KR).
+[2017.09.21-06.01.25:318][  0]LogInit: Using OS detected locale (ko-KR).
+[2017.09.21-06.01.25:516][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2017.09.21-06.01.36:115][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.21-06.01.36:139][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2017.09.21-06.01.36:139][  0]LogD3D11RHI:       128/0/4048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.09.21-06.01.36:149][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.09.21-06.01.36:149][  0]LogD3D11RHI:       0/0/4048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.09.21-06.01.36:149][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.21-06.01.36:169][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.21-06.01.36:169][  0]LogD3D11RHI:     GPU DeviceId: 0x1616 (for the marketing name, search the web for "GPU Device Id")
+[2017.09.21-06.01.36:169][  0]LogWindows: EnumDisplayDevices:
+[2017.09.21-06.01.36:169][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2017.09.21-06.01.36:172][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2017.09.21-06.01.36:173][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2017.09.21-06.01.36:174][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.09.21-06.01.36:174][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 5500
+[2017.09.21-06.01.36:174][  0]LogD3D11RHI:   Driver Version: 20.19.15.4352 (internal:20.19.15.4352, unified:20.19.15.4352)
+[2017.09.21-06.01.36:174][  0]LogD3D11RHI:      Driver Date: 12-15-2015
+[2017.09.21-06.01.36:174][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.21-06.01.36:191][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.21-06.01.36:239][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2017.09.21-06.01.36:250][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Intermediate/Shaders/WorkingDirectory/8972/).
+[2017.09.21-06.01.36:250][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/huozi/AppData/Local/Temp/UnrealShaderWorkingDir/45B8FD66483AA20E6903DC8EAEE3CFE8/'.
+[2017.09.21-06.01.36:251][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.21-06.01.51:214][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.21-06.01.51:595][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.21-06.01.52:065][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.21-06.01.52:476][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.21-06.01.52:940][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.21-06.01.53:328][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.21-06.01.53:792][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.21-06.01.54:324][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.21-06.01.54:813][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.21-06.01.55:251][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.21-06.01.55:657][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.21-06.01.56:063][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.21-06.01.56:459][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.21-06.01.56:860][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.21-06.01.57:459][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.21-06.01.58:507][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.21-06.01.58:507][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.21-06.01.58:975][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.21-06.01.59:768][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.21-06.02.00:027][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.21-06.02.00:450][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.21-06.02.00:845][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.21-06.02.01:249][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.21-06.02.01:656][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.21-06.02.01:656][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.21-06.02.06:419][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.21-06.02.07:525][  0]LogDerivedDataCache: Loaded boot cache 1.10s 93MB C:/Users/huozi/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.21-06.02.07:525][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/huozi/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.21-06.02.07:525][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.21-06.02.07:525][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.21-06.02.07:525][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.21-06.02.07:525][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.21-06.02.07:610][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.21-06.02.07:626][  0]LogDerivedDataCache: Using Local data cache path C:/Users/huozi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.21-06.02.07:676][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.21-06.02.07:686][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.21-06.02.07:723][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.21-06.02.07:724][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.21-06.02.11:196][  0]LogAssetRegistry: FAssetRegistry took 0.0441 seconds to start up
+[2017.09.21-06.02.12:245][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.21-06.02.14:446][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.21-06.02.18:186][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.21-06.02.18:765][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.21-06.02.18:765][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.21-06.02.18:765][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.21-06.02.18:765][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.21-06.02.18:765][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.21-06.02.22:320][  0]LogNetVersion: XcomMapEditor , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 332790306)
+[2017.09.21-06.02.24:544][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.424837 seconds
+[2017.09.21-06.02.24:572][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.09.21-06.02.24:572][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.09.21-06.02.24:572][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.21-06.02.25:239][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.21-06.03.04:693][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.21-06.03.05:142][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.21-06.03.14:838][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.21-06.03.20:757][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.09.21-06.03.20:758][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.09.21-06.03.21:535][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.09.21-06.03.22:292][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.09.21-06.03.32:494][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.21-06.03.36:598][  0]LogOcInput: OculusInput pre-init called
+[2017.09.21-06.03.40:408][  0]LogEngine: Initializing Engine...
+[2017.09.21-06.03.40:424][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.21-06.03.41:870][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.21-06.03.41:871][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.21-06.03.43:457][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.21-06.03.43:539][  0]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.21-06.03.43:739][  0]LogInit: FAudioDevice initialized.
+[2017.09.21-06.03.44:039][  0]LogDerivedDataCache: Saved boot cache 0.30s 93MB C:/Users/huozi/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.21-06.03.44:091][  0]LogInit: Texture streaming: Enabled
+[2017.09.21-06.03.45:629][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.21-06.03.48:594][  0]LogInit: Transaction tracking system initialized
+[2017.09.21-06.03.52:518][  0]BlueprintLog: New page: 에디터 로드
+[2017.09.21-06.04.04:639][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2017.09.21-06.04.14:009][  0]LogConsoleResponse: Display: 
+[2017.09.21-06.04.15:373][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.21-06.04.15:374][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.21-06.04.15:377][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.21-06.04.17:020][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/' took 0.05s
+[2017.09.21-06.04.30:123][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.09.21-06.04.30:127][  0]Cmd: MAP LOAD FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/Maps/EditMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.21-06.04.30:183][  0]LightingResults: New page: 라이팅 빌드
+[2017.09.21-06.04.30:868][  0]MapCheck: New page: 맵 체크
+[2017.09.21-06.04.30:869][  0]LightingResults: New page: 라이팅 빌드
+[2017.09.21-06.04.34:599][  0]LogTexture: Display: 텍스처 빌드: trash (BGRA8, 505X465)
+[2017.09.21-06.04.34:902][  0]LogAIModule: Creating AISystem for world EditMap
+[2017.09.21-06.04.34:983][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2017.09.21-06.04.35:104][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.21-06.04.43:457][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 8,351.342ms.
+[2017.09.21-06.04.43:460][  0]LogFileHelpers: Loading map 'EditMap' took 13.334
+[2017.09.21-06.04.44:612][  0]LogCollectionManager: Loaded 0 collections in 0.007125 seconds
+[2017.09.21-06.04.45:241][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Collections/' took 0.02s
+[2017.09.21-06.04.45:241][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/Developers/huozi/Collections/' took 0.01s
+[2017.09.21-06.04.45:241][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/Collections/' took 0.01s
+[2017.09.21-06.04.45:241][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2017.09.21-06.04.45:288][  0]LogContentBrowser: Native class hierarchy populated in 0.0434 seconds. Added 2386 classes and 500 folders.
+[2017.09.21-06.04.46:130][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0053 seconds. Added 0 classes and 0 folders.
+[2017.09.21-06.04.47:857][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0031 seconds. Added 0 classes and 0 folders.
+[2017.09.21-06.04.48:419][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0035 seconds. Added 1 classes and 2 folders.
+[2017.09.21-06.04.48:653][  0]LogSlate: Took 0.033124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.21-06.04.48:724][  0]LogSlate: Took 0.066172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2017.09.21-06.04.48:741][  0]LogSlate: Took 0.014460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.21-06.04.48:767][  0]LogSlate: Took 0.014183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.21-06.04.49:311][  0]LogRenderer: Reallocating scene render targets to support 844x420 Format 9 NumSamples 1 (Frame:1).
+[2017.09.21-06.04.50:483][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0022 seconds. Added 1 classes and 2 folders.
+[2017.09.21-06.04.50:483][  0]LogLoad: (Engine Initialization) Total time: 221.00 seconds
+[2017.09.21-06.04.50:483][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.21-06.04.50:484][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.09.21-06.04.50:484][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.09.21-06.04.50:533][  0]LogContentStreaming: Texture pool size now 600 MB
+[2017.09.21-06.04.50:630][  0]LogSlate: Took 0.013140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.21-06.04.50:883][  4]LogAssetRegistry: Asset discovery search completed in 159.7120 seconds
+[2017.09.21-06.04.50:893][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.09.21-06.04.50:893][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000139 seconds (updated 0 objects)
+[2017.09.21-06.04.55:623][144]LogSlate: Took 0.006220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.21-06.04.56:382][144]LogSlate: Took 0.000826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.21-06.04.57:493][144]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0030 seconds. Added 113 classes and 0 folders.
+[2017.09.21-06.05.00:127][144]LogSlate: Took 0.000474 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.21-06.05.00:139][144]LogSlate: Took 0.010214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.09.21-06.05.03:865][193]LogSlate: Took 0.018849 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.09.21-06.06.32:436][321]BlueprintLog: New page: MapEditorUI 컴파일
+[2017.09.21-06.06.33:418][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MapEditorUI" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset" SILENT=true
+[2017.09.21-06.06.34:121][330]LogSavePackage: Save=573.41ms
+[2017.09.21-06.06.34:121][330]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUIA492D07F41AC641462C6B6A2D65BAE8F.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset'
+[2017.09.21-06.06.34:137][330]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset
+[2017.09.21-06.08.08:282][533]BlueprintLog: New page: MapEditorUI 컴파일
+[2017.09.21-06.08.09:054][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MapEditorUI" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset" SILENT=true
+[2017.09.21-06.08.09:645][542]LogSavePackage: Save=512.26ms
+[2017.09.21-06.08.09:645][542]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUI06FDABD04C224873E572FB9CBCBF9810.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset'
+[2017.09.21-06.08.09:656][542]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset
+[2017.09.21-06.08.10:104][553]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2017.09.21-06.08.10:454][553]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.21-06.08.10:454][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.21-06.08.10:456][553]PIE: New page: PIE 세션: EditMap (2017. 9. 22. 오전 12:08:10)
+[2017.09.21-06.08.10:456][553]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EditMap
+[2017.09.21-06.08.10:465][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008832s)
+[2017.09.21-06.08.10:466][553]LogAIModule: Creating AISystem for world EditMap
+[2017.09.21-06.08.10:466][553]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2017.09.21-06.08.10:467][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EditMap.EditMap to /Game/Maps/UEDPIE_0_EditMap.EditMap (0.010455s)
+[2017.09.21-06.08.10:540][553]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.21-06.08.10:629][553]LogInit: FAudioDevice initialized.
+[2017.09.21-06.08.10:796][553]LogLoad: Game class is 'MapEditorMode_C'
+[2017.09.21-06.08.10:800][553]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EditMap.EditMap up for play (max tick rate 60) at 2017.09.21-15.08.10
+[2017.09.21-06.08.10:801][553]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2017.09.21-06.08.10:802][553]LogWorld: Bringing up level for play took: 0.004135
+[2017.09.21-06.08.10:810][553]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.09.21-06.08.11:118][553]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 11 classes and 0 folders.
+[2017.09.21-06.08.11:119][553]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.21-06.08.11:119][553]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.21-06.08.11:237][553]PIE: /Game/Maps/UEDPIE_0_EditMap 에 대한 에디터에서 플레이 시작 시간: -0.149
+[2017.09.21-06.08.11:241][553]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.21-06.08.11:245][553]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.11:315][553]LogRenderer: Reallocating scene render targets to support 916x540 Format 9 NumSamples 1 (Frame:1).
+[2017.09.21-06.08.11:534][554]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.11:610][555]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.11:732][556]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.11:796][557]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.11:866][558]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.11:916][559]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.11:971][560]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:028][561]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:082][562]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:134][563]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:184][564]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:238][565]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:298][566]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:350][567]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:401][568]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:444][569]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:504][570]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:556][571]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:613][572]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:667][573]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:717][574]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:769][575]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:828][576]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:887][577]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:946][578]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.12:998][579]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:050][580]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:100][581]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:156][582]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:213][583]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:269][584]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:323][585]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:380][586]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:428][587]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:481][588]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:529][589]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:580][590]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:626][591]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:683][592]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:736][593]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:795][594]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:844][595]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:895][596]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:948][597]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.13:997][598]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.14:048][599]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.14:098][600]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.14:146][601]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.14:194][602]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.14:250][603]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.14:306][604]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.14:362][605]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.14:419][606]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.14:470][607]LogBlueprintUserMessages: [EditMap_C_1] 7  3
+[2017.09.21-06.08.14:524][608]LogBlueprintUserMessages: [EditMap_C_1] 2  8
+[2017.09.21-06.08.14:580][609]LogBlueprintUserMessages: [EditMap_C_1] 1  8
+[2017.09.21-06.08.14:640][610]LogBlueprintUserMessages: [EditMap_C_1] 1  9
+[2017.09.21-06.08.14:693][611]LogBlueprintUserMessages: [EditMap_C_1] 1  9
+[2017.09.21-06.08.14:745][612]LogBlueprintUserMessages: [EditMap_C_1] 1  9
+[2017.09.21-06.08.14:792][613]LogBlueprintUserMessages: [EditMap_C_1] 1  9
+[2017.09.21-06.08.14:850][614]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.14:901][615]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.14:952][616]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.15:003][617]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.15:053][618]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.15:105][619]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.15:156][620]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.15:208][621]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.15:262][622]LogBlueprintUserMessages: [EditMap_C_1] 3  8
+[2017.09.21-06.08.15:325][623]LogBlueprintUserMessages: [EditMap_C_1] 8  3
+[2017.09.21-06.08.15:386][624]LogBlueprintUserMessages: [EditMap_C_1] 9  1
+[2017.09.21-06.08.15:446][625]LogBlueprintUserMessages: [EditMap_C_1] 9  1
+[2017.09.21-06.08.15:496][626]LogBlueprintUserMessages: [EditMap_C_1] 9  1
+[2017.09.21-06.08.15:550][627]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.15:604][628]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.15:658][629]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.15:716][630]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.15:766][631]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.15:821][632]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.15:876][633]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.15:927][634]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.15:974][635]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.16:027][636]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.16:079][637]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.16:132][638]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.16:190][639]LogBlueprintUserMessages: [EditMap_C_1] 10  5
+[2017.09.21-06.08.16:245][640]LogBlueprintUserMessages: [EditMap_C_1] 10  16
+[2017.09.21-06.08.16:302][641]LogBlueprintUserMessages: [EditMap_C_1] 10  16
+[2017.09.21-06.08.16:363][642]LogBlueprintUserMessages: [EditMap_C_1] 9  17
+[2017.09.21-06.08.16:412][643]LogBlueprintUserMessages: [EditMap_C_1] 9  17
+[2017.09.21-06.08.16:461][644]LogBlueprintUserMessages: [EditMap_C_1] 9  17
+[2017.09.21-06.08.16:512][645]LogBlueprintUserMessages: [EditMap_C_1] 9  17
+[2017.09.21-06.08.16:563][646]LogBlueprintUserMessages: [EditMap_C_1] 9  17
+[2017.09.21-06.08.16:613][647]LogBlueprintUserMessages: [EditMap_C_1] 9  18
+[2017.09.21-06.08.16:661][648]LogBlueprintUserMessages: [EditMap_C_1] 9  18
+[2017.09.21-06.08.16:713][649]LogBlueprintUserMessages: [EditMap_C_1] 9  18
+[2017.09.21-06.08.16:774][650]LogBlueprintUserMessages: [EditMap_C_1] 12  16
+[2017.09.21-06.08.16:835][651]LogBlueprintUserMessages: [EditMap_C_1] 13  14
+[2017.09.21-06.08.16:894][652]LogBlueprintUserMessages: [EditMap_C_1] 13  14
+[2017.09.21-06.08.16:947][653]LogBlueprintUserMessages: [EditMap_C_1] 10  11
+[2017.09.21-06.08.17:003][654]LogBlueprintUserMessages: [EditMap_C_1] 8  8
+[2017.09.21-06.08.17:060][655]LogBlueprintUserMessages: [EditMap_C_1] 7  8
+[2017.09.21-06.08.17:112][656]LogBlueprintUserMessages: [EditMap_C_1] 7  8
+[2017.09.21-06.08.17:166][657]LogBlueprintUserMessages: [EditMap_C_1] 7  8
+[2017.09.21-06.08.17:223][658]LogBlueprintUserMessages: [EditMap_C_1] 6  7
+[2017.09.21-06.08.17:280][659]LogBlueprintUserMessages: [EditMap_C_1] 6  7
+[2017.09.21-06.08.17:340][660]LogBlueprintUserMessages: [EditMap_C_1] 6  6
+[2017.09.21-06.08.17:396][661]LogBlueprintUserMessages: [EditMap_C_1] 6  6
+[2017.09.21-06.08.17:446][662]LogBlueprintUserMessages: [EditMap_C_1] 6  6
+[2017.09.21-06.08.17:499][663]LogBlueprintUserMessages: [EditMap_C_1] 6  7
+[2017.09.21-06.08.17:552][664]LogBlueprintUserMessages: [EditMap_C_1] 6  7
+[2017.09.21-06.08.17:610][665]LogBlueprintUserMessages: [EditMap_C_1] 6  7
+[2017.09.21-06.08.17:666][666]LogBlueprintUserMessages: [EditMap_C_1] 6  7
+[2017.09.21-06.08.17:718][667]LogBlueprintUserMessages: [EditMap_C_1] 6  6
+[2017.09.21-06.08.17:778][668]LogBlueprintUserMessages: [EditMap_C_1] 4  5
+[2017.09.21-06.08.17:839][669]LogBlueprintUserMessages: [EditMap_C_1] 3  4
+[2017.09.21-06.08.17:894][670]LogBlueprintUserMessages: [EditMap_C_1] 4  4
+[2017.09.21-06.08.17:945][671]LogBlueprintUserMessages: [EditMap_C_1] 4  4
+[2017.09.21-06.08.17:992][672]LogBlueprintUserMessages: [EditMap_C_1] 4  4
+[2017.09.21-06.08.18:050][673]LogBlueprintUserMessages: [EditMap_C_1] 3  4
+[2017.09.21-06.08.18:106][674]LogBlueprintUserMessages: [EditMap_C_1] 3  4
+[2017.09.21-06.08.18:158][675]LogBlueprintUserMessages: [EditMap_C_1] 3  3
+[2017.09.21-06.08.18:217][676]LogBlueprintUserMessages: [EditMap_C_1] 3  3
+[2017.09.21-06.08.18:264][677]LogBlueprintUserMessages: [EditMap_C_1] 3  3
+[2017.09.21-06.08.18:316][678]LogBlueprintUserMessages: [EditMap_C_1] 3  3
+[2017.09.21-06.08.18:372][679]LogBlueprintUserMessages: [EditMap_C_1] 3  3
+[2017.09.21-06.08.18:426][680]LogBlueprintUserMessages: [EditMap_C_1] 2  3
+[2017.09.21-06.08.18:481][681]LogBlueprintUserMessages: [EditMap_C_1] 5  6
+[2017.09.21-06.08.18:532][682]LogBlueprintUserMessages: [EditMap_C_1] 5  10
+[2017.09.21-06.08.18:586][683]LogBlueprintUserMessages: [EditMap_C_1] 3  8
+[2017.09.21-06.08.18:638][684]LogBlueprintUserMessages: [EditMap_C_1] 4  4
+[2017.09.21-06.08.18:695][685]LogBlueprintUserMessages: [EditMap_C_1] 6  4
+[2017.09.21-06.08.18:752][686]LogBlueprintUserMessages: [EditMap_C_1] 8  7
+[2017.09.21-06.08.18:805][687]LogBlueprintUserMessages: [EditMap_C_1] 9  5
+[2017.09.21-06.08.18:861][688]LogBlueprintUserMessages: [EditMap_C_1] 9  3
+[2017.09.21-06.08.18:915][689]LogBlueprintUserMessages: [EditMap_C_1] 10  3
+[2017.09.21-06.08.18:963][690]LogBlueprintUserMessages: [EditMap_C_1] 10  3
+[2017.09.21-06.08.19:015][691]LogBlueprintUserMessages: [EditMap_C_1] 11  3
+[2017.09.21-06.08.19:064][692]LogBlueprintUserMessages: [EditMap_C_1] 11  2
+[2017.09.21-06.08.19:120][693]LogBlueprintUserMessages: [EditMap_C_1] 11  2
+[2017.09.21-06.08.19:177][694]LogBlueprintUserMessages: [EditMap_C_1] 11  1
+[2017.09.21-06.08.19:229][695]LogBlueprintUserMessages: [EditMap_C_1] 11  1
+[2017.09.21-06.08.19:284][696]LogBlueprintUserMessages: [EditMap_C_1] 11  1
+[2017.09.21-06.08.19:340][697]LogBlueprintUserMessages: [EditMap_C_1] 1  1
+[2017.09.21-06.08.19:398][698]LogBlueprintUserMessages: [EditMap_C_1] 12  1
+[2017.09.21-06.08.19:453][699]LogBlueprintUserMessages: [EditMap_C_1] 11  2
+[2017.09.21-06.08.19:508][700]LogBlueprintUserMessages: [EditMap_C_1] 10  3
+[2017.09.21-06.08.19:564][701]LogBlueprintUserMessages: [EditMap_C_1] 10  3
+[2017.09.21-06.08.19:620][702]LogBlueprintUserMessages: [EditMap_C_1] 10  3
+[2017.09.21-06.08.19:676][703]LogBlueprintUserMessages: [EditMap_C_1] 10  3
+[2017.09.21-06.08.19:736][704]LogBlueprintUserMessages: [EditMap_C_1] 11  4
+[2017.09.21-06.08.19:802][705]LogBlueprintUserMessages: [EditMap_C_1] 11  5
+[2017.09.21-06.08.19:862][706]LogBlueprintUserMessages: [EditMap_C_1] 11  5
+[2017.09.21-06.08.19:912][707]LogBlueprintUserMessages: [EditMap_C_1] 11  4
+[2017.09.21-06.08.19:967][708]LogBlueprintUserMessages: [EditMap_C_1] 11  4
+[2017.09.21-06.08.20:025][709]LogBlueprintUserMessages: [EditMap_C_1] 11  2
+[2017.09.21-06.08.20:077][710]LogBlueprintUserMessages: [EditMap_C_1] 11  1
+[2017.09.21-06.08.20:130][711]LogBlueprintUserMessages: [EditMap_C_1] 11  1
+[2017.09.21-06.08.20:179][712]LogBlueprintUserMessages: [EditMap_C_1] 11  1
+[2017.09.21-06.08.20:234][713]LogBlueprintUserMessages: [EditMap_C_1] 11  1
+[2017.09.21-06.08.20:297][714]LogBlueprintUserMessages: [EditMap_C_1] 11  1
+[2017.09.21-06.08.20:349][715]LogBlueprintUserMessages: [EditMap_C_1] 11  1
+[2017.09.21-06.08.20:406][716]LogBlueprintUserMessages: [EditMap_C_1] 11  1
+[2017.09.21-06.08.20:463][717]LogBlueprintUserMessages: [EditMap_C_1] 11  1
+[2017.09.21-06.08.20:516][718]LogBlueprintUserMessages: [EditMap_C_1] 11  1
+[2017.09.21-06.08.20:570][719]LogBlueprintUserMessages: [EditMap_C_1] 11  2
+[2017.09.21-06.08.20:628][720]LogBlueprintUserMessages: [EditMap_C_1] 11  3
+[2017.09.21-06.08.20:679][721]LogBlueprintUserMessages: [EditMap_C_1] 11  4
+[2017.09.21-06.08.20:734][722]LogBlueprintUserMessages: [EditMap_C_1] 11  4
+[2017.09.21-06.08.20:803][723]LogBlueprintUserMessages: [EditMap_C_1] 11  5
+[2017.09.21-06.08.20:850][724]LogBlueprintUserMessages: [EditMap_C_1] 11  7
+[2017.09.21-06.08.20:905][725]LogBlueprintUserMessages: [EditMap_C_1] 11  7
+[2017.09.21-06.08.20:961][726]LogBlueprintUserMessages: [EditMap_C_1] 11  7
+[2017.09.21-06.08.21:021][727]LogBlueprintUserMessages: [EditMap_C_1] 10  7
+[2017.09.21-06.08.21:080][728]LogBlueprintUserMessages: [EditMap_C_1] 9  7
+[2017.09.21-06.08.21:140][729]LogBlueprintUserMessages: [EditMap_C_1] 9  7
+[2017.09.21-06.08.21:192][730]LogBlueprintUserMessages: [EditMap_C_1] 9  7
+[2017.09.21-06.08.21:245][731]LogBlueprintUserMessages: [EditMap_C_1] 9  7
+[2017.09.21-06.08.21:296][732]LogBlueprintUserMessages: [EditMap_C_1] 9  7
+[2017.09.21-06.08.21:352][733]LogBlueprintUserMessages: [EditMap_C_1] 9  7
+[2017.09.21-06.08.21:410][734]LogBlueprintUserMessages: [EditMap_C_1] 9  7
+[2017.09.21-06.08.21:461][735]LogBlueprintUserMessages: [EditMap_C_1] 9  7
+[2017.09.21-06.08.21:517][736]LogBlueprintUserMessages: [EditMap_C_1] 9  7
+[2017.09.21-06.08.21:573][737]LogBlueprintUserMessages: [EditMap_C_1] 9  7
+[2017.09.21-06.08.21:630][738]LogBlueprintUserMessages: [EditMap_C_1] 9  7
+[2017.09.21-06.08.21:681][739]LogBlueprintUserMessages: [EditMap_C_1] 9  7
+[2017.09.21-06.08.21:736][740]LogBlueprintUserMessages: [EditMap_C_1] 9  7
+[2017.09.21-06.08.21:790][741]LogBlueprintUserMessages: [EditMap_C_1] 9  7
+[2017.09.21-06.08.21:841][742]LogBlueprintUserMessages: [EditMap_C_1] 9  7
+[2017.09.21-06.08.21:898][743]LogBlueprintUserMessages: [EditMap_C_1] 6  5
+[2017.09.21-06.08.21:958][744]LogBlueprintUserMessages: [EditMap_C_1] 5  4
+[2017.09.21-06.08.22:010][745]LogBlueprintUserMessages: [EditMap_C_1] 5  4
+[2017.09.21-06.08.22:017][745]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.21-06.08.22:149][745]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.21-06.10.42:618][786]LogSlate: Took 0.010578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.09.21-06.11.09:671][405]BlueprintLog: New page: MapEditorUI 컴파일
+[2017.09.21-06.11.10:322][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MapEditorUI" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset" SILENT=true
+[2017.09.21-06.11.10:967][409]LogSavePackage: Save=548.67ms
+[2017.09.21-06.11.10:967][409]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUI3E0B33C74E81DC82815421B7F70FE5ED.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset'
+[2017.09.21-06.11.10:983][409]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset
+[2017.09.21-06.15.56:385][593]BlueprintLog: New page: MapEditorUI 컴파일
+[2017.09.21-06.15.57:061][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MapEditorUI" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset" SILENT=true
+[2017.09.21-06.15.57:704][594]LogSavePackage: Save=521.63ms
+[2017.09.21-06.15.57:704][594]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUIEE8C3CAF4CEB6461792CD58AB0F5A913.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset'
+[2017.09.21-06.15.57:716][594]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset
+[2017.09.21-06.18.10:993][770]BlueprintLog: New page: MapEditorUI 컴파일
+[2017.09.21-06.18.11:925][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MapEditorUI" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset" SILENT=true
+[2017.09.21-06.18.12:627][779]LogSavePackage: Save=598.67ms
+[2017.09.21-06.18.12:627][779]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUI16B6042A44B5FD5170CE6889D9B94B4A.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset'
+[2017.09.21-06.18.12:648][779]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset
+[2017.09.21-06.58.24:256][168]LogMetaData: Removing '/Game/UI/multitileDefiner.multitileDefiner' ref from Metadata '/Game/UI/NewUserDefinedStruct.PackageMetaData'
+[2017.09.21-06.58.24:256][168]LogMetaData: Removing '/Game/UI/multitileDefiner.multitileDefiner:MemberVar_0_956C432142097ADC40216BA0857338C2' ref from Metadata '/Game/UI/NewUserDefinedStruct.PackageMetaData'
+[2017.09.21-06.58.24:297][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/multitileDefiner" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/multitileDefiner.uasset" SILENT=true
+[2017.09.21-06.58.24:321][168]LogSavePackage: Save=13.18ms
+[2017.09.21-06.58.24:321][168]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/multitileDefinerBAB84C3E454ED60ECE32A69D82E5478B.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/multitileDefiner.uasset'
+[2017.09.21-06.58.24:380][168]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/multitileDefiner.uasset
+[2017.09.21-07.00.01:291][  1]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/EditMap' took 0.050
+[2017.09.21-07.00.01:296][  1]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MapEditorUI] ([1] browsable assets)...
+[2017.09.21-07.00.01:296][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MapEditorUI]
+[2017.09.21-07.00.01:719][  1]LogSavePackage: Save=330.58ms
+[2017.09.21-07.00.01:719][  1]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUI_Auto172BE16664D672FDA455360B2D1F9F33E.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/MapEditorUI_Auto1.uasset'
+[2017.09.21-07.00.01:723][  1]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/MapEditorUI_Auto1.uasset
+[2017.09.21-07.00.01:725][  1]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/multitileDefiner] ([1] browsable assets)...
+[2017.09.21-07.00.01:725][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/multitileDefiner]
+[2017.09.21-07.00.01:772][  1]LogSavePackage: Save=9.77ms
+[2017.09.21-07.00.01:772][  1]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/multitileDefiner_Auto161D12DCB442E76F6ADC50EA27B3FB16E.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/multitileDefiner_Auto1.uasset'
+[2017.09.21-07.00.01:774][  1]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/multitileDefiner_Auto1.uasset
+[2017.09.21-07.00.01:774][  1]LogFileHelpers: Auto-saving content packages took 0.481
+[2017.09.21-07.00.27:799][ 80]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.09.21-07.00.27:972][ 80]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2017.09.21-07.09.01:744][799]LogHttp: Warning: 0000021780FB6080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.21-07.09.01:744][799]LogHttp: Warning: 0000021780FB6080: libcurl info message cache 0 (Connection 16 seems to be dead!)
+[2017.09.21-07.09.01:744][799]LogHttp: Warning: 0000021780FB6080: libcurl info message cache 1 (Closing connection 16)
+[2017.09.21-07.09.01:744][799]LogHttp: Warning: 0000021780FB6080: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.09.21-07.09.01:744][799]LogHttp: Warning: 0000021780FB6080: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.21-07.09.01:744][799]LogHttp: Warning: 0000021780FB6080: libcurl info message cache 4 (Closing connection 17)
+[2017.09.21-07.10.02:206][979]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/EditMap' took 0.051
+[2017.09.21-07.10.02:210][979]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MapEditorUI] ([1] browsable assets)...
+[2017.09.21-07.10.02:210][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MapEditorUI]
+[2017.09.21-07.10.02:526][979]LogSavePackage: Save=255.48ms
+[2017.09.21-07.10.02:526][979]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUI_Auto296AA5CDB4E0BF0B15AABBD92CB6EAE54.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/MapEditorUI_Auto2.uasset'
+[2017.09.21-07.10.02:531][979]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/MapEditorUI_Auto2.uasset
+[2017.09.21-07.10.02:533][979]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/multitileDefiner] ([1] browsable assets)...
+[2017.09.21-07.10.02:533][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/multitileDefiner]
+[2017.09.21-07.10.02:593][979]LogSavePackage: Save=12.95ms
+[2017.09.21-07.10.02:593][979]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/multitileDefiner_Auto28C309515486F37FC89FDB9B0E38C4C9C.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/multitileDefiner_Auto2.uasset'
+[2017.09.21-07.10.02:595][979]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/multitileDefiner_Auto2.uasset
+[2017.09.21-07.10.02:596][979]LogFileHelpers: Auto-saving content packages took 0.389
+[2017.09.21-07.20.49:949][683]BlueprintLog: New page: MapEditorUI 컴파일
+[2017.09.21-07.20.50:887][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MapEditorUI" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset" SILENT=true
+[2017.09.21-07.20.51:417][692]LogSavePackage: Save=446.00ms
+[2017.09.21-07.20.51:417][692]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUI2793497144F1DCE176B986B598C5F3CE.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset'
+[2017.09.21-07.20.51:440][692]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset
+[2017.09.21-07.23.11:184][853]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/EditMap' took 0.083
+[2017.09.21-07.23.11:195][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MapEditorUI] ([1] browsable assets)...
+[2017.09.21-07.23.11:195][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MapEditorUI]
+[2017.09.21-07.23.11:851][853]LogSavePackage: Save=571.34ms
+[2017.09.21-07.23.11:851][853]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUI_Auto3CD6937A64AF688A93AA565AB2C464D9C.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/MapEditorUI_Auto3.uasset'
+[2017.09.21-07.23.11:862][853]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/MapEditorUI_Auto3.uasset
+[2017.09.21-07.23.11:862][853]LogFileHelpers: Auto-saving content packages took 0.671
+[2017.09.21-07.23.23:868][146]BlueprintLog: New page: MapEditorUI 컴파일
+[2017.09.21-07.23.24:551][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MapEditorUI" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset" SILENT=true
+[2017.09.21-07.23.25:029][153]LogSavePackage: Save=416.41ms
+[2017.09.21-07.23.25:029][153]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUIAA27FE694823E2CD64CD6FAB3CE9F173.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset'
+[2017.09.21-07.23.25:042][153]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset
+[2017.09.21-07.33.38:954][151]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/EditMap' took 0.143
+[2017.09.21-07.33.38:960][151]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MapEditorUI] ([1] browsable assets)...
+[2017.09.21-07.33.38:960][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MapEditorUI]
+[2017.09.21-07.33.40:163][151]LogSavePackage: Save=799.43ms
+[2017.09.21-07.33.40:163][151]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUI_Auto46D9F1506437973F45D9FE7B4F719E8C5.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/MapEditorUI_Auto4.uasset'
+[2017.09.21-07.33.40:178][151]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/MapEditorUI_Auto4.uasset
+[2017.09.21-07.33.40:179][151]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Building] ([1] browsable assets)...
+[2017.09.21-07.33.40:179][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Building]
+[2017.09.21-07.33.40:232][151]LogSavePackage: Save=33.60ms
+[2017.09.21-07.33.40:232][151]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Building_Auto4452B90784AAC9DD07388AA8E171B71C3.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/Building_Auto4.uasset'
+[2017.09.21-07.33.40:238][151]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/Building_Auto4.uasset
+[2017.09.21-07.33.40:239][151]LogFileHelpers: Auto-saving content packages took 1.283
+[2017.09.21-07.37.05:682][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Building" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/Building.uasset" SILENT=true
+[2017.09.21-07.37.05:725][140]LogSavePackage: Save=31.53ms
+[2017.09.21-07.37.05:725][140]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Building560B49D14032180A150F51AA3F5B5A3C.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/Building.uasset'
+[2017.09.21-07.37.05:752][140]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/Building.uasset
+[2017.09.21-07.37.18:059][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Building" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/Building.uasset" SILENT=true
+[2017.09.21-07.37.18:272][419]LogSavePackage: Save=29.12ms
+[2017.09.21-07.37.18:272][419]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Building28FB005F49725098E00C26BB054A7803.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/Building.uasset'
+[2017.09.21-07.37.18:281][419]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/Building.uasset
+[2017.09.21-07.37.32:467][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MapEditorUI" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset" SILENT=true
+[2017.09.21-07.37.32:911][715]LogSavePackage: Save=385.52ms
+[2017.09.21-07.37.32:911][715]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUI2481AD9C41FC14E0DDB0898B9330B978.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset'
+[2017.09.21-07.37.32:920][715]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset
+[2017.09.21-07.39.29:999][338]BlueprintLog: New page: MapEditorUI 컴파일
+[2017.09.21-07.39.30:827][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MapEditorUI" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset" SILENT=true
+[2017.09.21-07.39.31:345][348]LogSavePackage: Save=447.78ms
+[2017.09.21-07.39.31:345][348]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUI99C00E514754A0EE6CE3628BF4FA4048.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset'
+[2017.09.21-07.39.31:359][348]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset
+[2017.09.21-07.43.39:124][977]BlueprintLog: New page: MapEditorUI 컴파일
+[2017.09.21-07.43.40:076][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MapEditorUI" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset" SILENT=true
+[2017.09.21-07.43.40:611][987]LogSavePackage: Save=447.45ms
+[2017.09.21-07.43.40:611][987]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUICD140E8F4FE819C68D1D47A70DBCF3CC.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset'
+[2017.09.21-07.43.40:627][987]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset
+[2017.09.21-07.44.51:822][531]LogClass: Warning: Type mismatch in NewVar_0 of SKEL_MapEditorUI_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2017.09.21-07.47.25:868][602]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/EditMap' took 0.070
+[2017.09.21-07.47.25:872][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MapEditorUI] ([1] browsable assets)...
+[2017.09.21-07.47.25:872][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MapEditorUI]
+[2017.09.21-07.47.26:299][602]LogSavePackage: Save=353.92ms
+[2017.09.21-07.47.26:299][602]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUI_Auto5323E39A24A7A5B441DF464ABE8090993.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/MapEditorUI_Auto5.uasset'
+[2017.09.21-07.47.26:305][602]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/MapEditorUI_Auto5.uasset
+[2017.09.21-07.47.26:306][602]LogFileHelpers: Auto-saving content packages took 0.436
+[2017.09.21-07.48.44:861][540]BlueprintLog: New page: MapEditorUI 컴파일
+[2017.09.21-07.48.45:075][540]LogClass: Warning: Type mismatch in BuildingList of MapEditorUI_C - Previous (BoolProperty) Current(ArrayProperty) for package:  FObjectReader
+[2017.09.21-07.48.45:075][540]LogBlueprint: Warning: [Compiler MapEditorUI] <없음>  에 대한 'False' 기본값 파싱이 불가능합니다. 프로퍼티: BuildingList.
+[2017.09.21-07.48.45:168][540]LogBlueprint: Warning: [Compiler MapEditorUI] [6455.68] MapEditorUI 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 306 ms] (/Game/UI/MapEditorUI.MapEditorUI)
+[2017.09.21-07.48.45:633][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MapEditorUI" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset" SILENT=true
+[2017.09.21-07.48.46:081][551]LogSavePackage: Save=387.37ms
+[2017.09.21-07.48.46:082][551]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUI535E65D94A20F25E971CDF8893418467.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset'
+[2017.09.21-07.48.46:096][551]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset
+[2017.09.21-07.49.44:264][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MapEditorUI" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset" SILENT=true
+[2017.09.21-07.49.44:725][843]LogSavePackage: Save=395.77ms
+[2017.09.21-07.49.44:725][843]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUI003A1FE6429AA08DBCECB79591E071BC.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset'
+[2017.09.21-07.49.44:734][843]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset
+[2017.09.21-07.51.30:125][589]LogMetaData: Removing '/Game/SaveMap.SKEL_SaveMap_C' ref from Metadata '/Game/SaveGame.PackageMetaData'
+[2017.09.21-07.51.30:125][589]LogMetaData: Removing '/Game/SaveMap.SaveMap_C' ref from Metadata '/Game/SaveGame.PackageMetaData'
+[2017.09.21-07.51.30:156][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveMap" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/SaveMap.uasset" SILENT=true
+[2017.09.21-07.51.30:180][589]LogSavePackage: Save=14.05ms
+[2017.09.21-07.51.30:180][589]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/SaveMap52962F204BA7D04ABEBA21BC361803F4.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/SaveMap.uasset'
+[2017.09.21-07.51.30:227][589]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/SaveMap.uasset
+[2017.09.21-07.54.48:471][718]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.09.21-07.58.02:701][ 18]BlueprintLog: New page: SaveMap 컴파일
+[2017.09.21-07.58.03:695][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveMap" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/SaveMap.uasset" SILENT=true
+[2017.09.21-07.58.03:816][ 30]LogSavePackage: Save=23.79ms
+[2017.09.21-07.58.03:816][ 30]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/SaveMap523527874F983B89095E1086106537E3.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/SaveMap.uasset'
+[2017.09.21-07.58.03:831][ 30]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/SaveMap.uasset
+[2017.09.21-07.58.07:313][100]LogClass: Warning: Type mismatch in BuildingList of SKEL_SaveMap_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2017.09.21-07.58.17:691][313]BlueprintLog: New page: SaveMap 컴파일
+[2017.09.21-07.58.17:865][313]LogClass: Warning: Type mismatch in BuildingList of SaveMap_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2017.09.21-07.58.18:532][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveMap" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/SaveMap.uasset" SILENT=true
+[2017.09.21-07.58.18:606][324]LogSavePackage: Save=17.25ms
+[2017.09.21-07.58.18:606][324]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/SaveMap29B679CE4604285F9B14F59DC276C77F.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/SaveMap.uasset'
+[2017.09.21-07.58.18:621][324]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/SaveMap.uasset
+[2017.09.21-08.03.57:482][936]BlueprintLog: New page: MapEditorUI 컴파일
+[2017.09.21-08.03.58:417][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MapEditorUI" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset" SILENT=true
+[2017.09.21-08.03.58:979][945]LogSavePackage: Save=468.84ms
+[2017.09.21-08.03.58:979][945]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUIAE1D2CF548F8BCDFA289BC85C660B09D.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset'
+[2017.09.21-08.03.58:996][945]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset
+[2017.09.21-08.04.25:803][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MapEditorUI" FILE="../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset" SILENT=true
+[2017.09.21-08.04.26:312][493]LogSavePackage: Save=432.41ms
+[2017.09.21-08.04.26:312][493]LogSavePackage: Moving '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUIE67978894663661B5BEE508B3A04E004.tmp' to '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset'
+[2017.09.21-08.04.26:319][493]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset
+[2017.09.21-08.04.28:859][522]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2017.09.21-08.04.29:439][523]Cmd: QUIT_EDITOR
+[2017.09.21-08.04.30:303][523]LogExit: Preparing to exit.
+[2017.09.21-08.04.32:343][523]LogDirectoryWatcher: A directory notification for 'C:/Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/' was aborted.
+[2017.09.21-08.04.33:900][523]LogExit: Editor shut down
+[2017.09.21-08.04.34:308][523]LogExit: Transaction tracking system shut down
+[2017.09.21-08.04.35:646][523]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.09.21-08.04.35:647][523]LogDirectoryWatcher: A directory notification for '../../../../../../Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/' was aborted.
+[2017.09.21-08.04.35:647][523]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.09.21-08.04.35:647][523]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.09.21-08.04.35:647][523]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.09.21-08.04.40:060][523]LogExit: Object subsystem successfully closed.
+[2017.09.21-08.04.40:207][523]LogD3D11RHI: Shutdown
+[2017.09.21-08.04.40:207][523]LogD3D11RHI: CleanupD3DDevice
+[2017.09.21-08.04.40:955][523]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.09.21-08.04.41:147][523]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (538)
+[2017.09.21-08.04.41:149][523]LogModuleManager: Shutting down and abandoning module SequencerWidgets (536)
+[2017.09.21-08.04.41:149][523]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2017.09.21-08.04.41:149][523]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2017.09.21-08.04.41:151][523]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.09.21-08.04.41:151][523]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.09.21-08.04.41:151][523]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.09.21-08.04.41:154][523]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.09.21-08.04.41:196][523]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.09.21-08.04.41:197][523]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.09.21-08.04.41:197][523]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.09.21-08.04.41:200][523]LogDirectoryWatcher: A directory notification for 'C:/Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/Collections/' was aborted.
+[2017.09.21-08.04.41:201][523]LogDirectoryWatcher: A directory notification for 'C:/Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Content/Developers/huozi/Collections/' was aborted.
+[2017.09.21-08.04.41:201][523]LogDirectoryWatcher: A directory notification for 'C:/Users/huozi/OneDrive/Documents/Unreal Projects/XcomMapEditor/Saved/Collections/' was aborted.
+[2017.09.21-08.04.41:201][523]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.09.21-08.04.41:202][523]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.09.21-08.04.41:202][523]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.09.21-08.04.41:203][523]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.09.21-08.04.41:203][523]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.09.21-08.04.41:203][523]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.09.21-08.04.41:203][523]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.09.21-08.04.41:204][523]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.09.21-08.04.41:204][523]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.09.21-08.04.41:204][523]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.09.21-08.04.41:204][523]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.09.21-08.04.41:204][523]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.09.21-08.04.41:205][523]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.09.21-08.04.41:205][523]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.09.21-08.04.41:205][523]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.09.21-08.04.41:205][523]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.09.21-08.04.41:205][523]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.09.21-08.04.41:205][523]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.09.21-08.04.41:206][523]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.09.21-08.04.41:206][523]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.09.21-08.04.41:206][523]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.09.21-08.04.41:206][523]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.09.21-08.04.41:206][523]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.09.21-08.04.41:206][523]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.09.21-08.04.41:206][523]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.09.21-08.04.41:206][523]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.09.21-08.04.41:206][523]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.09.21-08.04.41:206][523]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.09.21-08.04.41:206][523]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.09.21-08.04.41:206][523]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.09.21-08.04.41:206][523]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.09.21-08.04.41:207][523]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.09.21-08.04.41:207][523]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.09.21-08.04.41:207][523]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.09.21-08.04.41:209][523]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.09.21-08.04.41:210][523]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.09.21-08.04.41:210][523]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.09.21-08.04.41:210][523]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.09.21-08.04.41:610][523]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.09.21-08.04.41:610][523]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.09.21-08.04.41:610][523]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.09.21-08.04.41:610][523]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.09.21-08.04.41:610][523]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.09.21-08.04.41:610][523]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.09.21-08.04.41:610][523]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.09.21-08.04.41:611][523]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.09.21-08.04.41:611][523]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.09.21-08.04.41:611][523]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.09.21-08.04.41:612][523]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.09.21-08.04.41:612][523]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.09.21-08.04.41:612][523]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.09.21-08.04.41:612][523]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.09.21-08.04.41:612][523]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.09.21-08.04.41:612][523]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.09.21-08.04.41:612][523]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.09.21-08.04.41:613][523]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.09.21-08.04.41:613][523]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.09.21-08.04.41:613][523]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.09.21-08.04.41:614][523]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.09.21-08.04.41:614][523]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.09.21-08.04.41:615][523]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.09.21-08.04.41:616][523]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.09.21-08.04.41:670][523]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.09.21-08.04.41:670][523]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.09.21-08.04.41:672][523]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.09.21-08.04.41:672][523]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.09.21-08.04.41:673][523]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.09.21-08.04.41:673][523]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.09.21-08.04.41:673][523]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.09.21-08.04.41:674][523]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.09.21-08.04.41:674][523]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.09.21-08.04.41:675][523]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.09.21-08.04.41:729][523]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.09.21-08.04.41:736][523]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.09.21-08.04.41:737][523]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.09.21-08.04.41:737][523]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.09.21-08.04.41:738][523]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.09.21-08.04.41:738][523]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.09.21-08.04.41:738][523]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.09.21-08.04.41:739][523]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.09.21-08.04.41:740][523]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.09.21-08.04.41:740][523]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.09.21-08.04.41:740][523]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.09.21-08.04.41:742][523]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.09.21-08.04.41:743][523]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.09.21-08.04.41:743][523]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.09.21-08.04.41:743][523]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.09.21-08.04.41:743][523]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.09.21-08.04.41:743][523]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.09.21-08.04.41:743][523]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.09.21-08.04.41:744][523]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.09.21-08.04.41:744][523]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.09.21-08.04.41:744][523]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.09.21-08.04.41:863][523]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.09.21-08.04.41:864][523]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.09.21-08.04.41:864][523]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.09.21-08.04.41:867][523]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.09.21-08.04.41:867][523]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.09.21-08.04.41:868][523]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.09.21-08.04.41:868][523]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.09.21-08.04.41:868][523]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.09.21-08.04.41:868][523]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.09.21-08.04.41:868][523]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.09.21-08.04.41:868][523]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.09.21-08.04.41:869][523]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.09.21-08.04.41:869][523]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.09.21-08.04.41:870][523]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.09.21-08.04.41:871][523]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.09.21-08.04.41:871][523]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.09.21-08.04.41:871][523]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.09.21-08.04.41:871][523]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.09.21-08.04.41:871][523]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.09.21-08.04.41:871][523]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.09.21-08.04.41:871][523]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.09.21-08.04.41:871][523]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.09.21-08.04.41:872][523]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.09.21-08.04.41:872][523]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.09.21-08.04.41:872][523]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.09.21-08.04.41:872][523]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.09.21-08.04.41:872][523]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.09.21-08.04.41:872][523]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.09.21-08.04.41:872][523]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.09.21-08.04.41:872][523]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.09.21-08.04.41:872][523]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.09.21-08.04.41:872][523]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.09.21-08.04.41:879][523]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.09.21-08.04.41:879][523]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.09.21-08.04.41:879][523]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.09.21-08.04.41:888][523]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.09.21-08.04.41:888][523]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.09.21-08.04.41:889][523]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.09.21-08.04.41:889][523]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.09.21-08.04.41:889][523]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.09.21-08.04.41:889][523]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.09.21-08.04.41:889][523]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.09.21-08.04.41:889][523]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.09.21-08.04.41:990][523]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.09.21-08.04.42:090][523]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.09.21-08.04.42:092][523]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.09.21-08.04.42:093][523]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.09.21-08.04.42:093][523]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.09.21-08.04.42:093][523]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.09.21-08.04.42:093][523]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.09.21-08.04.42:101][523]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.09.21-08.04.42:102][523]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.09.21-08.04.42:102][523]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.09.21-08.04.42:102][523]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.09.21-08.04.42:102][523]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.09.21-08.04.42:103][523]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.09.21-08.04.42:103][523]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.09.21-08.04.42:104][523]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.09.21-08.04.42:104][523]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.09.21-08.04.42:104][523]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.09.21-08.04.42:104][523]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.09.21-08.04.42:105][523]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.09.21-08.04.42:105][523]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.09.21-08.04.42:105][523]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.09.21-08.04.42:106][523]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.09.21-08.04.42:106][523]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.09.21-08.04.42:106][523]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.09.21-08.04.42:107][523]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.09.21-08.04.42:107][523]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.09.21-08.04.42:107][523]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.09.21-08.04.42:107][523]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.09.21-08.04.42:107][523]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.09.21-08.04.42:109][523]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.09.21-08.04.42:109][523]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.09.21-08.04.42:123][523]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.09.21-08.04.42:124][523]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.09.21-08.04.42:124][523]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.09.21-08.04.42:124][523]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.09.21-08.04.42:124][523]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.09.21-08.04.42:124][523]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.09.21-08.04.42:124][523]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.09.21-08.04.42:124][523]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.09.21-08.04.42:124][523]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.09.21-08.04.42:126][523]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.09.21-08.04.42:126][523]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.09.21-08.04.42:127][523]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.09.21-08.04.42:127][523]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.09.21-08.04.42:127][523]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.09.21-08.04.42:127][523]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.09.21-08.04.42:127][523]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.09.21-08.04.42:155][523]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.09.21-08.04.42:167][523]LogDerivedDataCache: Shutdown
+[2017.09.21-08.04.42:167][523]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.09.21-08.04.42:167][523]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.09.21-08.04.42:168][523]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.09.21-08.04.42:168][523]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.09.21-08.04.42:168][523]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.09.21-08.04.42:168][523]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.09.21-08.04.42:168][523]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.09.21-08.04.42:169][523]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.09.21-08.04.42:169][523]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.09.21-08.04.42:170][523]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.09.21-08.04.42:170][523]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.09.21-08.04.42:170][523]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.09.21-08.04.42:170][523]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.09.21-08.04.42:170][523]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.09.21-08.04.42:170][523]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.09.21-08.04.42:170][523]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.09.21-08.04.42:171][523]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.09.21-08.04.42:171][523]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.09.21-08.04.42:171][523]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.09.21-08.04.42:171][523]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.09.21-08.04.42:171][523]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.09.21-08.04.42:171][523]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.09.21-08.04.42:171][523]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.09.21-08.04.42:171][523]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.09.21-08.04.42:171][523]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.09.21-08.04.42:171][523]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.09.21-08.04.42:171][523]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.09.21-08.04.42:171][523]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.09.21-08.04.42:171][523]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.09.21-08.04.42:172][523]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.09.21-08.04.42:172][523]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.09.21-08.04.42:172][523]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.09.21-08.04.42:172][523]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.09.21-08.04.42:172][523]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.09.21-08.04.42:172][523]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.09.21-08.04.42:172][523]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.09.21-08.04.42:172][523]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.09.21-08.04.42:172][523]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.09.21-08.04.42:172][523]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.09.21-08.04.42:172][523]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.09.21-08.04.42:173][523]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.09.21-08.04.42:173][523]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.09.21-08.04.42:173][523]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.09.21-08.04.42:173][523]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.09.21-08.04.42:173][523]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.09.21-08.04.42:173][523]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.09.21-08.04.42:173][523]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.09.21-08.04.42:173][523]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.09.21-08.04.42:173][523]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.09.21-08.04.42:173][523]LogOnline: Display: Unloading online subsystem: NULL
+[2017.09.21-08.04.42:173][523]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.09.21-08.04.42:174][523]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.09.21-08.04.42:175][523]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.09.21-08.04.42:175][523]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B694E2F0A-4AC0-E4C9-B22F-B28A6F4F1238%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=ccb7016942b732c20552a5836148075b%7C1475575a18e14080ac0ee1b5b0c163b7%7Cb4c8cf57-d5a0-41bd-a6d6-9fa9bc6546e4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.09.21-08.04.42:210][523]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.09.21-08.04.42:220][523]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.09.21-08.04.42:221][523]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.09.21-08.04.42:222][523]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.09.21-08.04.42:222][523]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.09.21-08.04.42:222][523]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.09.21-08.04.42:222][523]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.09.21-08.04.42:223][523]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.09.21-08.04.42:277][523]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.09.21-08.04.42:278][523]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.09.21-08.04.42:278][523]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.09.21-08.04.42:278][523]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.09.21-08.04.42:278][523]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.09.21-08.04.42:278][523]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.09.21-08.04.42:278][523]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.09.21-08.04.42:278][523]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.09.21-08.04.42:278][523]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.09.21-08.04.42:278][523]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.09.21-08.04.42:278][523]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.09.21-08.04.42:288][523]LogExit: Exiting.
+[2017.09.21-08.04.42:417][523]Log file closed, 09/21/17 17:04:42
