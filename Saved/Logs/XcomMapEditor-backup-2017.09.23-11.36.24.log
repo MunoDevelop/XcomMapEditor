@@ -1,0 +1,1172 @@
+﻿Log file open, 09/22/17 20:32:32
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: XcomMapEditor
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1114398455) SRandInit(1114398455).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.542224
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.22-11.32.35:026][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.22-11.32.35:026][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.22-11.32.35:155][  0]LogInit: Computer: DESKTOP-9TH7LOT
+[2017.09.22-11.32.35:155][  0]LogInit: User: huozi
+[2017.09.22-11.32.35:155][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.09.22-11.32.35:155][  0]LogInit: High frequency timer resolution =2.648436 MHz
+[2017.09.22-11.32.35:156][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.09.22-11.32.35:156][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.22-11.32.35:156][  0]LogMemory: Process Physical Memory: 283.18 MB used, 283.18 MB peak
+[2017.09.22-11.32.35:156][  0]LogMemory: Process Virtual Memory: 275.47 MB used, 275.47 MB peak
+[2017.09.22-11.32.35:156][  0]LogMemory: Physical Memory: 4079.48 MB used,  4063.81 MB free, 8143.29 MB total
+[2017.09.22-11.32.35:156][  0]LogMemory: Virtual Memory: 701.29 MB used,  4063.81 MB free, 134217728.00 MB total
+[2017.09.22-11.32.36:166][  0]LogInit: Using OS detected language (en-US).
+[2017.09.22-11.32.36:166][  0]LogInit: Using OS detected locale (en-US).
+[2017.09.22-11.32.36:509][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.09.22-11.32.40:766][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.22-11.32.40:942][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2017.09.22-11.32.40:942][  0]LogD3D11RHI:       4050/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.09.22-11.32.40:943][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.09.22-11.32.40:943][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.09.22-11.32.40:943][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.22-11.32.40:959][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.22-11.32.40:959][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2017.09.22-11.32.40:959][  0]LogWindows: EnumDisplayDevices:
+[2017.09.22-11.32.40:959][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2017.09.22-11.32.40:960][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2017.09.22-11.32.40:960][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2017.09.22-11.32.40:961][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2017.09.22-11.32.40:961][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.09.22-11.32.40:961][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2017.09.22-11.32.40:965][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2017.09.22-11.32.40:965][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2017.09.22-11.32.40:965][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.22-11.32.41:036][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.22-11.32.41:208][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.09.22-11.32.41:331][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Intermediate/Shaders/WorkingDirectory/8028/).
+[2017.09.22-11.32.41:332][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/huozi/AppData/Local/Temp/UnrealShaderWorkingDir/208E0B3841145FEA5A32E2A2D43B1974/'.
+[2017.09.22-11.32.41:332][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.22-11.32.44:434][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.22-11.32.44:496][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.22-11.32.44:561][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.22-11.32.44:621][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.22-11.32.44:698][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.22-11.32.44:757][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.22-11.32.44:817][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.22-11.32.44:878][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.22-11.32.44:932][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.22-11.32.45:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.22-11.32.45:078][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.22-11.32.45:139][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.22-11.32.45:200][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.22-11.32.45:258][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.22-11.32.45:316][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.22-11.32.45:435][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.22-11.32.45:435][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.22-11.32.45:492][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.22-11.32.45:645][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.22-11.32.45:680][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.22-11.32.45:741][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.22-11.32.45:800][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.22-11.32.45:881][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.22-11.32.45:953][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.22-11.32.45:953][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.22-11.32.47:143][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.22-11.32.47:925][  0]LogDerivedDataCache: Loaded boot cache 0.78s 93MB C:/Users/huozi/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.22-11.32.47:925][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/huozi/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.22-11.32.47:925][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.22-11.32.47:925][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.22-11.32.47:925][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.22-11.32.47:925][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.22-11.32.47:990][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.22-11.32.48:012][  0]LogDerivedDataCache: Using Local data cache path C:/Users/huozi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.22-11.32.48:044][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.22-11.32.48:074][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.22-11.32.48:202][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.22-11.32.48:202][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.22-11.32.54:254][  0]LogAssetRegistry: FAssetRegistry took 0.0273 seconds to start up
+[2017.09.22-11.32.55:182][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.22-11.32.58:049][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.22-11.32.58:979][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.22-11.32.59:065][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.22-11.32.59:076][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.22-11.32.59:076][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.22-11.32.59:076][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.22-11.32.59:076][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.22-11.33.01:370][  0]LogNetVersion: XcomMapEditor , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 332790306)
+[2017.09.22-11.33.02:609][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.099097 seconds
+[2017.09.22-11.33.02:616][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.09.22-11.33.02:616][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.09.22-11.33.02:616][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.22-11.33.02:707][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.22-11.33.27:846][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.22-11.33.27:924][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.22-11.33.30:824][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.22-11.33.31:812][  0]SourceControl: Source control is disabled
+[2017.09.22-11.33.31:812][  0]SourceControl: Source control is disabled
+[2017.09.22-11.33.31:924][  0]SourceControl: Source control is disabled
+[2017.09.22-11.33.32:012][  0]SourceControl: Source control is disabled
+[2017.09.22-11.33.33:358][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.22-11.33.33:777][  0]LogOcInput: OculusInput pre-init called
+[2017.09.22-11.33.34:572][  0]LogEngine: Initializing Engine...
+[2017.09.22-11.33.34:643][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.22-11.33.35:826][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.22-11.33.35:826][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.22-11.33.36:221][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.22-11.33.36:337][  0]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.22-11.33.36:364][  0]LogInit: FAudioDevice initialized.
+[2017.09.22-11.33.36:545][  0]LogDerivedDataCache: Saved boot cache 0.18s 93MB C:/Users/huozi/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.22-11.33.36:559][  0]LogInit: Texture streaming: Enabled
+[2017.09.22-11.33.36:843][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.22-11.33.37:860][  0]LogInit: Transaction tracking system initialized
+[2017.09.22-11.33.38:522][  0]BlueprintLog: New page: Editor Load
+[2017.09.22-11.33.40:833][  0]LocalizationService: Localization service is disabled
+[2017.09.22-11.33.42:413][  0]LogConsoleResponse: Display: 
+[2017.09.22-11.33.45:685][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/' took 0.08s
+[2017.09.22-11.33.45:685][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.22-11.33.45:685][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.22-11.33.45:716][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.22-11.33.48:770][  0]SourceControl: Source control is disabled
+[2017.09.22-11.33.48:785][  0]Cmd: MAP LOAD FILE="../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Maps/EditMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.22-11.33.48:833][  0]LightingResults: New page: Lighting Build
+[2017.09.22-11.33.48:916][  0]MapCheck: New page: Map Check
+[2017.09.22-11.33.48:916][  0]LightingResults: New page: Lighting Build
+[2017.09.22-11.33.50:945][  0]LogAIModule: Creating AISystem for world EditMap
+[2017.09.22-11.33.51:434][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.22-11.33.51:518][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.22-11.33.51:652][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 134.243ms to complete.
+[2017.09.22-11.33.51:652][  0]LogFileHelpers: Loading map 'EditMap' took 2.878
+[2017.09.22-11.33.53:082][  0]LogCollectionManager: Loaded 0 collections in 0.001982 seconds
+[2017.09.22-11.33.53:227][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/Collections/' took 0.01s
+[2017.09.22-11.33.53:227][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Developers/huozi/Collections/' took 0.01s
+[2017.09.22-11.33.53:227][  0]LogFileCache: Scanning file cache for directory 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Collections/' took 0.01s
+[2017.09.22-11.33.53:227][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.09.22-11.33.53:256][  0]LogContentBrowser: Native class hierarchy populated in 0.0276 seconds. Added 2386 classes and 500 folders.
+[2017.09.22-11.33.53:409][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.09.22-11.33.55:055][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.09.22-11.33.55:215][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.09.22-11.33.55:576][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2017.09.22-11.33.55:576][  0]LogLoad: (Engine Initialization) Total time: 92.93 seconds
+[2017.09.22-11.33.55:576][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.22-11.33.55:599][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.09.22-11.33.55:599][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.09.22-11.33.56:089][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.09.22-11.33.56:166][  0]LogSlate: Took 0.060646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.22-11.33.56:200][  0]LogSlate: Took 0.029129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.22-11.33.56:253][  0]LogSlate: Took 0.025735 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.22-11.33.56:756][  1]LogRenderer: Reallocating scene render targets to support 940x416 Format 10 NumSamples 1 (Frame:1).
+[2017.09.22-11.33.57:157][  2]LogAssetRegistry: Asset discovery search completed in 62.9251 seconds
+[2017.09.22-11.33.57:174][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.09.22-11.33.57:174][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2017.09.22-11.39.41:100][458]LogSlate: Took 0.281962 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.22-11.39.43:545][458]LogSlate: Took 0.939200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.22-11.39.44:320][458]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 113 classes and 0 folders.
+[2017.09.22-11.39.46:246][458]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.22-11.39.46:262][458]LogSlate: Took 0.015396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.09.22-11.39.48:001][541]LogRenderer: Reallocating scene render targets to support 1208x568 Format 10 NumSamples 1 (Frame:367).
+[2017.09.22-11.39.53:290][701]LogSlate: Took 0.048428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.09.22-11.39.53:311][701]LogSlate: Took 0.016382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.09.22-11.43.19:158][821]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.22-11.43.19:347][821]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.22-11.43.19:368][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.22-11.43.19:432][821]PIE: New page: PIE session: EditMap (Sep 23, 2017, 5:43:19 AM)
+[2017.09.22-11.43.19:433][821]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EditMap
+[2017.09.22-11.43.19:444][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010736s)
+[2017.09.22-11.43.19:445][821]LogAIModule: Creating AISystem for world EditMap
+[2017.09.22-11.43.19:445][821]LogPlayLevel: PIE: World Init took: (0.001704s)
+[2017.09.22-11.43.19:448][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EditMap.EditMap to /Game/Maps/UEDPIE_0_EditMap.EditMap (0.015297s)
+[2017.09.22-11.43.19:517][821]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.22-11.43.19:534][821]LogInit: FAudioDevice initialized.
+[2017.09.22-11.43.19:665][821]LogLoad: Game class is 'MapEditorMode_C'
+[2017.09.22-11.43.19:681][821]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EditMap.EditMap up for play (max tick rate 0) at 2017.09.22-20.43.19
+[2017.09.22-11.43.19:681][821]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2017.09.22-11.43.19:682][821]LogWorld: Bringing up level for play took: 0.001254
+[2017.09.22-11.43.19:693][821]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.09.22-11.43.19:801][821]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.09.22-11.43.19:801][821]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.09.22-11.43.19:801][821]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.09.22-11.43.19:916][821]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_EditMap 1.312
+[2017.09.22-11.43.19:917][821]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.22-11.43.19:929][821]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:037][821]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.09.22-11.43.20:066][822]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:102][823]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:126][824]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:147][825]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:170][826]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:194][827]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:217][828]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:239][829]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:261][830]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:283][831]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:305][832]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:324][833]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:345][834]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:365][835]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:384][836]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:404][837]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:424][838]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:443][839]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:465][840]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:487][841]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:505][842]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:526][843]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:548][844]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:569][845]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:590][846]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:608][847]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:628][848]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:648][849]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:670][850]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:691][851]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:717][852]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:737][853]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:757][854]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:778][855]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:797][856]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:818][857]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:838][858]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:860][859]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:880][860]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:900][861]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:921][862]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:941][863]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:960][864]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.20:981][865]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:003][866]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:025][867]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:049][868]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:070][869]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:090][870]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:111][871]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:130][872]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:152][873]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:172][874]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:192][875]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:211][876]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:232][877]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:252][878]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:272][879]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:295][880]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:316][881]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:339][882]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:359][883]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:379][884]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:399][885]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:421][886]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:441][887]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:460][888]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:482][889]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:503][890]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:525][891]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:544][892]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:580][893]LogStreaming: Warning: Failed to read file '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/SaveGames/MapEditor.sav' error.
+[2017.09.22-11.43.21:580][893]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:580][893]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:580][893]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:580][893]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:580][893]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:580][893]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:580][893]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:580][893]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:580][893]LogScriptCore: Warning: Script Msg: Attempted to access index 8 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:580][893]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 12 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 13 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 14 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 16 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 17 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 18 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 19 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 20 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 21 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 22 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 23 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 24 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 25 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 26 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 27 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 28 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 29 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 30 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 31 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 32 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 33 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 34 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 35 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 36 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 37 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 38 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 39 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 40 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 41 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 42 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 43 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 44 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 45 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 46 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 47 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:581][893]LogScriptCore: Warning: Script Msg: Attempted to access index 48 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.21:582][893]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:603][894]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:625][895]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:646][896]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:669][897]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:689][898]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:712][899]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:735][900]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:757][901]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:778][902]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:800][903]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:821][904]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:842][905]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:863][906]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:884][907]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:905][908]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:927][909]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:948][910]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:970][911]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.21:992][912]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:016][913]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:039][914]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:062][915]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:083][916]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:105][917]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:129][918]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:152][919]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:175][920]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:196][921]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:219][922]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:241][923]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:263][924]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:285][925]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:307][926]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:328][927]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:352][928]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:373][929]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:393][930]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:415][931]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:436][932]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:456][933]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:478][934]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:498][935]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:521][936]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:539][937]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:559][938]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:579][939]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:598][940]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:620][941]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:640][942]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:659][943]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:678][944]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:697][945]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:726][946]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:746][947]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:768][948]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:789][949]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:811][950]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:834][951]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:858][952]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:879][953]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:900][954]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:923][955]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:944][956]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:964][957]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.22:985][958]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:007][959]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:031][960]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:053][961]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:074][962]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:094][963]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:118][964]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:138][965]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:158][966]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:177][967]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:197][968]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:218][969]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:238][970]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:260][971]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:280][972]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:302][973]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:324][974]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:343][975]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:366][976]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:385][977]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:406][978]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:426][979]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:447][980]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:468][981]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:489][982]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:510][983]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:535][984]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:556][985]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:577][986]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:598][987]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:619][988]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:642][989]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:662][990]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:682][991]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:704][992]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:726][993]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:746][994]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:767][995]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:789][996]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:809][997]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:832][998]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:852][999]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:873][  0]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:896][  1]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:916][  2]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:937][  3]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:957][  4]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:978][  5]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.23:998][  6]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:019][  7]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:042][  8]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:063][  9]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:083][ 10]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:106][ 11]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:126][ 12]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:146][ 13]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:167][ 14]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:189][ 15]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:211][ 16]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:233][ 17]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:255][ 18]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:277][ 19]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:296][ 20]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:317][ 21]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:340][ 22]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:358][ 23]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:378][ 24]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:398][ 25]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:418][ 26]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:438][ 27]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:459][ 28]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:478][ 29]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:500][ 30]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:523][ 31]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:545][ 32]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:566][ 33]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:588][ 34]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:608][ 35]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:630][ 36]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:652][ 37]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:674][ 38]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:694][ 39]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:716][ 40]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:741][ 41]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:763][ 42]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:785][ 43]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:807][ 44]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:828][ 45]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:850][ 46]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:870][ 47]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:890][ 48]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:911][ 49]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:931][ 50]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:951][ 51]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:974][ 52]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.24:995][ 53]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:016][ 54]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:041][ 55]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:063][ 56]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:083][ 57]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:104][ 58]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:126][ 59]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:146][ 60]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:169][ 61]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:192][ 62]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:212][ 63]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:233][ 64]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:253][ 65]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:275][ 66]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:297][ 67]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:318][ 68]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:342][ 69]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:363][ 70]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:385][ 71]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:406][ 72]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:427][ 73]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:447][ 74]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:468][ 75]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:488][ 76]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:509][ 77]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:532][ 78]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:553][ 79]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:573][ 80]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:594][ 81]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:614][ 82]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:636][ 83]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:657][ 84]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:677][ 85]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:698][ 86]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:724][ 87]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:744][ 88]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:764][ 89]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:783][ 90]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:803][ 91]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:825][ 92]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:845][ 93]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:867][ 94]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:888][ 95]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:908][ 96]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:929][ 97]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:950][ 98]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:970][ 99]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.25:990][100]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:011][101]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:035][102]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:056][103]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:076][104]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:095][105]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:118][106]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:142][107]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:163][108]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:185][109]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:205][110]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:227][111]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:247][112]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:268][113]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:289][114]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:309][115]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:331][116]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:352][117]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:373][118]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:392][119]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:412][120]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:431][121]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:455][122]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:479][123]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:502][124]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:523][125]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:542][126]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:560][127]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:579][128]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:600][129]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:620][130]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:641][131]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:663][132]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:685][133]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:710][134]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:731][135]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:752][136]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:773][137]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:793][138]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:814][139]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:834][140]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:854][141]LogStreaming: Warning: Failed to read file '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/SaveGames/MapEditor.sav' error.
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 8 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 12 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 13 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 14 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 16 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 17 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 18 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 19 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 20 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 21 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 22 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 23 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 24 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 25 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 26 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 27 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 28 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 29 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 30 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 31 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 32 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 33 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 34 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 35 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 36 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:854][141]LogScriptCore: Warning: Script Msg: Attempted to access index 37 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:855][141]LogScriptCore: Warning: Script Msg: Attempted to access index 38 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:855][141]LogScriptCore: Warning: Script Msg: Attempted to access index 39 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:855][141]LogScriptCore: Warning: Script Msg: Attempted to access index 40 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:855][141]LogScriptCore: Warning: Script Msg: Attempted to access index 41 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:855][141]LogScriptCore: Warning: Script Msg: Attempted to access index 42 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:855][141]LogScriptCore: Warning: Script Msg: Attempted to access index 43 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:855][141]LogScriptCore: Warning: Script Msg: Attempted to access index 44 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:855][141]LogScriptCore: Warning: Script Msg: Attempted to access index 45 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:855][141]LogScriptCore: Warning: Script Msg: Attempted to access index 46 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:855][141]LogScriptCore: Warning: Script Msg: Attempted to access index 47 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:855][141]LogScriptCore: Warning: Script Msg: Attempted to access index 48 from array 'isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF' of length 0 in '/Game/UI/Building.Building'!
+[2017.09.22-11.43.26:856][141]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:876][142]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:897][143]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:920][144]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:941][145]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:961][146]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.26:981][147]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.27:006][148]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.27:026][149]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.27:050][150]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.27:074][151]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.27:098][152]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.27:119][153]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.27:140][154]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.27:161][155]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.27:183][156]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.27:206][157]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.27:227][158]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.27:248][159]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.27:270][160]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.27:292][161]LogBlueprintUserMessages: [EditMap_C_2] 9  1
+[2017.09.22-11.43.27:318][162]LogBlueprintUserMessages: [EditMap_C_2] 9  1
+[2017.09.22-11.43.27:340][163]LogBlueprintUserMessages: [EditMap_C_2] 9  1
+[2017.09.22-11.43.27:360][164]LogBlueprintUserMessages: [EditMap_C_2] 9  1
+[2017.09.22-11.43.27:383][165]LogBlueprintUserMessages: [EditMap_C_2] 10  1
+[2017.09.22-11.43.27:406][166]LogBlueprintUserMessages: [EditMap_C_2] 10  1
+[2017.09.22-11.43.27:428][167]LogBlueprintUserMessages: [EditMap_C_2] 10  1
+[2017.09.22-11.43.27:449][168]LogBlueprintUserMessages: [EditMap_C_2] 10  1
+[2017.09.22-11.43.27:469][169]LogBlueprintUserMessages: [EditMap_C_2] 10  1
+[2017.09.22-11.43.27:488][170]LogBlueprintUserMessages: [EditMap_C_2] 10  1
+[2017.09.22-11.43.27:508][171]LogBlueprintUserMessages: [EditMap_C_2] 10  1
+[2017.09.22-11.43.27:527][172]LogBlueprintUserMessages: [EditMap_C_2] 10  1
+[2017.09.22-11.43.27:547][173]LogBlueprintUserMessages: [EditMap_C_2] 10  1
+[2017.09.22-11.43.27:568][174]LogBlueprintUserMessages: [EditMap_C_2] 10  1
+[2017.09.22-11.43.27:590][175]LogBlueprintUserMessages: [EditMap_C_2] 10  1
+[2017.09.22-11.43.27:612][176]LogBlueprintUserMessages: [EditMap_C_2] 9  1
+[2017.09.22-11.43.27:634][177]LogBlueprintUserMessages: [EditMap_C_2] 9  2
+[2017.09.22-11.43.27:657][178]LogBlueprintUserMessages: [EditMap_C_2] 8  5
+[2017.09.22-11.43.27:680][179]LogBlueprintUserMessages: [EditMap_C_2] 8  9
+[2017.09.22-11.43.27:704][180]LogBlueprintUserMessages: [EditMap_C_2] 8  12
+[2017.09.22-11.43.27:734][181]LogBlueprintUserMessages: [EditMap_C_2] 8  13
+[2017.09.22-11.43.27:755][182]LogBlueprintUserMessages: [EditMap_C_2] 7  13
+[2017.09.22-11.43.27:778][183]LogBlueprintUserMessages: [EditMap_C_2] 7  12
+[2017.09.22-11.43.27:799][184]LogBlueprintUserMessages: [EditMap_C_2] 7  13
+[2017.09.22-11.43.27:821][185]LogBlueprintUserMessages: [EditMap_C_2] 7  13
+[2017.09.22-11.43.27:842][186]LogBlueprintUserMessages: [EditMap_C_2] 7  13
+[2017.09.22-11.43.27:862][187]LogBlueprintUserMessages: [EditMap_C_2] 7  13
+[2017.09.22-11.43.27:882][188]LogBlueprintUserMessages: [EditMap_C_2] 7  13
+[2017.09.22-11.43.27:903][189]LogBlueprintUserMessages: [EditMap_C_2] 7  13
+[2017.09.22-11.43.27:924][190]LogBlueprintUserMessages: [EditMap_C_2] 7  13
+[2017.09.22-11.43.27:943][191]LogBlueprintUserMessages: [EditMap_C_2] 7  13
+[2017.09.22-11.43.27:963][192]LogBlueprintUserMessages: [EditMap_C_2] 7  14
+[2017.09.22-11.43.27:983][193]LogBlueprintUserMessages: [EditMap_C_2] 7  14
+[2017.09.22-11.43.28:008][194]LogBlueprintUserMessages: [EditMap_C_2] 7  14
+[2017.09.22-11.43.28:031][195]LogBlueprintUserMessages: [EditMap_C_2] 7  14
+[2017.09.22-11.43.28:053][196]LogBlueprintUserMessages: [EditMap_C_2] 7  14
+[2017.09.22-11.43.28:075][197]LogBlueprintUserMessages: [EditMap_C_2] 7  14
+[2017.09.22-11.43.28:097][198]LogBlueprintUserMessages: [EditMap_C_2] 7  13
+[2017.09.22-11.43.28:118][199]LogBlueprintUserMessages: [EditMap_C_2] 6  11
+[2017.09.22-11.43.28:141][200]LogBlueprintUserMessages: [EditMap_C_2] 6  9
+[2017.09.22-11.43.28:162][201]LogBlueprintUserMessages: [EditMap_C_2] 6  6
+[2017.09.22-11.43.28:185][202]LogBlueprintUserMessages: [EditMap_C_2] 6  3
+[2017.09.22-11.43.28:207][203]LogBlueprintUserMessages: [EditMap_C_2] 6  1
+[2017.09.22-11.43.28:228][204]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:249][205]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:271][206]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:293][207]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:315][208]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:335][209]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:355][210]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:375][211]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:395][212]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:418][213]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:440][214]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:460][215]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:482][216]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:504][217]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:523][218]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:544][219]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:567][220]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:586][221]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:609][222]LogScript: Warning: Attempted to access index 22 from array isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF of length 0!
+	MapEditorUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MapEditorUI_C_3
+	Function /Game/UI/MapEditorUI.MapEditorUI_C:tileSetbuttonClick:0050
+[2017.09.22-11.43.28:624][222]PIE: Error: Blueprint Runtime Error: Attempted to access index 22 from array isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF of length 0! from function: 'tileSetbuttonClick' from node: Branch in graph: tileSetbuttonClick in object: MapEditorUI with description: Attempted to access index 22 from array isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF of length 0!
+[2017.09.22-11.43.28:639][222]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF [22/0]!
+[2017.09.22-11.43.28:640][222]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:659][223]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:680][224]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.28:701][225]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.28:727][226]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.28:752][227]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.28:774][228]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.28:793][229]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.28:814][230]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.28:835][231]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.28:855][232]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.28:875][233]LogScript: Warning: Attempted to access index 24 from array isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF of length 0!
+	MapEditorUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MapEditorUI_C_3
+	Function /Game/UI/MapEditorUI.MapEditorUI_C:tileSetbuttonClick:0050
+[2017.09.22-11.43.28:875][233]PIE: Error: Blueprint Runtime Error: Attempted to access index 24 from array isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF of length 0! from function: 'tileSetbuttonClick' from node: Branch in graph: tileSetbuttonClick in object: MapEditorUI with description: Attempted to access index 24 from array isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF of length 0!
+[2017.09.22-11.43.28:875][233]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF [24/0]!
+[2017.09.22-11.43.28:876][233]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.28:895][234]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.28:917][235]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.28:938][236]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.28:962][237]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.28:983][238]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.29:006][239]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.29:026][240]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.29:049][241]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.29:070][242]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.29:090][243]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.29:110][244]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.29:133][245]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.29:154][246]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.29:174][247]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.29:195][248]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.29:216][249]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.29:237][250]LogBlueprintUserMessages: [EditMap_C_2] 8  1
+[2017.09.22-11.43.29:258][251]LogBlueprintUserMessages: [EditMap_C_2] 9  1
+[2017.09.22-11.43.29:279][252]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.29:301][253]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.29:322][254]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.29:344][255]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.29:366][256]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.29:386][257]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.29:407][258]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.29:428][259]LogScript: Warning: Attempted to access index 16 from array isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF of length 0!
+	MapEditorUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MapEditorUI_C_3
+	Function /Game/UI/MapEditorUI.MapEditorUI_C:tileSetbuttonClick:0050
+[2017.09.22-11.43.29:428][259]PIE: Error: Blueprint Runtime Error: Attempted to access index 16 from array isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF of length 0! from function: 'tileSetbuttonClick' from node: Branch in graph: tileSetbuttonClick in object: MapEditorUI with description: Attempted to access index 16 from array isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF of length 0!
+[2017.09.22-11.43.29:428][259]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array isUsingTile_11_864CD75E49599164DB8CD9B2A2101DCF [16/0]!
+[2017.09.22-11.43.29:429][259]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.29:449][260]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.29:469][261]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.29:490][262]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.29:512][263]LogBlueprintUserMessages: [EditMap_C_2] 1  1
+[2017.09.22-11.43.29:535][264]LogBlueprintUserMessages: [EditMap_C_2] 9  1
+[2017.09.22-11.43.29:555][265]LogBlueprintUserMessages: [EditMap_C_2] 9  1
+[2017.09.22-11.43.29:576][266]LogBlueprintUserMessages: [EditMap_C_2] 9  1
+[2017.09.22-11.43.29:595][267]LogBlueprintUserMessages: [EditMap_C_2] 9  1
+[2017.09.22-11.43.29:617][268]LogBlueprintUserMessages: [EditMap_C_2] 9  1
+[2017.09.22-11.43.29:619][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.22-11.43.29:686][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/EditMap.EditMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap' with GeneratedClass '/Game/Maps/EditMap.EditMap_C' with ClassGeneratedBy '/Game/Maps/EditMap.EditMap:PersistentLevel.EditMap'
+[2017.09.22-11.48.28:607][183]BlueprintLog: New page: Compile MapEditorUI
+[2017.09.22-11.48.29:256][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MapEditorUI" FILE="../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset" SILENT=true
+[2017.09.22-11.48.29:729][207]LogSavePackage: Save=437.49ms
+[2017.09.22-11.48.29:729][207]LogSavePackage: Moving '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUI07B611F94384656D258F3FAA34B0B6D4.tmp' to '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset'
+[2017.09.22-11.48.29:732][207]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset
+[2017.09.22-11.48.47:664][409]BlueprintLog: New page: Compile MapEditorUI
+[2017.09.22-11.48.48:358][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MapEditorUI" FILE="../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset" SILENT=true
+[2017.09.22-11.48.48:827][441]LogSavePackage: Save=442.74ms
+[2017.09.22-11.48.48:828][441]LogSavePackage: Moving '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/MapEditorUI7F9965324C16AD15A45B559896449F8B.tmp' to '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset'
+[2017.09.22-11.48.48:831][441]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/UI/MapEditorUI.uasset
+[2017.09.22-11.49.25:182][777]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.09.22-11.49.25:182][777]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.09.22-11.50.29:408][ 18]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/EditMap' took 0.475
+[2017.09.22-11.50.29:410][ 18]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/BuildTileState] ([1] browsable assets)...
+[2017.09.22-11.50.29:410][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BuildTileState]
+[2017.09.22-11.50.30:159][ 18]LogSavePackage: Save=745.87ms
+[2017.09.22-11.50.30:159][ 18]LogSavePackage: Moving '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/BuildTileState_Auto1A54A108C4FA9DE10F7C7EABBA6909D0A.tmp' to '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/BuildTileState_Auto1.uasset'
+[2017.09.22-11.50.30:160][ 18]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/Autosaves/Game/UI/BuildTileState_Auto1.uasset
+[2017.09.22-11.50.30:160][ 18]LogFileHelpers: Auto-saving content packages took 0.751
+[2017.09.22-11.50.48:193][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BuildTileState" FILE="../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/UI/BuildTileState.uasset" SILENT=true
+[2017.09.22-11.50.48:200][ 37]LogSavePackage: Save=4.57ms
+[2017.09.22-11.50.48:200][ 37]LogSavePackage: Moving '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/BuildTileState6740842D46C5EA239FAAD1A21CEE13DA.tmp' to '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/UI/BuildTileState.uasset'
+[2017.09.22-11.50.48:203][ 37]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/UI/BuildTileState.uasset
+[2017.09.22-12.08.32:551][669]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.09.22-12.08.32:574][669]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2017.09.22-16.37.28:127][631]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.09.22-16.37.28:128][631]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2017.09.22-16.37.28:852][676]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2017.09.22-16.37.29:101][677]Cmd: QUIT_EDITOR
+[2017.09.22-16.37.30:142][677]LogExit: Preparing to exit.
+[2017.09.22-16.37.31:153][677]LogDirectoryWatcher: A directory notification for 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/' was aborted.
+[2017.09.22-16.37.31:290][677]LogExit: Editor shut down
+[2017.09.22-16.37.31:319][677]LogExit: Transaction tracking system shut down
+[2017.09.22-16.37.31:656][677]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.09.22-16.37.31:656][677]LogDirectoryWatcher: A directory notification for '../../../../../../Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/' was aborted.
+[2017.09.22-16.37.31:656][677]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.09.22-16.37.31:656][677]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.09.22-16.37.31:656][677]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.09.22-16.37.31:849][677]LogExit: Object subsystem successfully closed.
+[2017.09.22-16.37.31:879][677]LogD3D11RHI: Shutdown
+[2017.09.22-16.37.31:879][677]LogD3D11RHI: CleanupD3DDevice
+[2017.09.22-16.37.31:966][677]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.09.22-16.37.31:987][677]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (538)
+[2017.09.22-16.37.31:987][677]LogModuleManager: Shutting down and abandoning module SequencerWidgets (536)
+[2017.09.22-16.37.31:987][677]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2017.09.22-16.37.31:987][677]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2017.09.22-16.37.31:987][677]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.09.22-16.37.31:988][677]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.09.22-16.37.31:988][677]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.09.22-16.37.31:988][677]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.09.22-16.37.31:993][677]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.09.22-16.37.31:993][677]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.09.22-16.37.31:993][677]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.09.22-16.37.31:993][677]LogDirectoryWatcher: A directory notification for 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Collections/' was aborted.
+[2017.09.22-16.37.31:994][677]LogDirectoryWatcher: A directory notification for 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Content/Developers/huozi/Collections/' was aborted.
+[2017.09.22-16.37.31:994][677]LogDirectoryWatcher: A directory notification for 'C:/Users/huozi/Documents/Unreal Projects/XcomMapEditor/Saved/Collections/' was aborted.
+[2017.09.22-16.37.31:994][677]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.09.22-16.37.31:994][677]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.09.22-16.37.31:994][677]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.09.22-16.37.31:995][677]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.09.22-16.37.31:996][677]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.09.22-16.37.31:996][677]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.09.22-16.37.31:996][677]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.09.22-16.37.31:996][677]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.09.22-16.37.31:996][677]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.09.22-16.37.31:996][677]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.09.22-16.37.31:996][677]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.09.22-16.37.31:996][677]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.09.22-16.37.31:996][677]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.09.22-16.37.31:996][677]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.09.22-16.37.31:996][677]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.09.22-16.37.31:996][677]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.09.22-16.37.31:996][677]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.09.22-16.37.31:996][677]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.09.22-16.37.31:996][677]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.09.22-16.37.31:996][677]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.09.22-16.37.32:604][677]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.09.22-16.37.32:604][677]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.09.22-16.37.32:604][677]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.09.22-16.37.32:604][677]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.09.22-16.37.32:604][677]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.09.22-16.37.32:604][677]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.09.22-16.37.32:604][677]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.09.22-16.37.32:605][677]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.09.22-16.37.32:605][677]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.09.22-16.37.32:605][677]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.09.22-16.37.32:605][677]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.09.22-16.37.32:605][677]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.09.22-16.37.32:605][677]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.09.22-16.37.32:605][677]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.09.22-16.37.32:605][677]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.09.22-16.37.32:606][677]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.09.22-16.37.32:606][677]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.09.22-16.37.32:607][677]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.09.22-16.37.32:607][677]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.09.22-16.37.32:608][677]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.09.22-16.37.32:608][677]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.09.22-16.37.32:608][677]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.09.22-16.37.32:608][677]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.09.22-16.37.32:608][677]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.09.22-16.37.32:662][677]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.09.22-16.37.32:662][677]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.09.22-16.37.32:662][677]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.09.22-16.37.32:662][677]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.09.22-16.37.32:663][677]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.09.22-16.37.32:663][677]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.09.22-16.37.32:664][677]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.09.22-16.37.32:664][677]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.09.22-16.37.32:664][677]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.09.22-16.37.32:664][677]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.09.22-16.37.32:684][677]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.09.22-16.37.32:684][677]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.09.22-16.37.32:684][677]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.09.22-16.37.32:684][677]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.09.22-16.37.32:684][677]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.09.22-16.37.32:684][677]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.09.22-16.37.32:684][677]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.09.22-16.37.32:691][677]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.09.22-16.37.32:691][677]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.09.22-16.37.32:691][677]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.09.22-16.37.32:691][677]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.09.22-16.37.32:691][677]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.09.22-16.37.32:691][677]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.09.22-16.37.32:691][677]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.09.22-16.37.32:691][677]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.09.22-16.37.32:691][677]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.09.22-16.37.32:691][677]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.09.22-16.37.32:691][677]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.09.22-16.37.32:691][677]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.09.22-16.37.32:692][677]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.09.22-16.37.32:692][677]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.09.22-16.37.32:884][677]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.09.22-16.37.32:885][677]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.09.22-16.37.32:886][677]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.09.22-16.37.32:886][677]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.09.22-16.37.32:886][677]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.09.22-16.37.32:886][677]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.09.22-16.37.32:886][677]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.09.22-16.37.32:886][677]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.09.22-16.37.32:886][677]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.09.22-16.37.32:886][677]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.09.22-16.37.32:886][677]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.09.22-16.37.32:886][677]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.09.22-16.37.32:886][677]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.09.22-16.37.32:886][677]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.09.22-16.37.32:888][677]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.09.22-16.37.32:888][677]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.09.22-16.37.32:888][677]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.09.22-16.37.32:889][677]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.09.22-16.37.32:889][677]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.09.22-16.37.32:889][677]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.09.22-16.37.32:889][677]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.09.22-16.37.32:889][677]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.09.22-16.37.32:889][677]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.09.22-16.37.32:889][677]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.09.22-16.37.32:889][677]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.09.22-16.37.32:990][677]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.09.22-16.37.33:090][677]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.09.22-16.37.33:090][677]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.09.22-16.37.33:090][677]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.09.22-16.37.33:090][677]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.09.22-16.37.33:090][677]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.09.22-16.37.33:090][677]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.09.22-16.37.33:094][677]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.09.22-16.37.33:094][677]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.09.22-16.37.33:094][677]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.09.22-16.37.33:094][677]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.09.22-16.37.33:094][677]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.09.22-16.37.33:094][677]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.09.22-16.37.33:094][677]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.09.22-16.37.33:094][677]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.09.22-16.37.33:094][677]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.09.22-16.37.33:094][677]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.09.22-16.37.33:094][677]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.09.22-16.37.33:094][677]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.09.22-16.37.33:094][677]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.09.22-16.37.33:094][677]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.09.22-16.37.33:094][677]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.09.22-16.37.33:094][677]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.09.22-16.37.33:094][677]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.09.22-16.37.33:095][677]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.09.22-16.37.33:095][677]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.09.22-16.37.33:095][677]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.09.22-16.37.33:095][677]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.09.22-16.37.33:095][677]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.09.22-16.37.33:095][677]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.09.22-16.37.33:095][677]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.09.22-16.37.33:100][677]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.09.22-16.37.33:100][677]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.09.22-16.37.33:100][677]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.09.22-16.37.33:100][677]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.09.22-16.37.33:101][677]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.09.22-16.37.33:101][677]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.09.22-16.37.33:101][677]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.09.22-16.37.33:102][677]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.09.22-16.37.33:102][677]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.09.22-16.37.33:103][677]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.09.22-16.37.33:103][677]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.09.22-16.37.33:103][677]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.09.22-16.37.33:103][677]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.09.22-16.37.33:103][677]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.09.22-16.37.33:103][677]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.09.22-16.37.33:103][677]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.09.22-16.37.33:112][677]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.09.22-16.37.33:173][677]LogDerivedDataCache: Shutdown
+[2017.09.22-16.37.33:173][677]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.09.22-16.37.33:174][677]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.09.22-16.37.33:175][677]LogOnline: Display: Unloading online subsystem: NULL
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.09.22-16.37.33:175][677]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.09.22-16.37.33:175][677]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.09.22-16.37.33:175][677]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0DF3BA2E-4E1F-7307-8BAB-04B4E4893032%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=a483da2d4fb89f4a2ddae281c3e89937%7C1475575a18e14080ac0ee1b5b0c163b7%7Cd7277f1c-046d-4f6a-97e4-5e4f1c368f9a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.09.22-16.37.33:193][677]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.09.22-16.37.33:195][677]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.09.22-16.37.33:195][677]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.09.22-16.37.33:195][677]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.09.22-16.37.33:195][677]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.09.22-16.37.33:196][677]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.09.22-16.37.33:196][677]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.09.22-16.37.33:196][677]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.09.22-16.37.33:216][677]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.09.22-16.37.33:216][677]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.09.22-16.37.33:216][677]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.09.22-16.37.33:216][677]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.09.22-16.37.33:216][677]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.09.22-16.37.33:216][677]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.09.22-16.37.33:216][677]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.09.22-16.37.33:216][677]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.09.22-16.37.33:216][677]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.09.22-16.37.33:216][677]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.09.22-16.37.33:216][677]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.09.22-16.37.33:221][677]LogExit: Exiting.
+[2017.09.22-16.37.33:250][677]Log file closed, 09/23/17 01:37:33
