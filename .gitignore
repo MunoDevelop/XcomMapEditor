@@ -304,5 +304,6 @@ __pycache__/
 #just ignore
 *.db
 *.pdb
+*.pack
 # OpenCover UI analysis results
 OpenCover/
